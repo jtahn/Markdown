@@ -1,3 +1,4 @@
+"""iterative"""
 def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
     if image[sr][sc] == color:          # avoid infinite loop, if startCoord is already newColor
         return image

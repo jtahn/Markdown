@@ -1,3 +1,4 @@
+"""binary search"""
 def search(self, nums: List[int], target: int) -> int:
     i = 0
     j = len(nums)-1

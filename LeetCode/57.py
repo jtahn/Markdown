@@ -1,3 +1,4 @@
+"""direct"""
 def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
     i = 0               # intervals[:i] will be strictly left oldIntervals
     j = len(intervals)  # intervals[j:] will be strictly right oldIntervals

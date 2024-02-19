@@ -1,4 +1,5 @@
 
+"""stacks"""
 def isValid(self, s: str) -> bool:
     brackets = {'(':')', '{':'}', '[':']'}
     stack = []

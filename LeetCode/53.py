@@ -1,3 +1,4 @@
+"""dynamic programming"""
 def maxSubArray(self, nums: List[int]) -> int:
     max_right_sum_seen = -math.inf
     max_sum_seen = -math.inf

@@ -1,3 +1,4 @@
+"""dynamic programming"""
 def maxProfit(self, prices: List[int]) -> int:
     max_profit_seen = 0 
     lowest_price_seen = prices[0]

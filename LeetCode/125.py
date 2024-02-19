@@ -1,3 +1,12 @@
+"""brute force"""
+def isPalindrome(self, s: str) -> bool:
+    s = filter(str.isalnum, s)
+    s = ''.join(s)
+    s = s.lower()
+    return s == s[::-1]
+
+
+"""pointers"""
 def isPalindrome(self, s: str) -> bool:
     i = 0
     j = len(s) - 1
