@@ -1,0 +1,13 @@
+/* these are for just mono, but they seem to make anki occassionally crash...some issues with the extension or styling i guess... */
+
+.just-mono {
+	background-color: yellow;
+}
+
+.nightMode .just-mono {
+	background-color: green;
+}
+
+.nightMode .highlight {
+  color: black;
+}

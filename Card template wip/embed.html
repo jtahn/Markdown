@@ -1,0 +1,53 @@
+<!-- figure out code that emulates what emgithub does, but that i can put directly into the anki html for a card -->
+
+
+<pre id="code"></pre>
+<iframe id="github-iframe" src="" style="
+ border:2px solid black;
+ padding: 25px;
+ width: 800px;
+ height: 350px;"></iframe>
+<script>
+    fetch('https://api.github.com/repos/jtahn/Anki/contents/LeetCode/1.py')
+        .then(function(response) {
+            return response.json();
+        }).then(function(data) {
+            var iframe = document.getElementById('code');
+            iframe.textContent = 'data:text/html;base64,' + encodeURIComponent(data['content']);
+        });
+</script>
+
+
+
+<!--
+
+<embed src="https://gist.github.com/jtahn/5eb67a6b0f66426b6f41fbf9c9992059"
+style="width:1200px; height: 650px;">
+
+
+<iframe 
+src="https://gist.github.com/jtahn/5eb67a6b0f66426b6f41fbf9c9992059"
+style="
+ border:2px solid black;
+ padding: 25px;
+ width: 800px;
+ height: 350px;">
+
+
+
+-->
+
+<!--
+https://en.wikipedia.org/wiki/List_of_trigonometric_identities
+https://raw.githubusercontent.com/jtahn/Anki/main/LeetCode/1.py
+https://github.com/jtahn/Anki/raw/main/LeetCode/1.py
+https://github.com/jtahn/Anki/blob/main/LeetCode/1.py
+-->
+
+<!--
+https://github.com/jtahn/Anki/blob/main/LeetCode/{{number}}.py
+-->
+
+<!--
+https://raw.githubusercontent.com/jtahn/Anki/main/LeetCode/{{number}}.py
+-->
