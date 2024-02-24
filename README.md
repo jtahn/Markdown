@@ -1,3 +1,10 @@
+# todo
+- 53
+- 238,36,271,128,167,15,11,42,
+- move a few more from anki into obsidian
+- then delete the description and solution fields on anki cards
+
+
 # why this setup
 - embedded markdown files
 	- very easy to edit in obsidian. in particular:
@@ -35,7 +42,11 @@
 	- idk how to even make cards for this: bc leetcode requires explaining everything, so i kind of do want everything
 	- i'm trusting the inductive process
 	- i quit after trying traditional recall; it's just way too much effort; vs reading is so easy, i find this very funny and easy to do consistently
-
+- basically
+	- anki is best bc it will auto schedule/shuffle stuff for me, and i can control it with a remote aka i can just lounge back and click away
+		- it's true that there are some pretty good sources for info (some of the posters in leetcode forums; neetcode vids); but thing is, they don't cover every problem that i want to cover, and also it'd be really annoying to have to scroll around solutions and find a good one every time; it's far more convenient to them in a file that i can revise/update very easily
+			- this is where obsidian + vscode come in, and then having a way to embed github files into my anki cards
+	- aka this makes both the reviewing and revising process as painless/simple/headache free as possible
 
 
 
