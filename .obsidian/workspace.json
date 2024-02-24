@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "df65c2a69cca363e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/md/347.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "40e80b4ee0a6efd0",
             "type": "leaf",
             "state": {
@@ -155,9 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40e80b4ee0a6efd0",
+  "active": "df65c2a69cca363e",
   "lastOpenFiles": [
-    "Pasted image 20240224003540.png",
+    "settings i changed.md",
+    "!assets/attachments/Pasted image 20240224003540.png",
+    "!assets/attachments",
+    "!assets",
+    "!assets/attachments/Pasted image 20240224004123.png",
+    "!assets/attachments/Pasted image 20240224004117.png",
     "LeetCode/md/347.md",
     "LeetCode/md"
   ]
