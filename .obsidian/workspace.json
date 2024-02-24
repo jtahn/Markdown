@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/md/347.md",
+                "file": "settings i changed.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/md/347.md",
+                "file": "settings i changed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/md/347.md",
+                "file": "settings i changed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/md/347.md"
+                "file": "settings i changed.md"
               }
             }
           }
@@ -169,13 +169,14 @@
   },
   "active": "df65c2a69cca363e",
   "lastOpenFiles": [
+    "LeetCode/md/347.md",
     "settings i changed.md",
+    "!assets/attachments/Pasted image 20240224004445.png",
     "!assets/attachments/Pasted image 20240224003540.png",
     "!assets/attachments",
     "!assets",
     "!assets/attachments/Pasted image 20240224004123.png",
     "!assets/attachments/Pasted image 20240224004117.png",
-    "LeetCode/md/347.md",
     "LeetCode/md"
   ]
 }
