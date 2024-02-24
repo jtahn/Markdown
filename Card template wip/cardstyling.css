@@ -11,3 +11,16 @@
 .nightMode .highlight {
   color: black;
 }
+
+
+
+
+/* other ways to modify images */
+
+
+img {
+	min-width: 100%;
+	max-width: 100%;
+	max-width: none;
+	max-height: none;
+}
