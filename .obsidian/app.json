@@ -2,5 +2,6 @@
   "attachmentFolderPath": "!assets/attachments",
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }

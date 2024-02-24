@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd0ad4cf2817cbf",
+        "id": "4a89c32aff6b3fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "760a4c57ab98fdaa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "df65c2a69cca363e",
+            "id": "489628e4e1a78c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "settings i changed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e80b4ee0a6efd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/md/347.md",
+                "file": "LeetCode/md/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "settings i changed.md",
+                "file": "LeetCode/md/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "settings i changed.md",
+                "file": "LeetCode/md/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "settings i changed.md"
+                "file": "LeetCode/md/1.md"
               }
             }
           }
@@ -167,16 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df65c2a69cca363e",
+  "active": "30ea3e619e5c4c61",
   "lastOpenFiles": [
-    "LeetCode/md/347.md",
-    "settings i changed.md",
+    "LeetCode/md/15.md",
+    "LeetCode/md/36.md",
+    "LeetCode/md/42.md",
+    "LeetCode/md/49.md",
+    "LeetCode/md/21.md",
+    "LeetCode/md/1.md",
+    "LeetCode/md/3.md",
+    "LeetCode/py/973.py",
+    "LeetCode/py/733.py",
+    "LeetCode/py/704.py",
+    "LeetCode/py/542.py",
+    "LeetCode/py/383.py",
+    "LeetCode/py/347.py",
+    "LeetCode/py/278.py",
+    "LeetCode/py/271.py",
+    "LeetCode/py/242.py",
+    "LeetCode/py/238.py",
+    "LeetCode/md/121.md",
+    "LeetCode/md/125.md",
+    "LeetCode/md/128.md",
+    "LeetCode/md/141.md",
+    "LeetCode/md/167.md",
+    "LeetCode/md/217.md",
+    "LeetCode/md/226.md",
+    "LeetCode/md/232.md",
+    "LeetCode/md/235.md",
+    "LeetCode/md/238.md",
+    "LeetCode/md/242.md",
+    "LeetCode/md/271.md",
+    "LeetCode/md/278.md",
+    "LeetCode/md/347 1.md",
+    "LeetCode/md/383.md",
+    "LeetCode/md/542.md",
+    "LeetCode/md/704.md",
+    "LeetCode/md/733.md",
+    "LeetCode/md/973.md",
+    "!assets/attachments/Pasted image 20240224005640.png",
     "!assets/attachments/Pasted image 20240224004445.png",
     "!assets/attachments/Pasted image 20240224003540.png",
-    "!assets/attachments",
-    "!assets",
     "!assets/attachments/Pasted image 20240224004123.png",
-    "!assets/attachments/Pasted image 20240224004117.png",
-    "LeetCode/md"
+    "!assets/attachments/Pasted image 20240224004117.png"
   ]
 }
