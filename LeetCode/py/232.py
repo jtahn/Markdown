@@ -1,8 +1,8 @@
 class MyQueue:
     
     def __init__(self):
-        self.append_stack = []
-        self.inverted_stack = []
+        self.append_stack = []          # input
+        self.inverted_stack = []        # output
 
     def push(self, x: int) -> None:
         self.append_stack.append(x)
