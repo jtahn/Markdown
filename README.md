@@ -7,6 +7,44 @@
 
 # references
 - most stuff here isn't original
+- explained solutions
+	- https://leetcodethehardway.com/
+	- https://algo.monster/liteproblems/271
+		- replace 271 with whatever number the problem is
+	- leetcode forum users
+		- https://leetcode.com/archit91/
+		- https://leetcode.com/its_vishal_7575/
+	- have interesting perspectives
+		- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
+		- https://leetcode.com/stefanpochmann/
+	- youtube
+		- neetcode
+		- https://www.youtube.com/@cheatcodeninja/videos
+	- chinese
+		- https://github.com/topics/leetcode-solutions
+		- https://github.com/grandyang/leetcode
+		- 1point3acres leetcode (need a mandarin translator)
+- code
+	- neetcode github
+	- https://walkccc.me/LeetCode/
+- general interview tips
+	- https://interviewguide.dev/
+	- https://www.techinterviewhandbook.org/
+- to look up premium leetcode problem descriptions
+	- https://www.lintcode.com/problem
+	- https://leetcode.ca/search/
+- more lists of problems
+	- https://projecteuler.net/archives
+	- teamblind
+		- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+		- https://www.teamblind.com/post/Looking-for-a-good-follow-up-to-Blind-Curated-List-of-Top-75-Leetcode-Questions-nbV7TTvS
+- 'theory'
+	- CLRS
+	- skiena
+	- https://medium.com/leetcode-patterns
+	- 
+
+
 
 # why this setup
 - embedded markdown files
@@ -16,6 +54,7 @@
 		- headings
 		- horizontal lines
 	- versus in anki, this stuff is either really annoying bc wonky shortcuts (nested lists, mathjax) or impossible without add-ons (i'm not a fan of add-ons bc they seem to break constantly bc updates, and then take awhile to get fixed...and atm no time to coding/maintain my own)
+		- to see the nested lists and indenting shortcuts, hover over the text-adjust menu; then the indenting adjustments menu will show up, and hover over that
 	- can have (multiple) people polishing the files, but it doesn't affect other people's review schedule
 		- polishing is fine, bc main content in the file should be pretty obvious from the beginning and will be unaffected
 			- bc these are mostly all just 'reading' cards; not recall cards (which might need to be changed significantly as i realize better ways to break things up, or figure out that certain cards are unecessary)
@@ -55,6 +94,9 @@
 
 # resources
 - https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
+- https://help.obsidian.md/Editing+and+formatting/Embed+web+pages
+- https://obsidian.md/account
+	- dang why didn't i lock in early bird discount for Publish
 
 
 
@@ -71,3 +113,47 @@
 	- when i moved an attachment file, it asked me if i wanted the app to always update the links, and i said yes
 	- when i tried to delete a file, i checked dont remind
 		- ![](!assets/attachments/Pasted%20image%2020240224005640.png)
+
+
+
+# why python
+- https://www.techinterviewhandbook.org/programming-languages-for-coding-interviews/
+	- Most companies let you code in any language you want - the only exception I know being Google, where they only allow candidates to pick from Java, C++, JavaScript or Python for their algorithmic coding interviews.
+- there's no point putting in stuff for cpp/java in these solutions; you can pick whatever language you want, python is most efficient and has best readability and is fastest to type. aka it will be the fastest language for reading cards and also for drilling cards. and probly recall cards as well. cpp seems cool bc competitive programming, but there's no point studying this (same with project euler i'm guessing?) the interviews are in leetcode, there's thousands of leetcode questions...just do leetcode questions. no need to add cards for competitive programming or project euler. 
+	- large beauty of python is that there's basically no need to have pseudocde; bc python seems barely more lines
+- again, the whole point of this is to pass interviews. most urgent. after leetcode, seems the next thing to study is systems and c/cpp (NOT competitive programming), to get those lower level programming jobs at elite finance firms (hrt, jane street, etc).  possibly also 'in depth python' as well, iirc HRT has a job for that. 
+- by prepping for interview, i'm probly alrdy going to be good enough at my job as long as i work hard and listen and friendly. so even tho 'being good at my job' isn't urgent, i'm not saying it's unimportant. i'm just saying it's not urgent to directly prep this. what's most important is having high TC, bc my family is most important; not the company i work for. i doubt they care about individual job performance past a certain threshold; and also, me being 'better' at topics will very likely barely translate into tangible performance improvements, bc i'll alrdy be so good. obviously this is something i'm still gonna do bc i find learning fun, but the point is it's not urgent
+- aka remember goals, in order of urgency (which thus inform urgent topics, in order of urgency)
+	- pass swe interview at faang
+		- leetcode
+		- necessary python
+		- necessary clrs/skiena
+	- pass swe interview at hrt/jane/etc
+		- all of the above
+		- systems/os/etc
+		- cpp
+	- pass quant interview at hrt/jane/etc
+		- all of the above
+		- brain teasers
+		- combinatorics
+		- necessary linalg
+	- pass senior/staff swe interviews
+		- all of the above
+		- tbh i'm not sure at this point...
+		- system design
+		- networks
+	- job performance (or kinda helpful/tangentially related to interview prep)
+		- clean code
+		- thorough clrs/skiena/etc
+		- competitive programming, project euler
+		- thorough linalg
+		- thorough grad numerical analysis, in the spirit of trefethen
+			- stuff like golub textbook
+			- awareness of common tools in numerical analysis (like fft, wavelets, etc)
+		- tools in swe
+			- awareness of everything
+			- thorogouh of the important stuff
+			- this is very vague, but i mean stuff like: adding wiki articles of jpeg algo. tho actually, i bet this type of stuff shows up in algo textbooks
+	- thus topics that are not urgent whatsoever to put into cards
+		- all other grad math
+
