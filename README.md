@@ -1,6 +1,6 @@
 # todo
 - 53
-- 238,36,271,128,167,15,11,42,
+- 36,271,128,167,15,11,42,
 - move a few more from anki into obsidian
 - then delete the description and solution fields on anki cards
 
