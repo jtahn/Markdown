@@ -5,6 +5,9 @@
 - then delete the description and solution fields on anki cards
 
 
+# references
+- most stuff here isn't original
+
 # why this setup
 - embedded markdown files
 	- very easy to edit in obsidian. in particular:
@@ -48,6 +51,10 @@
 			- this is where obsidian + vscode come in, and then having a way to embed github files into my anki cards
 	- aka this makes both the reviewing and revising process as painless/simple/headache free as possible
 
+
+
+# resources
+- https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
 
 
 
