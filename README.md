@@ -1,7 +1,5 @@
 # todo
-- 36,128,167,15,11,42
-- move a few more from anki into obsidian
-- then delete the description and solution fields on anki cards
+- delete the description and solution fields on anki cards
 
 # references
 - most stuff here isn't original
@@ -12,6 +10,7 @@
 	- leetcode forum users
 		- https://leetcode.com/archit91/
 		- https://leetcode.com/its_vishal_7575/
+		- https://leetcode.com/hiepit/
 	- have interesting perspectives
 		- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
 		- https://leetcode.com/stefanpochmann/
