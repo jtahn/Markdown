@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/973.md"
+                "file": "README.md"
               }
             }
           }
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/973.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/973.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +237,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d51e3a096e1f4fde",
+  "active": "3acb742f2040e4b2",
   "lastOpenFiles": [
+    "!assets/attachments/Pasted image 20240226101435.png",
+    "LeetCode/973.md",
     "LeetCode/733.md",
     "LeetCode/704.md",
     "LeetCode/542.md",
@@ -264,8 +265,6 @@
     "LeetCode/49.md",
     "LeetCode/42.md",
     "LeetCode/36.md",
-    "LeetCode/21.md",
-    "LeetCode/20.md",
     "!assets/attachments/Pasted image 20240226093135.png",
     "!assets/attachments/Pasted image 20240226092623.png",
     "!assets/attachments/Pasted image 20240226092520.png",

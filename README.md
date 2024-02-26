@@ -53,6 +53,14 @@
 	- ![](!assets/attachments/Pasted%20image%2020240224004117.png)
 	- ![](!assets/attachments/Pasted%20image%2020240224004445.png)
 
+
+ACTUALLY change the first option to:
+![](!assets/attachments/Pasted%20image%2020240226101435.png)
+
+problem is that (i think its a bug as of 2/26/2024):
+when using relative path: if you move files around, it doesnt update the paths 
+
+
 - these are just so the github folder/file structure is cleaner; mimics my personal obsidian
 	- ![](!assets/attachments/Pasted%20image%2020240224004123.png)
 - settings i accidentally stumbled on, but probly have toggles in the settings
