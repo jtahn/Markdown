@@ -10,6 +10,9 @@
 			- bc bounded and discrete range of buckets
 	- i should understand what is different about these problems
 		- ie what prevents certain solutions
+- there are sometimes qualitatively different solutions that are objectively worse bc its worse intuition.
+	- usually means its not actually qualitatively different...it's actually similar to a 'better' solution, but they introduce an observation/intuition that makes things more confusing..no need to save these
+
 
 # references
 - most stuff here isn't original
@@ -30,6 +33,7 @@
 			- this guy seems famous, but actually i'm generally not a fan, he's addicted to writing unreadable code bc he just slaps way too many language specific things/tricks into it in order to cut down the number of lines, that don't seem to actually make the code any more efficient
 			- basically he's inadvertently convincing me that oneliners are terrible, and i shouldnt use too many esoteric functions or going inception style and nesting dozens of generators/comprehensions
 				- just stick to popular functions; when the solutions are already this short, there's nothing wrong with loops and multiline conditional statements, bc everyone knows what you're doing and it's way easier to read, even if you're familiar with oneliner if/else assignments
+				- even if you're aware of how increment operators behave (ie ocurring before or after assignment); it's just completely unecessary brainpower to use when you're trying to read a solution; or keeping track of all the generators that are nested inside each other; its just far easier to read when it's just indented
 	- youtube
 		- neetcode
 		- https://www.youtube.com/@cheatcodeninja/videos
