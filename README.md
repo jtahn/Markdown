@@ -1,18 +1,21 @@
 # todo
-- don't understand yet
-	- [53](LeetCode/53.md) divide and conquer
-	- [36](LeetCode/36.md) logn space (claimed)
-- extremely rough
-	- [42](LeetCode/42.md) stacks
-	- [973](LeetCode/973.md) heaps
-	- [733](LeetCode/733.md) dfs
-	- [704](LeetCode/704.md) binary
-	- [141](LeetCode/141.md) floyd
-	- [128](LeetCode/128.md) hashing
+- urgent
+	- don't understand the main solutions
+- not urgent
+	- don't understand a qualitatively different method (but it's not urgent bc it's not strictly better)
+		- [53](LeetCode/53.md) divide and conquer
+		- [36](LeetCode/36.md) logn space (claimed)
+	- extremely rough
+		- [42](LeetCode/42.md) stacks
+		- [973](LeetCode/973.md) heaps
+		- [733](LeetCode/733.md) dfs
+		- [704](LeetCode/704.md) binary
+		- [141](LeetCode/141.md) floyd
+		- [128](LeetCode/128.md) hashing
 
 # purpose
 - i guess randos can browse the solutions if they want
-- this is mainly for me/judy/damini/(anyone else who wants my anki deck), bc imo you need to repeatedly reread these solutions, so you should use this for anki if you want real prep
+- this is mainly for me/judy/damini/(anyone else who wants my anki deck), bc imo you need to repeatedly reread these solutions, and it's easiest to set this up via anki
 - anki:
 	- why
 		- to schedule readings of these solutions (and for myself, to schedule revisions as i inductively/indirectly learn/memorize this and make connections)
@@ -20,12 +23,15 @@
 	- the anki cards use https://jtahn.github.io/emgithub/ (fork of emgithub) to embed the md file onto the back of the anki card
 	- briefly, this setup means that:
 		- reading is incredibly easy bc it's scheduled for me
-		- can connect a bluetooth gaming controller and assigns keys for scroll a little/lot up/down and other anki hotkeys, so i can just sit back and click away as i read my cards (on an ultrawide monitor, aligned vertically)
+		- can connect a bluetooth gaming controller and assigns keys for scroll a little/lot up/down, again/hard/good, undo
+			- so i can just sit back and click away as i read my cards (on an ultrawide monitor, aligned vertically)
 		- very easy to revise cards: use obsidian to quickly edit markdown
-			- markdown way more convenient to work with than the anki editor, particularly:
+			- markdown significantly more convenient to work with than the anki editor, particularly:
 				- code snippet environments (and basic highlighting) using ticks
 				- mathjax support using typical usd delimiters (instead of janky cmd+m, m)
 				- nested lists
+				- headings
+			- also i'm just paranoid of ankiweb losing my notes
 - why 'reading' cards instead of 'recall'
 	- simply, atm i have no clue how to make good/effective recall cards out of this stuff
 	- even if i just understand something and dont intentionally try to commit it to memory, i personally seem to have pretty decent recall...probly exactly bc i understand it? i'm sure there's some studying theory here, but i'm too busy to look that up rn..more importantly, i dont think that theory matters because of the next point
@@ -44,7 +50,7 @@
 	- aka (attempt) do every leetcode problem bc there are solutions; and then repeatedly do them
 - anecdote/aesthetic/motivation
 	- think of 'anki re-reading' like nfl players 'film study'...these guys need to know and process stuff so fast that's it's essentially memory + reacting on intuition/instinct too
-	- there's absolutely zero reason why i (academic career) (if i want to be 'elite') should ever spend less time doing 'after hours' 'film study' compared to brady/reed/kuechly/kelce/kupp/etc (elite in physical career)
+	- there's absolutely zero reason why i (mental career) (if i want to be 'elite') should ever spend less time doing 'after hours' 'film study' compared to brady/reed/kuechly/kelce/kupp/etc (ie even tho elite in physical career; it should motivate me to work harder if they're spending more time doing academic/mental work than i am)
 		- [Tom Vs Time Episode 2 - The Mental Game](https://www.youtube.com/watch?v=qkFZybpxNtk&t=332s)
 		- [Secondary Squad Dinner & Watching Film - Best of Ed Reed | Baltimore Ravens](https://www.youtube.com/watch?v=ORnFvZNQ5kE)
 		- [Celebrating Luke Kuechly, Smartest Linebacker to Play the Game | NFL Films Presents](https://www.youtube.com/watch?v=cbsRZDxlYEQ&t=197s)
@@ -179,3 +185,18 @@
 	- https://www.markdownguide.org/basic-syntax/#line-break-best-practices
 	- https://stackoverflow.com/questions/36583502/how-to-force-a-linebreak
 		- Just one thing: don't do a global trim on trailing spaces, as is often habit for source code, otherwise you'll lose important formatting.
+
+
+
+# obsidian decisions discussion
+- absolute paths
+	- https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
+		- maybe combine obsidian templates with this
+# anki decisions discussion
+- image resizing
+	- essentially i want my images to fill out the full horizontal width of card, unless this magnifies the image by more than 2x (aka stop once it hits 2x magnification)
+		- aka 'width=100%' doesnt work for me, bc it causes rly small images to get fully magnified until they hit the width, so it's way too big
+	- seems zoom is supported by every browser except firefox, so nbd using this for now; bc zoom immediately work, scale(2) didn't immediately work lol. so let's just use zoom. switch to scale if it becomes a problem in the future
+		- https://stackoverflow.com/questions/10217639/how-to-double-an-image-size-in-html-using-only-css
+		- https://developer.mozilla.org/en-US/docs/Web/CSS/zoom#browser_compatibility
+		- 
