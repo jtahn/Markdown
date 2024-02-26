@@ -1,6 +1,16 @@
 # todo
 - delete the description and solution fields on anki cards
 
+
+# meta
+- solving similar looking problems seems INCREDIBLY important if they actually have qualitatively different 'optimal' techniques
+	- examples
+		- 42 trapping rain water: monotone stack is not optimal (use two pointers), but is apparently optimal in other similar problem, ie "Largest Rectangle in Histogram"
+		- '973 k closest points to origin' problem, we dont have the bucket sort technique; but we have that for '347 top k frequent elements'
+			- bc bounded and discrete range of buckets
+	- i should understand what is different about these problems
+		- ie what prevents certain solutions
+
 # references
 - most stuff here isn't original
 - explained solutions
@@ -9,14 +19,17 @@
 		- replace 271 with whatever number the problem is
 	- leetcode forum users
 		- https://leetcode.com/hiepit/
-			- this guy consistently seems the best
+			- this guy consistently seems the best. covers all the necessary approaches, extremely concise, gives the key idea with proper terminology. some of the other guys below are more comprehensive but too rambly, and/or provide extra approaches that don't seem 'necessary' to know/cover
 		- https://leetcode.com/archit91/
 		- https://leetcode.com/its_vishal_7575/
 		- https://leetcode.com/r0gue_shinobi/
 		- https://leetcode.com/MarkSPhilip31/
-	- have interesting perspectives
+	- might have interesting perspectives
 		- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
 		- https://leetcode.com/stefanpochmann/
+			- this guy seems famous, but actually i'm generally not a fan, he's addicted to writing unreadable code bc he just slaps way too many language specific things/tricks into it in order to cut down the number of lines, that don't seem to actually make the code any more efficient
+			- basically he's inadvertently convincing me that oneliners are terrible, and i shouldnt use too many esoteric functions or going inception style and nesting dozens of generators/comprehensions
+				- just stick to popular functions; when the solutions are already this short, there's nothing wrong with loops and multiline conditional statements, bc everyone knows what you're doing and it's way easier to read, even if you're familiar with oneliner if/else assignments
 	- youtube
 		- neetcode
 		- https://www.youtube.com/@cheatcodeninja/videos
@@ -69,9 +82,14 @@
 	- ![](!assets/attachments/Pasted%20image%2020240224004445.png)
 
 
-
+- moving forward:
+	- if i want to move files/folders around (maybe even rename folders as well), i need to use a script to do this
+		- ie script goes into each markdown file and edits relative links, based on how i moved/renamed folders
+		- bc obsidian currently is bugged with this
 - there's currently a bug with relative paths (as of of 2/26/2024):
 	- when using relative path: if you move files around, it doesnt update the paths 
+	- yea see here
+		- https://forum.obsidian.md/t/broken-links-in-relative-path-mode-on-move-rename/4386
 - cannot use absolute paths
 	- absolute links don't work; bc obsidian doesnt know to put 'github.com/jtahn/Anki/LeetCode' etc before the '!assets/attachments/etc'
 		- aka obsidan 'absolute' links are different 'definition' compared to github 'absolute'
@@ -96,3 +114,7 @@
 # markdown/obsidian 
 - https://docs.github.com/en/get-started/writing-on-github
 	- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- just use double space for line break
+	- https://www.markdownguide.org/basic-syntax/#line-break-best-practices
+	- https://stackoverflow.com/questions/36583502/how-to-force-a-linebreak
+		- Just one thing: don't do a global trim on trailing spaces, as is often habit for source code, otherwise you'll lose important formatting.
