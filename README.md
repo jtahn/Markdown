@@ -1,5 +1,14 @@
 # todo
-- delete the description and solution fields on anki cards
+- understand
+	- 53 divide and conquer
+	- 36 all
+- concise
+	- 42 stacks
+	- 973 heaps
+	- 733 dfs
+	- 704
+	- 141 floyd
+	- 128 hashing
 
 
 # meta
