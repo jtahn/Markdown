@@ -4,6 +4,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": true
 }

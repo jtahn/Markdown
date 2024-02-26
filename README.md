@@ -53,7 +53,9 @@
 ## editor
 ![](!assets/attachments/Pasted%20image%2020240226102400.png)
 - the first option is because code snippets are sometimes harder to read bc the default width is so small, so they get moved to diff lines..i might change this tho, seems reducing font size seems to solve this for most code (since most code, if line too long, then i just manually put stuff on another line)
+	- actually i turned it back on; i think reducing font solves this issue; turning this off is kinda annoying
 - the second i think will solve issue of where: in obsidian, stuff on subsequent lines, gets instead put on same line when i view in github
+	- nah it doesnt; what it means tho is that if i look at the file in reading mode, it looks more accurate to what i'd see on github 
 
 
 
@@ -72,10 +74,13 @@
 	- when using relative path: if you move files around, it doesnt update the paths 
 - cannot use absolute paths
 	- absolute links don't work; bc obsidian doesnt know to put 'github.com/jtahn/Anki/LeetCode' etc before the '!assets/attachments/etc'
+		- aka obsidan 'absolute' links are different 'definition' compared to github 'absolute'
 	- github seems to only support relative links
 		- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes#relative-links-and-image-paths-in-readme-files
 		- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links
-
+	- github absolute links without needing to use the website? see examples at the bottom of this subsection
+		- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
+			- ![](!assets/attachments/Pasted%20image%2020240226104913.png)
 
 
 
@@ -87,3 +92,7 @@
 		- ![](!assets/attachments/Pasted%20image%2020240224005640.png)
 
 
+
+# markdown/obsidian 
+- https://docs.github.com/en/get-started/writing-on-github
+	- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
