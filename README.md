@@ -8,9 +8,12 @@
 	- https://algo.monster/liteproblems/271
 		- replace 271 with whatever number the problem is
 	- leetcode forum users
+		- https://leetcode.com/hiepit/
+			- this guy consistently seems the best
 		- https://leetcode.com/archit91/
 		- https://leetcode.com/its_vishal_7575/
-		- https://leetcode.com/hiepit/
+		- https://leetcode.com/r0gue_shinobi/
+		- https://leetcode.com/MarkSPhilip31/
 	- have interesting perspectives
 		- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
 		- https://leetcode.com/stefanpochmann/
