@@ -1,14 +1,62 @@
 # todo
-- understand
-	- 53 divide and conquer
-	- 36 all
-- concise
-	- 42 stacks
-	- 973 heaps
-	- 733 dfs
-	- 704
-	- 141 floyd
-	- 128 hashing
+- don't understand yet
+	- [53](LeetCode/53.md) divide and conquer
+	- [36](LeetCode/36.md) logn space (claimed)
+- extremely rough
+	- [42](LeetCode/42.md) stacks
+	- [973](LeetCode/973.md) heaps
+	- [733](LeetCode/733.md) dfs
+	- [704](LeetCode/704.md) binary
+	- [141](LeetCode/141.md) floyd
+	- [128](LeetCode/128.md) hashing
+
+# purpose
+- i guess randos can browse the solutions if they want
+- this is mainly for me/judy/damini/(anyone else who wants my anki deck), bc imo you need to repeatedly reread these solutions, so you should use this for anki if you want real prep
+- anki:
+	- why
+		- to schedule readings of these solutions (and for myself, to schedule revisions as i inductively/indirectly learn/memorize this and make connections)
+		- see below, but i can set up a reviewing/revising system via anki that makes both processes soo easy/lazy
+	- the anki cards use https://jtahn.github.io/emgithub/ (fork of emgithub) to embed the md file onto the back of the anki card
+	- briefly, this setup means that:
+		- reading is incredibly easy bc it's scheduled for me
+		- can connect a bluetooth gaming controller and assigns keys for scroll a little/lot up/down and other anki hotkeys, so i can just sit back and click away as i read my cards (on an ultrawide monitor, aligned vertically)
+		- very easy to revise cards: use obsidian to quickly edit markdown
+			- markdown way more convenient to work with than the anki editor, particularly:
+				- code snippet environments (and basic highlighting) using ticks
+				- mathjax support using typical usd delimiters (instead of janky cmd+m, m)
+				- nested lists
+- why 'reading' cards instead of 'recall'
+	- simply, atm i have no clue how to make good/effective recall cards out of this stuff
+	- even if i just understand something and dont intentionally try to commit it to memory, i personally seem to have pretty decent recall...probly exactly bc i understand it? i'm sure there's some studying theory here, but i'm too busy to look that up rn..more importantly, i dont think that theory matters because of the next point
+	- i enjoy reading cards bc they're easy and i'm lazy, so i actually consistently do this
+		- also, revising a reading card is easy; revising recall cards is a nightmare atm (bc they're all broken up and stuff, and you need to phrase things in terms of questions...etc etc)
+		- aka this is the only workflow i actually consistently do atm, and i can't really see how any 'recall' method wouldn't share similar problems as my 'recall' attempt i made in the past (and couldn't stick to)
+	- my plan is just...at some point a few years from now, maybe i'll master the material enough to the point where i realize how to make recall cards out of this. but for now, reading seems to work good, so lets just do that
+- btw, why vertical ultrawide monitor:
+	- i extend reading cards to pages from clrs/skiena, and screenies of webpages (wikipedia,realpython,stackexchange)
+- i need to repeatedly reread this stuff, bc the interview time constraints essentially makes it seem like i need to essentially memorize these (patterns)
+	- point is, i don't actually know how to make/revise proper recall cards, or even stick to a study plan involving those cards
+	- so i'm just gambling on the reading cards being enough, provided i reread them constantly
+- more accurately, i need to know/memorize these patterns so well that when it comes to answer questions, it's almost like i'm "reacting" on instinct/intuition. i mean it's basically just like how i solve all other problems in math, it's just that in these interviews, i don't have the luxury of time
+	- so just do the equivalent of what i did studying for math gre, just do literally every odd problem in the textbook; and then do them again
+		- i never tried to memorize every problem...i just repeatedly did them. same thing probly applies here to some degree
+	- aka (attempt) do every leetcode problem bc there are solutions; and then repeatedly do them
+- anecdote/aesthetic/motivation
+	- think of 'anki re-reading' like nfl players 'film study'...these guys need to know and process stuff so fast that's it's essentially memory + reacting on intuition/instinct too
+	- there's absolutely zero reason why i (academic career) (if i want to be 'elite') should ever spend less time doing 'after hours' 'film study' compared to brady/reed/kuechly/kelce/kupp/etc (elite in physical career)
+		- [Tom Vs Time Episode 2 - The Mental Game](https://www.youtube.com/watch?v=qkFZybpxNtk&t=332s)
+		- [Secondary Squad Dinner & Watching Film - Best of Ed Reed | Baltimore Ravens](https://www.youtube.com/watch?v=ORnFvZNQ5kE)
+		- [Celebrating Luke Kuechly, Smartest Linebacker to Play the Game | NFL Films Presents](https://www.youtube.com/watch?v=cbsRZDxlYEQ&t=197s)
+		- [why don’t teams double cover Travis Kelce?](https://www.youtube.com/watch?v=3w704PjSYt8&t=940s)
+		- [Baldy's Breakdowns: The Film Behind Cooper Kupp's Viral Touchdown Analysis](https://www.youtube.com/watch?v=7LXG0h5Txis)
+- i need a system/process that i'm happy to do for hours, even after i'm tired from research/work/etc; this is that process:
+	- reading cards for sure
+	- revising cards, almost for sure
+	- drilling/muscle memory cards: i think i can squeeze in there
+	- recall: has not worked in the past. might work in the future once i 'master' all this stuff
+
+
 
 
 # meta
