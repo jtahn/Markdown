@@ -66,17 +66,31 @@
           {
             "id": "b26de3b095c73611",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LeetCode/md/42.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8b0297f220a87887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/md/1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/md/42.md"
+                "file": "LeetCode/md/1.md"
               }
             }
           }
@@ -160,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/md/42.md",
+                "file": "LeetCode/md/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/md/42.md",
+                "file": "LeetCode/md/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,41 +226,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b26de3b095c73611",
+  "active": "8b0297f220a87887",
   "lastOpenFiles": [
-    "!assets/attachments/Pasted image 20240226010711.png",
-    "!assets/attachments/Pasted image 20240226010644.png",
-    "!assets/attachments/Pasted image 20240226010629.png",
-    "!assets/attachments/Pasted image 20240226010612.png",
-    "!assets/attachments/Pasted image 20240226010553.png",
-    "!assets/attachments/Pasted image 20240226010529.png",
-    "!assets/attachments/Pasted image 20240226010510.png",
-    "!assets/attachments/Pasted image 20240226010434.png",
-    "!assets/attachments/Pasted image 20240226010410.png",
-    "!assets/attachments/Pasted image 20240226010342.png",
-    "!assets/attachments/Pasted image 20240226010154.png",
-    "LeetCode/md/271.md",
-    "LeetCode/md/11.md",
+    "LeetCode/md/21.md",
+    "LeetCode/md/20.md",
     "LeetCode/md/15.md",
+    "LeetCode/md/11.md",
+    "LeetCode/md/3.md",
+    "LeetCode/md/1.md",
+    "LeetCode/md/42.md",
+    "LeetCode/md/110.md",
+    "!assets/attachments/Pasted image 20240226093135.png",
+    "!assets/attachments/Pasted image 20240226092623.png",
+    "!assets/attachments/Pasted image 20240226092520.png",
+    "!assets/attachments/Pasted image 20240226092331.png",
+    "!assets/attachments/Pasted image 20240226092308.png",
+    "!assets/attachments/Pasted image 20240226092147.png",
+    "!assets/attachments/Pasted image 20240226091813.png",
+    "!assets/attachments/Pasted image 20240226090551.png",
+    "!assets/attachments/Pasted image 20240226090540.png",
+    "!assets/attachments/Pasted image 20240226090526.png",
+    "README.md",
+    "LeetCode/md/271.md",
     "LeetCode/md/167.md",
     "LeetCode/md/36.md",
     "LeetCode/md/53.md",
     "LeetCode/md/128.md",
-    "README.md",
     "LeetCode/md/973.md",
     "LeetCode/md/278.md",
     "LeetCode/md/242.md",
-    "LeetCode/md/42.md",
     "LeetCode/md/238.md",
     "LeetCode/md/383.md",
-    "LeetCode/md/3.md",
     "LeetCode/md/5.md",
-    "LeetCode/md/1.md",
-    "LeetCode/md/20.md",
-    "LeetCode/md/21.md",
     "LeetCode/md/49.md",
     "LeetCode/md/57.md",
-    "LeetCode/md/110.md",
     "LeetCode/md/121.md",
     "LeetCode/md/125.md",
     "LeetCode/md/141.md",
