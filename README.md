@@ -49,16 +49,34 @@
 
 # Obsidian settings that I changed for this vault
 - recording them here in case i need to set this up again
+
+## editor
+![](!assets/attachments/Pasted%20image%2020240226102400.png)
+- the first option is because code snippets are sometimes harder to read bc the default width is so small, so they get moved to diff lines..i might change this tho, seems reducing font size seems to solve this for most code (since most code, if line too long, then i just manually put stuff on another line)
+- the second i think will solve issue of where: in obsidian, stuff on subsequent lines, gets instead put on same line when i view in github
+
+
+
+## appearance
+![](!assets/attachments/Pasted%20image%2020240226102207.png)
+
+
+## files and links
 - these are necessary so that images show up when viewing markdown files on github.com; so them emgithub sees them too when it embeds them into anki cards
 	- ![](!assets/attachments/Pasted%20image%2020240224004117.png)
 	- ![](!assets/attachments/Pasted%20image%2020240224004445.png)
 
 
-ACTUALLY change the first option to:
-![](!assets/attachments/Pasted%20image%2020240226101435.png)
 
-problem is that (i think its a bug as of 2/26/2024):
-when using relative path: if you move files around, it doesnt update the paths 
+- there's currently a bug with relative paths (as of of 2/26/2024):
+	- when using relative path: if you move files around, it doesnt update the paths 
+- cannot use absolute paths
+	- absolute links don't work; bc obsidian doesnt know to put 'github.com/jtahn/Anki/LeetCode' etc before the '!assets/attachments/etc'
+	- github seems to only support relative links
+		- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes#relative-links-and-image-paths-in-readme-files
+		- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links
+
+
 
 
 - these are just so the github folder/file structure is cleaner; mimics my personal obsidian
