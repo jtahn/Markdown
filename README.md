@@ -1,17 +1,22 @@
 # todo
-- urgent
-	- don't understand the main solutions
-- not urgent
-	- don't understand a qualitatively different method (but it's not urgent bc it's not strictly better)
+- urgent[^1]
+	- 
+- revision ideas after review[^2]
+	- 
+- not as urgent
+	- don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)
 		- [53](LeetCode/53.md) divide and conquer
 		- [36](LeetCode/36.md) logn space (claimed)
-	- extremely rough
+	- extremely rough (but i understand it)
 		- [42](LeetCode/42.md) stacks
 		- [973](LeetCode/973.md) heaps
 		- [733](LeetCode/733.md) dfs
 		- [704](LeetCode/704.md) binary
-		- [141](LeetCode/141.md) floyd
 		- [128](LeetCode/128.md) hashing
+
+[^1]: i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
+[^2]: check voice memos / notebook for edits
+
 
 # purpose
 - i guess randos can browse the solutions if they want
