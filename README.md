@@ -1,4 +1,65 @@
-# todo
+# ToC[^1]
+[^1]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty)
+
+## Arrays & Hashing
+1. [217](LeetCode/217.md)
+2. [242](LeetCode/242.md)
+3. [1](LeetCode/1.md)
+4. [49](LeetCode/49.md)
+5. [347](LeetCode/347.md)
+6. [238](LeetCode/238.md)
+7. [36](LeetCode/36.md)
+8. [271](LeetCode/271.md)
+9. [128](LeetCode/128.md)
+
+## Two Pointers
+10. [125](LeetCode/125.md)
+11. [167](LeetCode/167.md)
+12. [15](LeetCode/15.md)
+13. [11](LeetCode/11.md)
+14. [42](LeetCode/42.md)
+
+## Sliding Window
+15. [121](LeetCode/121.md)
+16. [3](LeetCode/3.md)
+
+## Stack
+21. [20](LeetCode/20.md)
+
+
+## Binary Search
+28. [704](LeetCode/704.md)
+
+## Linked List
+36. [21](LeetCode/21.md)
+41. [141](LeetCode/141.md)
+
+## Trees
+46. [226](LeetCode/226.md)
+49. [110](LeetCode/110.md)
+52. [235](LeetCode/235.md)
+
+## Heap / Priority Queue
+66. [973](LeetCode/973.md)
+
+## Greedy
+122. [53](LeetCode/53.md)
+
+## Intervals
+130. [57](LeetCode/57.md)
+
+
+## grind169
+[733](LeetCode/733.md)
+[542](LeetCode/542.md)
+[232](LeetCode/232.md)
+[278](LeetCode/278.md)
+[383](LeetCode/383.md)
+
+
+
+
+# Todo
 - urgent
 	- i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 		- z
@@ -72,13 +133,18 @@
 - there are sometimes qualitatively different solutions that are objectively worse bc its worse intuition.
 	- usually means its not actually qualitatively different...it's actually similar to a 'better' solution, but they introduce an observation/intuition that makes things more confusing..no need to save these
 
-
 # references
 - most stuff here isn't original
 - explained solutions
+	- youtube
+		- neetcode
+			- he doesnt give all 'good to know solutions', but he always explains the 'best' solution very well. so imo, these are probably the best starting point for completely understanding the problem and solutions
+			- this is reason why i'm starting with neetcode150 list instead of grind169; ie if i cant understand it, then i know i can fall back here; or if i'm too tired that i dont even want to read, then i can at minimum watch the youtube solution 
+		- https://www.youtube.com/@cheatcodeninja/videos
 	- https://leetcodethehardway.com/
 	- https://algo.monster/liteproblems/271
 		- replace 271 with whatever number the problem is
+		- these sometimes/often don't actually have the best solution
 	- leetcode forum users
 		- https://leetcode.com/hiepit/
 			- this guy consistently seems the best. covers all the necessary approaches, extremely concise, gives the key idea with proper terminology. some of the other guys below are more comprehensive but too rambly, and/or provide extra approaches that don't seem 'necessary' to know/cover
@@ -94,9 +160,6 @@
 				- just stick to popular functions; when the solutions are already this short, there's nothing wrong with loops and multiline conditional statements, bc everyone knows what you're doing and it's way easier to read, even if you're familiar with oneliner if/else assignments
 				- even if you're aware of how increment operators behave (ie ocurring before or after assignment); it's just completely unecessary brainpower to use when you're trying to read a solution; or keeping track of all the generators that are nested inside each other; its just far easier to read when it's just indented
 			- ie completely missing the point...point of leetcode is to understand the patterns and major techniques of how to work with structures...not to write oneliners lol
-	- youtube
-		- neetcode
-		- https://www.youtube.com/@cheatcodeninja/videos
 	- chinese
 		- https://github.com/topics/leetcode-solutions
 		- https://github.com/grandyang/leetcode
@@ -111,6 +174,9 @@
 	- https://www.lintcode.com/problem
 	- https://leetcode.ca/search/
 - more lists of problems
+	- when i go thorugh grind169..tbh i should order it by topic and difficulty (like neetcode does); not by the og ordering
+		- the og ordering (where they mix it up) is more meant if i'm practicing leetcode their way, ie actually going through and solving them without looking up solutions..completely different from what i'm doing, which is just reading and understanding solutions
+		- https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
 	- https://projecteuler.net/archives
 	- teamblind
 		- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU

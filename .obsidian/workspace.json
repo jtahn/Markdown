@@ -33,7 +33,7 @@
       {
         "id": "2f7d65cefc31b30e",
         "type": "tabs",
-        "dimension": 81.4643188137164,
+        "dimension": 48.10009267840593,
         "children": [
           {
             "id": "30ea3e619e5c4c61",
@@ -73,7 +73,7 @@
       {
         "id": "70ae7f6205137ef4",
         "type": "tabs",
-        "dimension": 18.535681186283597,
+        "dimension": 51.899907321594064,
         "children": [
           {
             "id": "36d31c74556e5c4b",
@@ -159,8 +159,10 @@
   },
   "active": "3acb742f2040e4b2",
   "lastOpenFiles": [
-    "LeetCode/22.md",
+    "LeetCode/424.md",
+    "LeetCode/57.md",
     "README.md",
+    "LeetCode/22.md",
     "LeetCode/150.md",
     "LeetCode/98.md",
     "LeetCode/212.md",
@@ -193,8 +195,6 @@
     "LeetCode/572.md",
     "LeetCode/100.md",
     "LeetCode/543.md",
-    "LeetCode/104.md",
-    "LeetCode/25.md",
     "LeetCode/py/973.py",
     "LeetCode/py/733.py",
     "LeetCode/py/704.py",
