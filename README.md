@@ -1,8 +1,15 @@
 # todo
-- urgent[^1]
-	- 
-- revision ideas after review[^2]
-	- 
+- urgent
+	- i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
+		- z
+	- revision ideas after review (check voice memos/notebook for edits)
+		- z
+	- whatever is next on neetcode 150 (https://neetcode.io/practice); understand main solutions, then create card in anki
+		- [424](424.md)
+		- [567](567.md)
+		- [76](76.md)
+		- [239](239.md)
+		- [155](155.md)
 - not as urgent
 	- don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)
 		- [53](LeetCode/53.md) divide and conquer
@@ -13,10 +20,6 @@
 		- [733](LeetCode/733.md) dfs
 		- [704](LeetCode/704.md) binary
 		- [128](LeetCode/128.md) hashing
-
-[^1]: i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
-[^2]: check voice memos / notebook for edits
-
 
 # purpose
 - i guess randos can browse the solutions if they want
@@ -197,11 +200,12 @@
 - absolute paths
 	- https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
 		- maybe combine obsidian templates with this
+
 # anki decisions discussion
 - image resizing
 	- essentially i want my images to fill out the full horizontal width of card, unless this magnifies the image by more than 2x (aka stop once it hits 2x magnification)
-		- aka 'width=100%' doesnt work for me, bc it causes rly small images to get fully magnified until they hit the width, so it's way too big
-	- seems zoom is supported by every browser except firefox, so nbd using this for now; bc zoom immediately work, scale(2) didn't immediately work lol. so let's just use zoom. switch to scale if it becomes a problem in the future
+		- aka `width=100%` doesnt work for me, bc it causes rly small images to get fully magnified until they hit the width, so it's way too big
+	- seems `zoom` is supported by every browser except firefox, so nbd using this for now; bc zoom immediately work, `scale(2)` didn't immediately work lol. so let's just use zoom. switch to scale if it becomes a problem in the future
 		- https://stackoverflow.com/questions/10217639/how-to-double-an-image-size-in-html-using-only-css
 		- https://developer.mozilla.org/en-US/docs/Web/CSS/zoom#browser_compatibility
-		- 
+		- the important thing is whether the anki renderer supports it (which it does)
