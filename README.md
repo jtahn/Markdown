@@ -5,11 +5,11 @@
 	- revision ideas after review (check voice memos/notebook for edits)
 		- z
 	- whatever is next on neetcode 150 (https://neetcode.io/practice); understand main solutions, then create card in anki
-		- [424](424.md)
-		- [567](567.md)
-		- [76](76.md)
-		- [239](239.md)
-		- [155](155.md)
+		- [424](LeetCode/424.md)
+		- [567](LeetCode/567.md)
+		- [76](LeetCode/76.md)
+		- [239](LeetCode/239.md)
+		- [155](LeetCode/155.md)
 - not as urgent
 	- don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)
 		- [53](LeetCode/53.md) divide and conquer
@@ -43,6 +43,7 @@
 - why 'reading' cards instead of 'recall'
 	- simply, atm i have no clue how to make good/effective recall cards out of this stuff
 	- even if i just understand something and dont intentionally try to commit it to memory, i personally seem to have pretty decent recall...probly exactly bc i understand it? i'm sure there's some studying theory here, but i'm too busy to look that up rn..more importantly, i dont think that theory matters because of the next point
+		- (maybe bc as i try to re-understand it, i'm 'active recalling' why it makes sense; and so that's why i indirectly memorize it)
 	- i enjoy reading cards bc they're easy and i'm lazy, so i actually consistently do this
 		- also, revising a reading card is easy; revising recall cards is a nightmare atm (bc they're all broken up and stuff, and you need to phrase things in terms of questions...etc etc)
 		- aka this is the only workflow i actually consistently do atm, and i can't really see how any 'recall' method wouldn't share similar problems as my 'recall' attempt i made in the past (and couldn't stick to)
@@ -67,9 +68,16 @@
 - i need a system/process that i'm happy to do for hours, even after i'm tired from research/work/etc; this is that process:
 	- reading cards for sure
 	- revising cards, almost for sure
-	- drilling/muscle memory cards: i think i can squeeze in there
-	- recall: has not worked in the past. might work in the future once i 'master' all this stuff
-
+	- drilling/muscle memory cards: i think should be doable
+		- bc it's fairly mindless
+		- think of it like z2 cardio
+		- point is to train this to the point where when i encounter new problems, the typing part isn't really taking up energy/space in my brain
+			- there is like legit theory about how problem solving works like this...but again, understand it isnt that urgent, point is that this works and helps, so just do it
+		- i also suspect i indirectly do active recall here, and that's why it helps...ie as i retype stuff, i'm trying to recall why each 'batch' of lines make sense
+	- pure recall cards: has not worked in the past. might work in the future once i 'master' all this stuff
+		- a big reason is that it's hard to design the 'important cards' for the subjects i study; ie its not like language learning
+		- obvi you can do cards for recalling tools (identities/definitions, and sometimes properties too, etc) but the main thing i need to 'memorize' is when and how to use them...this is difficult to make cards for, other than 'solve this problem'..but those kind of cards are very difficult to motivate myself to review regularly for hours after work...versus having cards where i just read solutions and remind myself why they make sense...very easy to both make and review
+- ![](!assets/attachments/Pasted%20image%2020240226223404.png)
 
 
 
@@ -101,10 +109,11 @@
 	- might have interesting perspectives
 		- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
 		- https://leetcode.com/stefanpochmann/
-			- this guy seems famous, but actually i'm generally not a fan, he's addicted to writing unreadable code bc he just slaps way too many language specific things/tricks into it in order to cut down the number of lines, that don't seem to actually make the code any more efficient
-			- basically he's inadvertently convincing me that oneliners are terrible, and i shouldnt use too many esoteric functions or going inception style and nesting dozens of generators/comprehensions
+			- this guy seems famous, but actually i'm generally not a fan, he's addicted to writing unreadable code bc he just slaps way too many operators, language specific things/tricks into it in order to cut down the number of lines, that don't seem to actually make the code any more efficient
+			- basically he's inadvertently singlehandedly convincing me that oneliners are terrible, and i shouldnt use too many esoteric functions or going inception style and nesting dozens of generators/comprehensions
 				- just stick to popular functions; when the solutions are already this short, there's nothing wrong with loops and multiline conditional statements, bc everyone knows what you're doing and it's way easier to read, even if you're familiar with oneliner if/else assignments
 				- even if you're aware of how increment operators behave (ie ocurring before or after assignment); it's just completely unecessary brainpower to use when you're trying to read a solution; or keeping track of all the generators that are nested inside each other; its just far easier to read when it's just indented
+			- ie completely missing the point...point of leetcode is to understand the patterns and major techniques of how to work with structures...not to write oneliners lol
 	- youtube
 		- neetcode
 		- https://www.youtube.com/@cheatcodeninja/videos
@@ -162,7 +171,8 @@
 		- ie script goes into each markdown file and edits relative links, based on how i moved/renamed folders
 		- bc obsidian currently is bugged with this
 - there's currently a bug with relative paths (as of of 2/26/2024):
-	- when using relative path: if you move files around, it doesnt update the paths 
+	- when using relative path: if you move/rename files, it doesnt update the relative paths inside those files
+		- but it DOES rename places where this file is linked...ie seems if i move the attachments folder, that actually might not break anything (but idk why i would even do that rn, there's no point)
 	- yea see here
 		- https://forum.obsidian.md/t/broken-links-in-relative-path-mode-on-move-rename/4386
 - cannot use absolute paths
