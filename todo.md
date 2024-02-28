@@ -1,0 +1,64 @@
+# urgent
+- i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
+	- z
+- revision ideas after review (check voice memos/notebook for edits)
+	- z
+- whatever is next on neetcode 150 (https://neetcode.io/practice); understand main solutions, then create card in anki
+	- [424](LeetCode/424.md)
+	- [567](LeetCode/567.md)
+	- [76](LeetCode/76.md)
+	- [239](LeetCode/239.md)
+	- [155](LeetCode/155.md)
+	- [150](LeetCode/150.md)
+	- [[LeetCode/22]]
+	- [[LeetCode/739]]
+	- [[LeetCode/853]]
+	- [[LeetCode/84]]
+	- [[LeetCode/74]]
+	- [[LeetCode/875]]
+	- [[LeetCode/153]]
+	- [[LeetCode/33]]
+	- [[LeetCode/981]]
+	- [[LeetCode/4]]
+	- [[LeetCode/206]]
+	- [[LeetCode/143]]
+	- [[LeetCode/19]]
+	- [[LeetCode/138]]
+	- [[LeetCode/2]]
+	- [[LeetCode/287]]
+	- [[LeetCode/146]]
+	- [[LeetCode/23]]
+	- [[LeetCode/25]]
+	- [[LeetCode/104]]
+	- [[LeetCode/543]]
+	- [[LeetCode/100]]
+	- [[LeetCode/572]]
+	- [[LeetCode/102]]
+	- [[LeetCode/199]]
+	- [[LeetCode/1448]]
+	- [[LeetCode/98]]
+	- [[LeetCode/230]]
+	- [[LeetCode/105]]
+	- [[LeetCode/124]]
+	- [[LeetCode/297]]
+	- [[LeetCode/208]]
+	- [[LeetCode/211]]
+	- [[LeetCode/212]]
+	- [[LeetCode/703]]
+	- [[LeetCode/1046]]
+	- [[LeetCode/215]]
+	- [[LeetCode/621]]
+	- [[LeetCode/355]]
+	- [[LeetCode/295]]
+
+
+# later
+- don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)
+	- [53](LeetCode/53.md) divide and conquer
+	- [36](LeetCode/36.md) logn space (claimed)
+- extremely rough (but i understand it)
+	- [42](LeetCode/42.md) stacks
+	- [973](LeetCode/973.md) heaps
+	- [733](LeetCode/733.md) dfs
+	- [704](LeetCode/704.md) binary
+	- [128](LeetCode/128.md) hashing
