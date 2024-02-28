@@ -7,7 +7,11 @@
 			- screenies, mathjax, code snippets, nested lists, headings)
 		- obsidian export to pdf is wonky, the md file itself looks better
 
+
 [^embed]:  Cards need a `{{number}}` field; then paste this code into the card template: ```<script src="https://jtahn.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjtahn%2FMarkdown%2Fblob%2Fmain%2FLeetCode%2F{{number}}.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on"></script>```
+
+
+
 
 
 # Calc
@@ -16,8 +20,8 @@
 - [hw 4 solutions](Calc/hw%204%20solutions.md)
 
 
-# LeetCode ToC[^1]
-[^1]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty)
+# LeetCode ToC[^order]
+[^order]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty)
 
 ## Arrays & Hashing
 1. [217](LeetCode/217.md)
@@ -209,3 +213,12 @@
 		- https://stackoverflow.com/questions/10217639/how-to-double-an-image-size-in-html-using-only-css
 		- https://developer.mozilla.org/en-US/docs/Web/CSS/zoom#browser_compatibility
 		- the important thing is whether the anki renderer supports it (which it does)
+
+
+# fun
+- youtube vids that make me want to study again
+	- [Tom Vs Time Episode 2 - The Mental Game](https://www.youtube.com/watch?v=qkFZybpxNtk&t=332s)
+	- [Celebrating Luke Kuechly, Smartest Linebacker to Play the Game | NFL Films Presents](https://www.youtube.com/watch?v=cbsRZDxlYEQ&t=197s)
+	- [Baldy's Breakdowns: The Film Behind Cooper Kupp's Viral Touchdown Analysis](https://www.youtube.com/watch?v=7LXG0h5Txis)
+	- [LeBron's Photographic Memory](https://www.youtube.com/watch?v=HG6M2xQZvj0)
+	- [Sean McVay Literally Remembers Every Play of His Coaching Career 🤯| Simms & Lefkoe: The Show](https://www.youtube.com/watch?v=IjlfQBQk_kg)
