@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "123c2adb7418aa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calc/hw 4 solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "Calc/hw 4 solutions.md"
               }
             }
           }
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "Calc/hw 4 solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "Calc/hw 4 solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,12 +170,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "123c2adb7418aa23",
   "lastOpenFiles": [
-    "LeetCode/347.md",
     "todo.md",
-    "LeetCode/733.md",
+    "Calc/hw 4 solutions.md",
+    "!assets/attachments/Pasted image 20240228114549.png",
+    "!assets/attachments/Pasted image 20240228114126.png",
+    "!assets/attachments/Pasted image 20240228114056.png",
+    "!assets/attachments/Pasted image 20240228113857.png",
+    "!assets/attachments/Pasted image 20240228113849.png",
+    "!assets/attachments/Pasted image 20240228113838.png",
+    "!assets/attachments/Pasted image 20240228113832.png",
+    "!assets/attachments/Pasted image 20240228113803.png",
+    "!assets/attachments/Pasted image 20240228113753.png",
+    "!assets/attachments/Pasted image 20240228113747.png",
+    "LeetCode/295.md",
     "README.md",
+    "Calc",
+    "LeetCode/347.md",
+    "LeetCode/733.md",
     "LeetCode/853.md",
     "LeetCode/424.md",
     "LeetCode/25.md",
@@ -172,29 +198,16 @@
     "LeetCode/150.md",
     "LeetCode/98.md",
     "LeetCode/212.md",
-    "!assets/attachments/Pasted image 20240227115718.png",
-    "!assets/attachments/Pasted image 20240227115707.png",
     "LeetCode/211.md",
     "LeetCode/208.md",
     "LeetCode/297.md",
-    "!assets/attachments/Pasted image 20240227115312.png",
-    "!assets/attachments/Pasted image 20240227115257.png",
-    "!assets/attachments/Pasted image 20240227114908.png",
     "LeetCode/124.md",
-    "!assets/attachments/Pasted image 20240227114752.png",
-    "!assets/attachments/Pasted image 20240227114743.png",
     "LeetCode/105.md",
-    "!assets/attachments/Pasted image 20240227114630.png",
     "LeetCode/230.md",
-    "!assets/attachments/Pasted image 20240227114520.png",
-    "!assets/attachments/Pasted image 20240227114511.png",
     "LeetCode/1448.md",
     "LeetCode/199.md",
     "LeetCode/102.md",
     "LeetCode/2.md",
-    "LeetCode/295.md",
-    "LeetCode/355.md",
-    "LeetCode/621.md",
     "LeetCode/py/973.py",
     "LeetCode/py/733.py",
     "LeetCode/py/704.py",
@@ -203,7 +216,6 @@
     "LeetCode/py/347.py",
     "LeetCode/py/278.py",
     "LeetCode/py/271.py",
-    "LeetCode/py/242.py",
-    "LeetCode/py/238.py"
+    "LeetCode/py/242.py"
   ]
 }
