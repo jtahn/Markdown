@@ -5,5 +5,6 @@
   "useMarkdownLinks": true,
   "promptDelete": false,
   "readableLineLength": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showLineNumber": true
 }

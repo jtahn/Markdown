@@ -1,4 +1,22 @@
-# ToC[^1]
+
+# Meta
+- this repo is for md files that i need to be publicly available. examples:
+	- leetcode solution writeups to embed onto anki cards[^embed]
+	- rough math/cs explanations for students
+		- markdown > latex bc we get max convenience with all of
+			- screenies, mathjax, code snippets, nested lists, headings)
+		- obsidian export to pdf is wonky, the md file itself looks better
+
+[^embed]:  Cards need a `{{number}}` field; then paste this code into the card template: ```<script src="https://jtahn.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjtahn%2FMarkdown%2Fblob%2Fmain%2FLeetCode%2F{{number}}.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on"></script>```
+
+
+# Calc
+- hw 2 solns (private vault)
+- hw 3 solns (private vault)
+- [hw 4 solutions](Calc/hw%204%20solutions.md)
+
+
+# LeetCode ToC[^1]
 [^1]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty)
 
 ## Arrays & Hashing
@@ -57,7 +75,7 @@
 
 
 
-# references
+# references for leetcode
 - most stuff here isn't original
 - explained solutions
 	- youtube
@@ -112,18 +130,6 @@
 
 
 
-# meta
-- solving similar looking problems seems INCREDIBLY important if they actually have qualitatively different 'optimal' techniques
-	- examples
-		- 42 trapping rain water: monotone stack is not optimal (use two pointers), but is apparently optimal in other similar problem, ie "Largest Rectangle in Histogram"
-		- '973 k closest points to origin' problem, we dont have the bucket sort technique; but we have that for '347 top k frequent elements'
-			- bc bounded and discrete range of buckets
-	- i should understand what is different about these problems
-		- ie what prevents certain solutions
-- there are sometimes qualitatively different solutions that are objectively worse bc its worse intuition.
-	- usually means its not actually qualitatively different...it's actually similar to a 'better' solution, but they introduce an observation/intuition that makes things more confusing..no need to save these
-
-
 
 
 # Obsidian settings that I changed for this vault
@@ -135,6 +141,8 @@
 	- actually i turned it back on; i think reducing font solves this issue; turning this off is kinda annoying
 - the second i think will solve issue of where: in obsidian, stuff on subsequent lines, gets instead put on same line when i view in github
 	- nah it doesnt; what it means tho is that if i look at the file in reading mode, it looks more accurate to what i'd see on github 
+
+![](!assets/attachments/Pasted%20image%2020240228151535.png)
 
 
 

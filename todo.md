@@ -1,4 +1,6 @@
 # urgent
+- calc
+	- z
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z
 - revision ideas after review (check voice memos/notebook for edits)
