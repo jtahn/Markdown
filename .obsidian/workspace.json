@@ -20,20 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c45cbf1ec54ca288",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/347.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ]
       }
@@ -173,9 +159,9 @@
   },
   "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
-    "LeetCode/733.md",
-    "todo.md",
     "LeetCode/347.md",
+    "todo.md",
+    "LeetCode/733.md",
     "README.md",
     "LeetCode/853.md",
     "LeetCode/424.md",

@@ -59,6 +59,5 @@
 - extremely rough (but i understand it)
 	- [42](LeetCode/42.md) stacks
 	- [973](LeetCode/973.md) heaps
-	- [733](LeetCode/733.md) dfs
 	- [704](LeetCode/704.md) binary
 	- [128](LeetCode/128.md) hashing
