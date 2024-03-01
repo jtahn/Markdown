@@ -34,20 +34,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a8af1509c31a0283",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/128.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
         "currentTab": 1
@@ -188,10 +174,13 @@
   },
   "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
-    "LeetCode/42.md",
-    "todo.md",
     "LeetCode/128.md",
+    "todo.md",
     "README.md",
+    "!assets/attachments/Pasted image 20240301174033.png",
+    "!assets/attachments/Pasted image 20240301173808.png",
+    "LeetCode/383.md",
+    "LeetCode/42.md",
     "!assets/attachments/Pasted image 20240301151547.png",
     "!assets/attachments/Pasted image 20240301151540.png",
     "!assets/attachments/Pasted image 20240301121625.png",
@@ -208,8 +197,6 @@
     "!assets/attachments/Pasted image 20240228152212.png",
     "!assets/attachments/Pasted image 20240228151535.png",
     "!assets/attachments/Pasted image 20240228114549.png",
-    "!assets/attachments/Pasted image 20240228114126.png",
-    "!assets/attachments/Pasted image 20240228114056.png",
     "LeetCode/295.md",
     "Calc",
     "LeetCode/347.md",
@@ -223,7 +210,6 @@
     "LeetCode/150.md",
     "LeetCode/98.md",
     "LeetCode/212.md",
-    "LeetCode/211.md",
     "LeetCode/py/973.py",
     "LeetCode/py/733.py",
     "LeetCode/py/704.py",

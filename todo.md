@@ -2,7 +2,12 @@
 - calc
 	- z
 - review
-	- z
+	- [128](LeetCode/128.md)
+	- [383](LeetCode/383.md)
+	- [704](LeetCode/704.md)
+	- [271](LeetCode/271.md)
+	- [15](LeetCode/15.md)
+	- [542](LeetCode/542.md)
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z
 - revision ideas after review (check voice memos/notebook for edits)
@@ -64,4 +69,5 @@
 	- [42](LeetCode/42.md) stacks
 	- [973](LeetCode/973.md) heaps
 	- [704](LeetCode/704.md) binary
-	- [128](LeetCode/128.md) hashing
+- other
+	- [128](LeetCode/128.md) set lookup is O(1)
