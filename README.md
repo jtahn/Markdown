@@ -1,19 +1,3 @@
-
-# Meta
-- this repo is for md files that i need to be publicly available. examples:
-	- leetcode solution writeups to embed onto anki cards[^embed]
-	- rough math/cs explanations for students
-		- markdown > latex bc we get max convenience with all of
-			- screenies, mathjax, code snippets, nested lists, headings)
-		- obsidian export to pdf is wonky, the md file itself looks better
-
-
-[^embed]:  Cards need a `{{number}}` field; then paste this code into the card template: ```<script src="https://jtahn.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjtahn%2FMarkdown%2Fblob%2Fmain%2FLeetCode%2F{{number}}.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on"></script>```
-
-
-
-
-
 # Calc
 - hw 2 solns (private vault)
 - hw 3 solns (private vault)
@@ -79,9 +63,31 @@
 
 
 
-# references for leetcode
+
+# Meta
+- this repo is for md files that i need to be publicly available. examples:
+	- rough math/cs explanations for students
+		- markdown > latex bc we get max convenience with all of
+			- screenies, mathjax, code snippets, nested lists, headings
+		- obsidian export to pdf is wonky, the md file itself looks better
+	- leetcode solution writeups to embed onto anki cards[^embed]
+		- why my own writeups are necessary; ie why cant i just embed other websites onto the cards
+			- mandatory: start with the neetcode/grind75 lists, bc it would obvi take waaay too much time to make my own lists, not to mention not even sure why it'd be better
+			- but i have not been able to find a source that covers 'all solutions that would be good to mention in an interview' for all the stuff in neetcode/grind75. sometimes there's a leetcode forum post that does it, but generally i have to comb/scrape a bunch of resources
+			- more important: solutions are often 'incomplete' wrt having a true understanding of the problem
+				- two pointer is probably the best example this. basically any solution to a problem that involves two pointers, the authors never explain why this algo is correct. imo, you need to at least mention why the 'ignored states' are okay to ignore. i'm not looking for a full proof, but imo you definitely need to at least vaguely mention it, bc it's crucial to understanding why the algo is correct. 
+					- the issue seems like swe's not realizing that: two pointer is like a 'greedy' algo; but it's not true that 'greedy' algo will directly lead to max..like you could be going to a local max, but not a global max. 
+					- i feel like i'm in a good position to determine whether an algo is convincing/correct/true, bc i have a lot of experience with 'proofs'. obvi i dont think you need phd pure math for this, or even taken a 'intro to math proofs' class; but that probably helps
+			- by writing it, i can truly see if i understand it / convince myself that i understand it. 
+
+[^embed]:  Cards need a `{{number}}` field; then paste this code into the card template: ```<script src="https://jtahn.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjtahn%2FMarkdown%2Fblob%2Fmain%2FLeetCode%2F{{number}}.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on"></script>```
+
+
+
+
+# References
 - most stuff here isn't original
-- explained solutions
+- Leetcode
 	- youtube
 		- neetcode
 			- he doesnt give all 'good to know solutions', but he always explains the 'best' solution very well. so imo, these are probably the best starting point for completely understanding the problem and solutions
@@ -131,7 +137,6 @@
 	- CLRS
 	- skiena
 	- https://medium.com/leetcode-patterns
-
 
 
 
