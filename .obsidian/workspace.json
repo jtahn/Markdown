@@ -34,9 +34,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a8af1509c31a0283",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/128.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "LeetCode/128.md"
               }
             }
           }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/128.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/128.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,18 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "a8af1509c31a0283",
   "lastOpenFiles": [
-    "LeetCode/235.md",
+    "LeetCode/167.md",
     "todo.md",
     "README.md",
+    "LeetCode/128.md",
+    "LeetCode/235.md",
     "LeetCode/242.md",
     "LeetCode/11.md",
     "Calc/hw 4 solutions.md",
-    "LeetCode/128.md",
     "LeetCode/36.md",
     "LeetCode/42.md",
-    "LeetCode/167.md",
     "LeetCode/49.md",
     "hw 3 solutions.md",
     "!assets/attachments/Pasted image 20240228152224.png",
