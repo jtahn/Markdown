@@ -2,9 +2,7 @@
 - calc
 	- z
 - review
-	- [36](LeetCode/36.md)
-	- [42](LeetCode/42.md)
-	- [167](LeetCode/167.md)
+	- z
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z
 - revision ideas after review (check voice memos/notebook for edits)
