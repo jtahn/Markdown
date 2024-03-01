@@ -2,7 +2,6 @@
 - calc
 	- z
 - review
-	- [128](LeetCode/128.md)
 	- [383](LeetCode/383.md)
 	- [704](LeetCode/704.md)
 	- [271](LeetCode/271.md)
