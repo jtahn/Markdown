@@ -1,6 +1,13 @@
 # urgent
 - calc
 	- z
+- review
+	- [242](LeetCode/242.md)
+	- [235](LeetCode/235.md)
+	- [128](LeetCode/128.md)
+	- [36](LeetCode/36.md)
+	- [42](LeetCode/42.md)
+	- [167](LeetCode/167.md)
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z
 - revision ideas after review (check voice memos/notebook for edits)
