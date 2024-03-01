@@ -2,7 +2,6 @@
 - calc
 	- z
 - review
-	- [242](LeetCode/242.md)
 	- [235](LeetCode/235.md)
 	- [128](LeetCode/128.md)
 	- [36](LeetCode/36.md)
