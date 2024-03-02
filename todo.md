@@ -2,8 +2,7 @@
 - calc
 	- z
 - review
-	- [271](LeetCode/271.md)
-	- [15](LeetCode/15.md)
+	- [15. 3Sum](LeetCode/15.%203Sum.md)
 	- [542](LeetCode/542.md)
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z

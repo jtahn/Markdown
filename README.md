@@ -20,8 +20,8 @@
 
 ## Two Pointers
 10. [125](LeetCode/125.md)
-11. [167](LeetCode/167.md)
-12. [15](LeetCode/15.md)
+11. [167. Two Sum II - Input Array Is Sorted](LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
+12. [15. 3Sum](LeetCode/15.%203Sum.md)
 13. [11](LeetCode/11.md)
 14. [42](LeetCode/42.md)
 
