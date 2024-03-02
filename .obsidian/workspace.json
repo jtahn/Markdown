@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.5
   },
   "right": {
     "id": "d79f2a8c3c60aaff",
@@ -186,9 +186,10 @@
   },
   "active": "8f1a4fd1c476a02c",
   "lastOpenFiles": [
-    "LeetCode/167. Two Sum II - Input Array Is Sorted.md",
-    "LeetCode/15. 3Sum.md",
     "todo.md",
+    "LeetCode/15. 3Sum.md",
+    "!assets/attachments/Pasted image 20240302015040.png",
+    "LeetCode/167. Two Sum II - Input Array Is Sorted.md",
     "README.md",
     "LeetCode/271.md",
     "LeetCode/704.md",
@@ -214,7 +215,6 @@
     "!assets/attachments/Pasted image 20240228152217.png",
     "!assets/attachments/Pasted image 20240228152212.png",
     "!assets/attachments/Pasted image 20240228151535.png",
-    "!assets/attachments/Pasted image 20240228114549.png",
     "LeetCode/295.md",
     "Calc",
     "LeetCode/347.md",
@@ -225,7 +225,6 @@
     "LeetCode/973.md",
     "LeetCode/57.md",
     "LeetCode/22.md",
-    "LeetCode/150.md",
     "LeetCode/py/973.py",
     "LeetCode/py/733.py",
     "LeetCode/py/704.py",
