@@ -84,6 +84,15 @@
 
 
 
+# Style
+- code
+	- make it easy to not just READ, but UNDERSTAND what it is doing
+		- i'll probably remember it better if i understand the code too
+	- it's fine to have 'longer code' for these problems: the solutions are so short, that a 'long solution' isn't even that long
+	- this generally means, avoid:
+		- oneliners
+		- code that doesn't match up with the intuition/explanation
+
 
 # References
 - most stuff here isn't original
