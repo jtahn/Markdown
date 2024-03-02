@@ -8,57 +8,62 @@
 [^order]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty)
 
 ## Arrays & Hashing
-1. [217](LeetCode/217.md)
-2. [242](LeetCode/242.md)
-3. [1](LeetCode/1.md)
-4. [49](LeetCode/49.md)
-5. [347](LeetCode/347.md)
-6. [238](LeetCode/238.md)
-7. [36](LeetCode/36.md)
-8. [271](LeetCode/271.md)
-9. [128](LeetCode/128.md)
+1. [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
+2. [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
+3. [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
+4. [49. Group Anagrams](LeetCode/49.%20Group%20Anagrams.md)
+5. [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
+6. [238. Product of Array Except Self](LeetCode/238.%20Product%20of%20Array%20Except%20Self.md)
+7. [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md)
+8. [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
+9. [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md)
 
 ## Two Pointers
-10. [125](LeetCode/125.md)
+10. [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
 11. [167. Two Sum II - Input Array Is Sorted](LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 12. [15. 3Sum](LeetCode/15.%203Sum.md)
-13. [11](LeetCode/11.md)
-14. [42](LeetCode/42.md)
+13. [11. Container With Most Water](LeetCode/11.%20Container%20With%20Most%20Water.md)
+14. [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
 
 ## Sliding Window
-15. [121](LeetCode/121.md)
-16. [3](LeetCode/3.md)
+15. [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+16. [3. Longest Substring Without Repeating Characters](LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 ## Stack
-21. [20](LeetCode/20.md)
+21. [20. Valid Parentheses](LeetCode/20.%20Valid%20Parentheses.md)
 
 ## Binary Search
-28. [704](LeetCode/704.md)
+28. [704. Binary Search](LeetCode/704.%20Binary%20Search.md)
 
 ## Linked List
-36. [21](LeetCode/21.md)
-41. [141](LeetCode/141.md)
+36. [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+41. [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 
 ## Trees
-46. [226](LeetCode/226.md)
-49. [110](LeetCode/110.md)
-52. [235](LeetCode/235.md)
+46. [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
+49. [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
+52. [235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 
 ## Heap / Priority Queue
-66. [973](LeetCode/973.md)
+66. [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
 
 ## Greedy
-122. [53](LeetCode/53.md)
+122. [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 
 ## Intervals
-130. [57](LeetCode/57.md)
+130. [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
 
 ## grind169
-[733](LeetCode/733.md)
-[542](LeetCode/542.md)
-[232](LeetCode/232.md)
-[278](LeetCode/278.md)
-[383](LeetCode/383.md)
+
+[733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
+
+[542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
+
+[232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
+
+[278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
+
+[383. Ransom Note](LeetCode/383.%20Ransom%20Note.md)
 
 
 

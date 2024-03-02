@@ -3,67 +3,70 @@
 	- z
 - review
 	- [15. 3Sum](LeetCode/15.%203Sum.md)
-	- [542](LeetCode/542.md)
+	- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
+	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
+	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
+	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z
 - revision ideas after review (check voice memos/notebook for edits)
 	- z
 - whatever is next on neetcode 150 (https://neetcode.io/practice); understand main solutions, then create card in anki
-	- [424](LeetCode/424.md)
-	- [567](LeetCode/567.md)
-	- [76](LeetCode/76.md)
-	- [239](LeetCode/239.md)
-	- [155](LeetCode/155.md)
-	- [150](LeetCode/150.md)
-	- [[LeetCode/22]]
-	- [[LeetCode/739]]
-	- [[LeetCode/853]]
-	- [[LeetCode/84]]
-	- [[LeetCode/74]]
-	- [[LeetCode/875]]
-	- [[LeetCode/153]]
-	- [[LeetCode/33]]
-	- [[LeetCode/981]]
-	- [[LeetCode/4]]
-	- [[LeetCode/206]]
-	- [[LeetCode/143]]
-	- [[LeetCode/19]]
-	- [[LeetCode/138]]
-	- [[LeetCode/2]]
-	- [[LeetCode/287]]
-	- [[LeetCode/146]]
-	- [[LeetCode/23]]
-	- [[LeetCode/25]]
-	- [[LeetCode/104]]
-	- [[LeetCode/543]]
-	- [[LeetCode/100]]
-	- [[LeetCode/572]]
-	- [[LeetCode/102]]
-	- [[LeetCode/199]]
-	- [[LeetCode/1448]]
-	- [[LeetCode/98]]
-	- [[LeetCode/230]]
-	- [[LeetCode/105]]
-	- [[LeetCode/124]]
-	- [[LeetCode/297]]
-	- [[LeetCode/208]]
-	- [[LeetCode/211]]
-	- [[LeetCode/212]]
-	- [[LeetCode/703]]
-	- [[LeetCode/1046]]
-	- [[LeetCode/215]]
-	- [[LeetCode/621]]
-	- [[LeetCode/355]]
-	- [[LeetCode/295]]
+	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
+	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
+	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
+	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
+	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
+	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+	- [[LeetCode/22. Generate Parentheses]]
+	- [[LeetCode/739. Daily Temperatures]]
+	- [[LeetCode/853. Car Fleet]]
+	- [[LeetCode/84. Largest Rectangle in Histogram]]
+	- [[LeetCode/74. Search a 2D Matrix]]
+	- [[LeetCode/875. Koko Eating Bananas]]
+	- [[LeetCode/153. Find Minimum in Rotated Sorted Array]]
+	- [[LeetCode/33. Search in Rotated Sorted Array]]
+	- [[LeetCode/981. Time Based Key-Value Store]]
+	- [[LeetCode/4. Median of Two Sorted Arrays]]
+	- [[LeetCode/206. Reverse Linked List]]
+	- [[LeetCode/143. Reorder List]]
+	- [[LeetCode/19. Remove Nth Node From End of List]]
+	- [[LeetCode/138. Copy List with Random Pointer]]
+	- [[LeetCode/2. Add Two Numbers]]
+	- [[LeetCode/287. Find the Duplicate Number]]
+	- [[LeetCode/146. LRU Cache]]
+	- [[LeetCode/23. Merge k Sorted Lists]]
+	- [[LeetCode/25. Reverse Nodes in k-Group]]
+	- [[LeetCode/104. Maximum Depth of Binary Tree]]
+	- [[LeetCode/543. Diameter of Binary Tree]]
+	- [[LeetCode/100. Same Tree]]
+	- [[LeetCode/572. Subtree of Another Tree]]
+	- [[LeetCode/102. Binary Tree Level Order Traversal]]
+	- [[LeetCode/199. Binary Tree Right Side View]]
+	- [[LeetCode/1448. Count Good Nodes in Binary Tree]]
+	- [[LeetCode/98. Validate Binary Search Tree]]
+	- [[LeetCode/230. Kth Smallest Element in a BST]]
+	- [[LeetCode/105. Construct Binary Tree from Preorder and Inorder Traversal]]
+	- [[LeetCode/124. Binary Tree Maximum Path Sum]]
+	- [[LeetCode/297. Serialize and Deserialize Binary Tree]]
+	- [[LeetCode/208. Implement Trie (Prefix Tree)]]
+	- [[LeetCode/211. Design Add and Search Words Data Structure]]
+	- [[LeetCode/212. Word Search II]]
+	- [[LeetCode/703. Kth Largest Element in a Stream]]
+	- [[LeetCode/1046. Last Stone Weight]]
+	- [[LeetCode/215. Kth Largest Element in an Array]]
+	- [[LeetCode/621. Task Scheduler]]
+	- [[LeetCode/355. Design Twitter]]
+	- [[LeetCode/295. Find Median from Data Stream]]
 
 
 # later
 - don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)
-	- [53](LeetCode/53.md) divide and conquer
-	- [36](LeetCode/36.md) logn space (claimed)
+	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
+	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 - extremely rough (but i understand it)
-	- [42](LeetCode/42.md) stacks
-	- [973](LeetCode/973.md) heaps
-	- [704](LeetCode/704.md) binary
+	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
+	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
+	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
 - other
-	- [128](LeetCode/128.md) set lookup is O(1)
+	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
