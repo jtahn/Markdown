@@ -2,7 +2,6 @@
 - calc
 	- z
 - review
-	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
 	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
 	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
 	- [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
