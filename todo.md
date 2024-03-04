@@ -2,7 +2,6 @@
 - calc
 	- z
 - review
-	- [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
 	- [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 	- z
 - important for writing 'correct' solutions
