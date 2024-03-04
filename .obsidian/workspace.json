@@ -36,19 +36,31 @@
             }
           },
           {
-            "id": "313ca1b12a52d2fe",
+            "id": "b119824567bee529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/125. Valid Palindrome.md",
+                "file": "Blurbs/0. README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89cc427c10f1304a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blurbs/Complexity of sorting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "Blurbs/Complexity of sorting.md"
               }
             }
           }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "Blurbs/Complexity of sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "Blurbs/Complexity of sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +196,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "89cc427c10f1304a",
   "lastOpenFiles": [
-    "LeetCode/125. Valid Palindrome.md",
+    "Blurbs/0. README.md",
+    "Blurbs/Complexity of sorting.md",
+    "!assets/attachments/Pasted image 20240304181642.png",
+    "!assets/attachments/Pasted image 20240304181354.png",
+    "!assets/attachments/Pasted image 20240304181309.png",
+    "!assets/attachments/Pasted image 20240304181255.png",
+    "!assets/attachments/Pasted image 20240304181027.png",
+    "!assets/attachments/Pasted image 20240304180736.png",
+    "!assets/attachments/Pasted image 20240304180707.png",
+    "!assets/attachments/Pasted image 20240304180643.png",
+    "!assets/attachments/Pasted image 20240304180527.png",
+    "!assets/attachments/Pasted image 20240304180501.png",
     "todo.md",
+    "Bugs/0. README.md",
+    "LeetCode/125. Valid Palindrome.md",
+    "Blurbs",
     "LeetCode/217. Contains Duplicate.md",
     "Bugs/infinite loop caused by integer overflow.md",
     "LeetCode/278. First Bad Version.md",
@@ -196,20 +222,11 @@
     "Calc/ana question.md",
     "README.md",
     "LeetCode/232. Implement Queue using Stacks.md",
-    "!assets/attachments/Pasted image 20240304163704.png",
     "Calc/hw 4 solutions.md",
-    "!assets/attachments/Pasted image 20240304154132.png",
-    "!assets/attachments/Pasted image 20240304152152.png",
-    "!assets/attachments/Pasted image 20240304151028.png",
-    "!assets/attachments/Pasted image 20240304151013.png",
-    "!assets/attachments/Pasted image 20240304150954.png",
     "LeetCode/110. Balanced Binary Tree.md",
     "LeetCode/49. Group Anagrams.md",
-    "!assets/attachments/Pasted image 20240304143740.png",
     "LeetCode/121. Best Time to Buy and Sell Stock.md",
     "LeetCode/973. K Closest Points to Origin.md",
-    "!assets/attachments/Pasted image 20240304011501.png",
-    "!assets/attachments/Pasted image 20240304011412.png",
     "LeetCode/542. 01 Matrix.md",
     "LeetCode/15. 3Sum.md",
     "LeetCode/1046. Last Stone Weight.md",
@@ -218,11 +235,6 @@
     "LeetCode/875. Koko Eating Bananas.md",
     "LeetCode/853. Car Fleet.md",
     "LeetCode/739. Daily Temperatures.md",
-    "LeetCode/733. Flood Fill.md",
-    "LeetCode/704. Binary Search.md",
-    "LeetCode/703. Kth Largest Element in a Stream.md",
-    "LeetCode/621. Task Scheduler.md",
-    "!assets/attachments/Pasted image 20240302015040.png",
     "Anki Card template wip/scratch.ipynb",
     "scratch.ipynb",
     "Anki Card template wip/scratch.py",
@@ -230,7 +242,6 @@
     "LeetCode/py/973.py",
     "LeetCode/py/733.py",
     "LeetCode/py/704.py",
-    "LeetCode/py/542.py",
-    "LeetCode/py/383.py"
+    "LeetCode/py/542.py"
   ]
 }
