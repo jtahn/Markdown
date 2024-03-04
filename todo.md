@@ -2,8 +2,6 @@
 - calc
 	- z
 - review
-	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
-	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
 	- [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
 	- [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
 	- [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
