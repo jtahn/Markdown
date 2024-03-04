@@ -15,9 +15,9 @@
 - hw 3 solns (private vault)
 - [hw 4 solutions](Calc/hw%204%20solutions.md)
 
-# LeetCode ToC[^order]
+# LeetCode ToC[^order][^unfinished]
 [^order]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty); then 'leetcode top interview 150'
-
+[^unfinished]: check [todo](todo.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
 ## Arrays & Hashing
 1. [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
 2. [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
