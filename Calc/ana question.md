@@ -11,6 +11,7 @@ perfect exactly
 
 - checking for undefined (ie valid denominators) is definitely part of it
 	- though you’ll notice some of these are piecewise functions that have been defined so that the denominator skips the 'trouble points' (ie #12)
+	- (you will need to do more for piecewise: see below)
 - for piecewise:
 	- the general strategy for checking continuity:
 		1. check that each ‘function piece is continuous”
@@ -20,12 +21,14 @@ perfect exactly
 			- so for #12, this is at x=0.
 				- aka you need to check for continuity at x=0: which means:
 					1. the limit exists (the left and right limits exists and are equal): $$\lim_{x \to 0^-} f(x) = \lim_{x \to 0^+} f(x)$$
-					2. the limit equals the point: $$\lim_{x \to 0} = f(0)$$
+					2. the limit equals the point: $$\lim_{x \to 0} f(x) = f(0)$$
 			- might be worth reviewing/skimming:
 				- 2.4: one sided limits
 				- 2.5: continuity
 	- to check differentiability:
-		- check using limit definition of derivative (pg 125) at the points where pieces meet
+		- check each function piece is differentiable
+		- check for differentiability where the pieces meet
+			- (use limit definition of derivative (pg 125))
 			- you will need to use one-sided limits here as well
 			- see pg128 (3.2 example 4) for how this works for piecewise
 
