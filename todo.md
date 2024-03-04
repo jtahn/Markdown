@@ -2,7 +2,6 @@
 - calc
 	- z
 - review
-	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
 	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
 	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
 	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
