@@ -2,11 +2,11 @@
 - calc
 	- z
 - review
-	- [15. 3Sum](LeetCode/15.%203Sum.md)
-	- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
 	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
 	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
 	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
+	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
+	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
 	- z
 - revision ideas after review (check voice memos/notebook for edits)
