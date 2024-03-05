@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5a4fba2ffae4cff6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/0. README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "7167130ff9a17a2e",
             "type": "leaf",
             "pinned": true,
@@ -36,19 +50,18 @@
             }
           },
           {
-            "id": "f8bc2bb1c1ee5af0",
+            "id": "bba1bd2f76a28ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc/hw 4 solutions.md",
+                "file": "LeetCode/424. Longest Repeating Character Replacement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "70ae7f6205137ef4",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc/hw 4 solutions.md"
+                "file": "README.md"
               }
             }
           }
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc/hw 4 solutions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc/hw 4 solutions.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bc2bb1c1ee5af0",
+  "active": "01d987c96ac26e61",
   "lastOpenFiles": [
+    "todo.md",
+    "LeetCode/0. README.md",
+    "Calc/0. README.md",
+    "README.md",
+    "LeetCode/271. Encode and Decode Strings.md",
+    "Blurbs/Common combinatorial arguments in SWE.md",
+    "LeetCode/217. Contains Duplicate.md",
+    "LeetCode/424. Longest Repeating Character Replacement.md",
+    "Calc/hw 4 solutions.md",
     "!assets/attachments/Pasted image 20240304201256.png",
     "!assets/attachments/Pasted image 20240304200854.png",
     "!assets/attachments/Pasted image 20240304200835.png",
@@ -195,35 +218,26 @@
     "!assets/attachments/Pasted image 20240304194739.png",
     "!assets/attachments/Pasted image 20240304194702.png",
     "!assets/attachments/Pasted image 20240304194650.png",
-    "todo.md",
-    "README.md",
     "LeetCode/121. Best Time to Buy and Sell Stock.md",
     "Blurbs/Overflow.md",
     "LeetCode/278. First Bad Version.md",
     "Blurbs/Python implementations of data structures.md",
     "!assets/attachments/Pasted image 20240304190105.png",
-    "!assets/attachments/Pasted image 20240304190041.png",
     "Blurbs/Complexity of sorting.md",
-    "Blurbs/Common combinatorial arguments in SWE.md",
     "Blurbs/0. README.md",
     "LeetCode/733. Flood Fill.md",
     "LeetCode/542. 01 Matrix.md",
     "Bugs/0. README.md",
     "LeetCode/125. Valid Palindrome.md",
     "Blurbs",
-    "LeetCode/217. Contains Duplicate.md",
     "Bugs/infinite loop caused by integer overflow.md",
     "Bugs",
     "LeetCode/226. Invert Binary Tree.md",
     "Calc/ana question.md",
     "LeetCode/232. Implement Queue using Stacks.md",
-    "Calc/hw 4 solutions.md",
     "LeetCode/110. Balanced Binary Tree.md",
     "LeetCode/49. Group Anagrams.md",
     "LeetCode/973. K Closest Points to Origin.md",
-    "LeetCode/15. 3Sum.md",
-    "LeetCode/1046. Last Stone Weight.md",
-    "LeetCode/1448. Count Good Nodes in Binary Tree.md",
     "Anki Card template wip/scratch.ipynb",
     "scratch.ipynb",
     "Anki Card template wip/scratch.py",

@@ -3,13 +3,25 @@
 	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 
 # todo
-- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
-- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
-- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
-- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
-- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
-- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
+- heavy revisions
+	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
+	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
+	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
+	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
+	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
+	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
+	- meta: workflow
+		- draft a skeleton + dump screenies/etc for the solutions
+			- watch the vid https://neetcode.io/practice
+			- look it up on reliable sources for the 'best solution'
+				- https://leetcodethehardway.com/
+				- https://algo.monster/liteproblems/424
+			- then check leetcode forum solutions for other possible methods and clean explanations
+		- clean it up a bit
+		- once it's clean enough
+			- unsuspend card in anki
+			- add to toc in the readme
 	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
