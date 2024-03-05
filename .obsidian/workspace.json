@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "bba1bd2f76a28ed1",
+            "id": "31e00eb5f3379f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "70ae7f6205137ef4",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "LeetCode/424. Longest Repeating Character Replacement.md"
               }
             }
           }
@@ -130,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 289.5
   },
   "right": {
     "id": "d79f2a8c3c60aaff",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "LeetCode/424. Longest Repeating Character Replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "LeetCode/424. Longest Repeating Character Replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,16 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01d987c96ac26e61",
+  "active": "31e00eb5f3379f82",
   "lastOpenFiles": [
-    "todo.md",
     "LeetCode/0. README.md",
-    "Calc/0. README.md",
-    "README.md",
-    "LeetCode/271. Encode and Decode Strings.md",
-    "Blurbs/Common combinatorial arguments in SWE.md",
-    "LeetCode/217. Contains Duplicate.md",
+    "Blurbs/Brute force methods.md",
     "LeetCode/424. Longest Repeating Character Replacement.md",
+    "README.md",
+    "todo.md",
+    "Blurbs/Common combinatorial arguments used for complexity.md",
+    "Calc/0. README.md",
+    "LeetCode/271. Encode and Decode Strings.md",
+    "LeetCode/217. Contains Duplicate.md",
     "Calc/hw 4 solutions.md",
     "!assets/attachments/Pasted image 20240304201256.png",
     "!assets/attachments/Pasted image 20240304200854.png",
@@ -237,7 +238,6 @@
     "LeetCode/232. Implement Queue using Stacks.md",
     "LeetCode/110. Balanced Binary Tree.md",
     "LeetCode/49. Group Anagrams.md",
-    "LeetCode/973. K Closest Points to Origin.md",
     "Anki Card template wip/scratch.ipynb",
     "scratch.ipynb",
     "Anki Card template wip/scratch.py",
