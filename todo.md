@@ -3,6 +3,11 @@
 	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 
 # todo
+- reviews
+	- [3. Longest Substring Without Repeating Characters](LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+	- [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
+	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
+	- z
 - heavy revisions
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
