@@ -1,4 +1,5 @@
 # Meta
+- [todo](todo.md)
 - this repo is for md files that i need to be publicly available. examples:
 	- rough math/cs explanations for students
 		- markdown > latex bc we get max convenience with all of
@@ -6,8 +7,8 @@
 		- obsidian export to pdf is wonky, the md file itself looks better
 	- leetcode solution writeups to embed onto anki cards[^embed]
 
-[^embed]:  Cards need a `{{number}}` field; then paste this code into the card template: ```<script src="https://jtahn.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjtahn%2FMarkdown%2Fblob%2Fmain%2FLeetCode%2F{{number}}.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on"></script>```
 
+[^embed]:  Cards need a `{{number}}` field; then paste this code into the card template: ```<script src="https://jtahn.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjtahn%2FMarkdown%2Fblob%2Fmain%2FLeetCode%2F{{number}}.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on"></script>```
 
 
 # Calc TA stuff

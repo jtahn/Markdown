@@ -1,5 +1,6 @@
 # organization and clean-up
-- modify the markdown cards: the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
+- modify the markdown cards
+	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 
 # todo
 - [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
