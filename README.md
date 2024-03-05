@@ -19,10 +19,14 @@
 [^order]: starts with neetcode150; then continues with grind169 (sorted by topic, then difficulty); then 'leetcode top interview 150'
 [^unfinished]: check [todo](todo.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
 
-## Blurbs
-- [Complexity of sorting](Blurbs/Complexity%20of%20sorting.md)
-- [infinite loop caused by integer overflow](Bugs/infinite%20loop%20caused%20by%20integer%20overflow.md)
 
+## Blurbs
+
+### Background
+- [Common combinatorial arguments in SWE](Blurbs/Common%20combinatorial%20arguments%20in%20SWE.md)
+### Brownie points
+- [Complexity of sorting](Blurbs/Complexity%20of%20sorting.md)
+- [Overflow](Blurbs/Overflow.md)
 
 ## Arrays & Hashing
 1. [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
