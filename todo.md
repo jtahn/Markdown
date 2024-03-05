@@ -1,14 +1,14 @@
-# urgent
-- calc
-	- z
-- review
-	- z
-- important for writing 'correct' solutions
-- i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
-	- z
-- revision ideas after review (check voice memos/notebook for edits)
-	- z
-- whatever is next on neetcode 150 (https://neetcode.io/practice); understand main solutions, then create card in anki
+# organization and clean-up
+- modify the markdown cards: the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
+
+# todo
+- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
+- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
+- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
+- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
+- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
+- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
+- whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
@@ -57,15 +57,22 @@
 	- [[LeetCode/295. Find Median from Data Stream]]
 
 
-# later
-- organization
-	- modify the markdown cards: the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
-- don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)
-	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
-	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
-- extremely rough (but i understand it)
-	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
-	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
-	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
-- other
-	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
+
+
+
+
+# meta
+- always keep the list in order of urgency
+- examples of todo items
+	- calc explanation
+	- anki
+		- backlog for reviews
+		- revision ideas after review (check voice memos/notebook for edits)
+		- blurbs that i think would be helpful for swe/leetcode interviews
+		- leetcode
+			- "i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones"
+			- "don't understand a qualitatively different technique (but probly not urgent bc it's not strictly better)"
+		- extremely rough cards that i understand the material, and have all the prose there; but are written very sloppily
+		- future cards that i (just) have a skeleton for
+
+
