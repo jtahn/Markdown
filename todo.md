@@ -2,7 +2,6 @@
 - calc
 	- z
 - review
-	- [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 	- z
 - important for writing 'correct' solutions
 - i don't understand the main solutions; aka either the 'simple inefficient' ones and/or the 'important efficient' ones
