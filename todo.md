@@ -7,6 +7,7 @@
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- z
 - revisions
+	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
@@ -22,13 +23,17 @@
 			- look it up on reliable sources for the 'best solution'
 				- https://leetcodethehardway.com/
 				- https://algo.monster/liteproblems/424
+			- reliable leetcoders
+				- hiepit https://leetcode.com/hiepit/
+				- chaudhary1337 https://leetcode.com/chaudhary1337/
+				- DBabichev https://leetcode.com/DBabichev/
+			- reliable youtubers
+				- https://www.youtube.com/@chaudharycodes/videos
 			- then check leetcode forum solutions for other possible methods and clean explanations
 		- clean it up a bit
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
-	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
 	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [[LeetCode/22. Generate Parentheses]]
@@ -71,6 +76,10 @@
 	- [[LeetCode/621. Task Scheduler]]
 	- [[LeetCode/355. Design Twitter]]
 	- [[LeetCode/295. Find Median from Data Stream]]
+- whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
+	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+- famous hard leetcode problems
+	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
 - other references to make problem writeups for
 	- directly applicable to swe interview
 		- aziz (EPI)
@@ -79,6 +88,18 @@
 	- directly applicable to quant interview
 		- brain teasers
 		- combinatorics
+		- mathcounts / AMC / IMO
+		- art of problem solving
+- return to leetcode
+	- neetcode has stuff past 150
+- problems that are tangentially related
+	- competitive programming
+		- https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms
+			- project euler
+			- codeforces
+		- other lists
+			- peking icpc
+				- http://poj.org/problemlist
 - other references idk if i'm making problem writeups yet; bc seems like i should just make zotero reading cards out of references
 	- swe performance
 		- clean code, etc
