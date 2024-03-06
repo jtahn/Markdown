@@ -4,14 +4,16 @@
 
 # todo
 - reviews
+	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- z
-- heavy revisions
+- revisions
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
 	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
 	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
 	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
+	- z
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow
 		- draft a skeleton + dump screenies/etc for the solutions
@@ -25,8 +27,6 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
-	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
 	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
@@ -71,9 +71,26 @@
 	- [[LeetCode/621. Task Scheduler]]
 	- [[LeetCode/355. Design Twitter]]
 	- [[LeetCode/295. Find Median from Data Stream]]
-
-
-
+- other references to make problem writeups for
+	- directly applicable to swe interview
+		- aziz (EPI)
+		- skiena
+		- maybe cormen
+	- directly applicable to quant interview
+		- brain teasers
+		- combinatorics
+- other references idk if i'm making problem writeups yet; bc seems like i should just make zotero reading cards out of references
+	- swe performance
+		- clean code, etc
+	- swe interview at places like hrt
+		- cpp
+		- low level and systems concepts
+	- stuff i alrdy know but i want to make cards on, for completeness, and is so fundamental, even tho mebe wont apply to job
+		- linalg
+		- prob
+		- stats
+		- signal processing
+- 
 
 
 
