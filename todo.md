@@ -4,7 +4,6 @@
 
 # todo
 - reviews
-	- [3. Longest Substring Without Repeating Characters](LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 	- [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
 	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 	- z
