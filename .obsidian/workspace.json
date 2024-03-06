@@ -64,27 +64,45 @@
             }
           },
           {
-            "id": "061bceb2dd5fdad0",
+            "id": "e4ef961b9cd89c91",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/57. Insert Interval.md",
+                "file": "LeetCode/567. Permutation in String.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "305773ebb89d7af5",
+            "id": "d47e2307a8dd268a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blurbs/recursive traversal is DFS.md",
+                "file": "LeetCode/76. Minimum Window Substring.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d159f9068a3edd0a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/239. Sliding Window Maximum.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -226,13 +244,16 @@
   },
   "active": "31e00eb5f3379f82",
   "lastOpenFiles": [
-    "LeetCode/733. Flood Fill.md",
-    "Blurbs/recursive traversal is DFS.md",
-    "todo.md",
+    "LeetCode/239. Sliding Window Maximum.md",
+    "LeetCode/76. Minimum Window Substring.md",
+    "LeetCode/567. Permutation in String.md",
     "LeetCode/424. Longest Repeating Character Replacement.md",
-    "README.md",
+    "todo.md",
     "LeetCode/0. README.md",
+    "Blurbs/recursive traversal is DFS.md",
     "LeetCode/57. Insert Interval.md",
+    "LeetCode/733. Flood Fill.md",
+    "README.md",
     "LeetCode/3. Longest Substring Without Repeating Characters.md",
     "LeetCode/121. Best Time to Buy and Sell Stock.md",
     "Blurbs/Brute force methods.md",
@@ -260,10 +281,7 @@
     "Bugs/0. README.md",
     "LeetCode/125. Valid Palindrome.md",
     "Blurbs",
-    "Bugs/infinite loop caused by integer overflow.md",
     "Bugs",
-    "LeetCode/226. Invert Binary Tree.md",
-    "Calc/ana question.md",
     "Anki Card template wip/scratch.ipynb",
     "scratch.ipynb",
     "Anki Card template wip/scratch.py",

@@ -4,8 +4,6 @@
 
 # todo
 - reviews
-	- [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
-	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 	- z
 - heavy revisions
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
