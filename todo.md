@@ -18,6 +18,7 @@
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow
 		- draft a skeleton + dump screenies/etc for the solutions
+			- high level summary of the optimal solution:  https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
 			- watch the vid https://neetcode.io/practice
 			- look it up on reliable sources for the 'best solution'
 				- https://leetcodethehardway.com/
