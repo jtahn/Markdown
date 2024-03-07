@@ -6,13 +6,12 @@
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- z
-- revisions
-	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
+- understand
+	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md) dynamic programming
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
-	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md) heaps
-	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md) binary
+		- see [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md) for related
 	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
 	- z
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
@@ -78,6 +77,15 @@
 	- [[LeetCode/295. Find Median from Data Stream]]
 - whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
 	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+- apparently interesting (these might've already been covered)
+	- monotonic queues/stacks
+		- https://leetcode.com/problems/daily-temperatures/description/
+		- https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+		- https://leetcode.com/problems/132-pattern/description/
+		- https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
+		- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+		- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
+		- https://leetcode.com/problems/next-greater-element-i/description/
 - famous hard leetcode problems
 	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
 - other references to make problem writeups for
@@ -91,7 +99,10 @@
 		- mathcounts / AMC / IMO
 		- art of problem solving
 - return to leetcode
-	- neetcode has stuff past 150
+	- all problems covered by 'reliable' sources
+		- neetcode
+		- algomonster
+		- hard way
 - problems that are tangentially related
 	- competitive programming
 		- https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms
