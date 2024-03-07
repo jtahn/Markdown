@@ -7,7 +7,8 @@
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- z
 - understand
-	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md) dynamic programming
+	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
+	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
@@ -33,8 +34,6 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
-	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [[LeetCode/22. Generate Parentheses]]
 	- [[LeetCode/739. Daily Temperatures]]
 	- [[LeetCode/853. Car Fleet]]
@@ -79,6 +78,8 @@
 	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 - apparently interesting (these might've already been covered)
 	- monotonic queues/stacks
+		- https://leetcode.com/problems/jump-game-iv/description/
+		- https://leetcode.com/problems/constrained-subsequence-sum/description/
 		- https://leetcode.com/problems/daily-temperatures/description/
 		- https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 		- https://leetcode.com/problems/132-pattern/description/
@@ -86,6 +87,9 @@
 		- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 		- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 		- https://leetcode.com/problems/next-greater-element-i/description/
+	- dp/monotonic
+
+		- 
 - famous hard leetcode problems
 	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
 - other references to make problem writeups for

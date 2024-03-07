@@ -48,21 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "407e779155ba64fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/239. Sliding Window Maximum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/239. Sliding Window Maximum.md"
+                "file": "todo.md"
               }
             }
           }
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/239. Sliding Window Maximum.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/239. Sliding Window Maximum.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,13 +186,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e779155ba64fb",
+  "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
+    "LeetCode/239. Sliding Window Maximum.md",
+    "todo.md",
+    "!assets/attachments/Pasted image 20240307082829.png",
+    "LeetCode/0. README.md",
+    "LeetCode/150. Evaluate Reverse Polish Notation.md",
+    "LeetCode/155. Min Stack.md",
+    "LeetCode/22. Generate Parentheses.md",
     "!assets/attachments/Pasted image 20240306214122.png",
     "LeetCode/42. Trapping Rain Water.md",
-    "LeetCode/239. Sliding Window Maximum.md",
-    "LeetCode/0. README.md",
-    "todo.md",
     "LeetCode/11. Container With Most Water.md",
     "!assets/attachments/Pasted image 20240306205258.png",
     "!assets/attachments/Pasted image 20240306205234.png",
@@ -214,8 +206,6 @@
     "!assets/attachments/Pasted image 20240306205106.png",
     "!assets/attachments/Pasted image 20240306205045.png",
     "!assets/attachments/Pasted image 20240306205040.png",
-    "!assets/attachments/Pasted image 20240306205005.png",
-    "!assets/attachments/Pasted image 20240306204950.png",
     "LeetCode/53. Maximum Subarray.md",
     "LeetCode/973. K Closest Points to Origin.md",
     "LeetCode/704. Binary Search.md",
@@ -233,9 +223,6 @@
     "LeetCode/57. Insert Interval.md",
     "LeetCode/733. Flood Fill.md",
     "README.md",
-    "LeetCode/121. Best Time to Buy and Sell Stock.md",
-    "Blurbs/Brute force methods.md",
-    "Blurbs/Common combinatorial arguments used for complexity.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",
