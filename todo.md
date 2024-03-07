@@ -10,7 +10,7 @@
 	- z
 - understand
 	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md) O(1) space (claimed)
-	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md) O(1) space (claimed)
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
