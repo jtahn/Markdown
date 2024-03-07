@@ -5,9 +5,11 @@
 # todo
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
+	- [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
+	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 	- z
 - understand
-	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
+	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md) O(1) space (claimed)
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)

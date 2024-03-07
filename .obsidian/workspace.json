@@ -48,9 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a597b2b9e2637d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "LeetCode/0. README.md"
               }
             }
           }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/0. README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/0. README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,26 +198,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "7041918403bde985",
   "lastOpenFiles": [
-    "LeetCode/239. Sliding Window Maximum.md",
     "todo.md",
-    "!assets/attachments/Pasted image 20240307082829.png",
-    "LeetCode/0. README.md",
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
     "LeetCode/155. Min Stack.md",
+    "LeetCode/297. Serialize and Deserialize Binary Tree.md",
+    "!assets/attachments/Pasted image 20240307101707.png",
+    "!assets/attachments/Pasted image 20240307101642.png",
+    "!assets/attachments/Pasted image 20240307101622.png",
+    "!assets/attachments/Pasted image 20240307101601.png",
+    "!assets/attachments/Pasted image 20240307101137.png",
+    "!assets/attachments/Pasted image 20240307100616.png",
+    "!assets/attachments/Pasted image 20240307100517.png",
+    "!assets/attachments/Pasted image 20240307100452.png",
+    "LeetCode/239. Sliding Window Maximum.md",
+    "LeetCode/0. README.md",
+    "!assets/attachments/Pasted image 20240307082829.png",
     "LeetCode/22. Generate Parentheses.md",
     "!assets/attachments/Pasted image 20240306214122.png",
     "LeetCode/42. Trapping Rain Water.md",
     "LeetCode/11. Container With Most Water.md",
-    "!assets/attachments/Pasted image 20240306205258.png",
-    "!assets/attachments/Pasted image 20240306205234.png",
-    "!assets/attachments/Pasted image 20240306205217.png",
-    "!assets/attachments/Pasted image 20240306205158.png",
-    "!assets/attachments/Pasted image 20240306205122.png",
-    "!assets/attachments/Pasted image 20240306205106.png",
-    "!assets/attachments/Pasted image 20240306205045.png",
-    "!assets/attachments/Pasted image 20240306205040.png",
     "LeetCode/53. Maximum Subarray.md",
     "LeetCode/973. K Closest Points to Origin.md",
     "LeetCode/704. Binary Search.md",
