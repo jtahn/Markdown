@@ -9,7 +9,6 @@
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 	- z
 - understand
-	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md) O(1) space (claimed)
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
