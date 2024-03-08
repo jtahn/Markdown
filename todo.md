@@ -9,6 +9,10 @@
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 	- z
 - understand
+	- [[LeetCode/22. Generate Parentheses]]
+	- [[LeetCode/739. Daily Temperatures]]
+	- [[LeetCode/853. Car Fleet]]
+	- [[LeetCode/84. Largest Rectangle in Histogram]]
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
@@ -34,10 +38,6 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [[LeetCode/22. Generate Parentheses]]
-	- [[LeetCode/739. Daily Temperatures]]
-	- [[LeetCode/853. Car Fleet]]
-	- [[LeetCode/84. Largest Rectangle in Histogram]]
 	- [[LeetCode/74. Search a 2D Matrix]]
 	- [[LeetCode/875. Koko Eating Bananas]]
 	- [[LeetCode/153. Find Minimum in Rotated Sorted Array]]
@@ -108,6 +108,8 @@
 		- algomonster
 		- hard way
 - problems that are tangentially related
+	- other programming problem sites
+		- https://checkio.org
 	- competitive programming
 		- https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms
 			- project euler
@@ -118,6 +120,13 @@
 - other references idk if i'm making problem writeups yet; bc seems like i should just make zotero reading cards out of references
 	- swe performance
 		- clean code, etc
+		- most popular posts on swe-related stack exchange communities
+		- reputable informal sources
+			- realpython
+			- hitchhikers
+			- pmotw
+		- reputable formal sources
+			- ramalho's fluent python
 	- swe interview at places like hrt
 		- cpp
 		- low level and systems concepts
