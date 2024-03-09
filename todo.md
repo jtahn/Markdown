@@ -1,15 +1,19 @@
 # organization and clean-up
 - modify the markdown cards
 	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
-
+- add the function prototype to every card, right under the link
 # todo
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
+	- [20. Valid Parentheses](LeetCode/20.%20Valid%20Parentheses.md)
 	- z
 - understand
 	- [[LeetCode/22. Generate Parentheses]]
+		- what are the the techniques actually called
+		- backtracking with references
+		- DP or memo
 	- [[LeetCode/739. Daily Temperatures]]
 	- [[LeetCode/853. Car Fleet]]
 	- [[LeetCode/84. Largest Rectangle in Histogram]]
@@ -87,14 +91,13 @@
 		- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 		- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 		- https://leetcode.com/problems/next-greater-element-i/description/
-	- dp/monotonic
-
-		- 
 - famous hard leetcode problems
 	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
 - other references to make problem writeups for
 	- directly applicable to swe interview
 		- aziz (EPI)
+			- maybe buy the most recent python version at some point
+			- https://elementsofprogramminginterviews.com/2017/11/27/2017-11-27-buying-epi/
 		- skiena
 		- maybe cormen
 	- directly applicable to quant interview
