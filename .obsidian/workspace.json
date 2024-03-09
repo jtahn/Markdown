@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "LeetCode/739. Daily Temperatures.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/739. Daily Temperatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/739. Daily Temperatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "6db39f444dc1c028",
   "lastOpenFiles": [
-    "LeetCode/20. Valid Parentheses.md",
+    "!assets/attachments/Pasted image 20240309160215.png",
     "todo.md",
     "LeetCode/739. Daily Temperatures.md",
+    "!assets/attachments/Pasted image 20240309130952.png",
+    "!assets/attachments/Pasted image 20240309124251.png",
+    "LeetCode/20. Valid Parentheses.md",
     "!assets/attachments/Pasted image 20240307225731.png",
     "!assets/attachments/Pasted image 20240307224319.png",
     "!assets/attachments/Pasted image 20240307223749.png",
@@ -222,8 +225,6 @@
     "!assets/attachments/Pasted image 20240307221415.png",
     "!assets/attachments/Pasted image 20240307221347.png",
     "!assets/attachments/Pasted image 20240307220735.png",
-    "!assets/attachments/Pasted image 20240307220706.png",
-    "!assets/attachments/Pasted image 20240307220347.png",
     "Blurbs/Python2 vs Python3.md",
     "Blurbs/Overflow.md",
     "LeetCode/297. Serialize and Deserialize Binary Tree.md",
@@ -235,7 +236,6 @@
     "Bugs/equality of reference vs value.md",
     "Blurbs/Data structure vs Abstract data type.md",
     "LeetCode/546. Remove Boxes.md",
-    "LeetCode/438. Find All Anagrams in a String.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",

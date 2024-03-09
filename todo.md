@@ -7,7 +7,8 @@
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
-	- [20. Valid Parentheses](LeetCode/20.%20Valid%20Parentheses.md)
+	- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 	- z
 - understand
 	- [[LeetCode/22. Generate Parentheses]]
@@ -80,7 +81,7 @@
 	- [[LeetCode/295. Find Median from Data Stream]]
 - whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
 	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
-- apparently interesting (these might've already been covered)
+- seem interesting/useful/related (these might've already been covered)
 	- monotonic queues/stacks
 		- https://leetcode.com/problems/jump-game-iv/description/
 		- https://leetcode.com/problems/constrained-subsequence-sum/description/
@@ -91,6 +92,8 @@
 		- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 		- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 		- https://leetcode.com/problems/next-greater-element-i/description/
+			- this one is related to [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
+			- imo it's valuable bc it highlights why [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md) has 2 optimal solutions instead of just 1...it's bc the possible temps are a finite set
 - famous hard leetcode problems
 	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
 - other references to make problem writeups for
