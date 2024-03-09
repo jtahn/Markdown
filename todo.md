@@ -15,7 +15,6 @@
 		- what are the the techniques actually called
 		- backtracking with references
 		- DP or memo
-	- [[LeetCode/739. Daily Temperatures]]
 	- [[LeetCode/853. Car Fleet]]
 	- [[LeetCode/84. Largest Rectangle in Histogram]]
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
