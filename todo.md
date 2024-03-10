@@ -16,7 +16,6 @@
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- z
 - understand
-	- [[LeetCode/74. Search a 2D Matrix]]
 	- [[LeetCode/875. Koko Eating Bananas]]
 	- [[LeetCode/22. Generate Parentheses]]
 		- what are the the techniques actually called
@@ -83,6 +82,9 @@
 	- [[LeetCode/295. Find Median from Data Stream]]
 - whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
 	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+- other popular/reputable lists
+	- https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+	- 
 - seem interesting/useful/related (these might've already been covered)
 	- monotonic queues/stacks
 		- https://leetcode.com/problems/jump-game-iv/description/
