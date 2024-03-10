@@ -9,14 +9,19 @@
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 	- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
+	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
+	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
+	- [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
+	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- z
 - understand
+	- [[LeetCode/74. Search a 2D Matrix]]
+	- [[LeetCode/875. Koko Eating Bananas]]
 	- [[LeetCode/22. Generate Parentheses]]
 		- what are the the techniques actually called
 		- backtracking with references
 		- DP or memo
-	- [[LeetCode/853. Car Fleet]]
-	- [[LeetCode/84. Largest Rectangle in Histogram]]
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
@@ -42,8 +47,6 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [[LeetCode/74. Search a 2D Matrix]]
-	- [[LeetCode/875. Koko Eating Bananas]]
 	- [[LeetCode/153. Find Minimum in Rotated Sorted Array]]
 	- [[LeetCode/33. Search in Rotated Sorted Array]]
 	- [[LeetCode/981. Time Based Key-Value Store]]
@@ -93,8 +96,22 @@
 		- https://leetcode.com/problems/next-greater-element-i/description/
 			- this one is related to [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
 			- imo it's valuable bc it highlights why [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md) has 2 optimal solutions instead of just 1...it's bc the possible temps are a finite set
+	- binary search
+		- https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+		- https://leetcode.com/problems/divide-chocolate/description/
+			- https://leetcode.com/discuss/interview-question/350800/Google-or-Onsite-or-Chocolate-Sweetness
 - famous hard leetcode problems
 	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
+	- [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+	- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+	- https://leetcode.com/problems/alien-dictionary/description/
+	- [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+	- https://leetcode.com/problems/burst-balloons/description/
+		- [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+	- https://leetcode.com/problems/all-oone-data-structure/description/
+		- [432. All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+	- https://leetcode.com/problems/split-array-largest-sum/description/
+		- [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - other references to make problem writeups for
 	- directly applicable to swe interview
 		- aziz (EPI)
