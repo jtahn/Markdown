@@ -29,6 +29,13 @@
 	- z
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow
+		- reliable github repos
+			- https://github.com/lzl124631x/LeetCode/tree/master/leetcode
+		- possibly reliable github repos
+			- https://github.com/knockcat/Leetcode
+		- possibly reliable leetcoders
+			- https://leetcode.com/lee215/
+			- https://leetcode.com/linfq/
 		- draft a skeleton + dump screenies/etc for the solutions
 			- high level summary of the optimal solution:  https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
 			- watch the vid https://neetcode.io/practice
@@ -102,6 +109,14 @@
 		- https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
 		- https://leetcode.com/problems/divide-chocolate/description/
 			- https://leetcode.com/discuss/interview-question/350800/Google-or-Onsite-or-Chocolate-Sweetness
+		- 1539. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/discuss/779999/JavaC++Python-O(logN))
+		- 1482. [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/discuss/686316/javacpython-binary-search/578488)
+		- 1283. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/446376/javacpython-bianry-search/401806)
+		- 1231. [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/discuss/408503/Python-Binary-Search)
+		- 1011. [Capacity To Ship Packages In N Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/256729/javacpython-binary-search/351188?page=3)
+		- 875. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/discuss/152324/C++JavaPython-Binary-Search)
+		- 774. [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/discuss/113633/Easy-and-Concise-Solution-using-Binary-Search-C++JavaPython)
+		- 410. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - famous hard leetcode problems
 	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
 	- [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
