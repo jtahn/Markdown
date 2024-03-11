@@ -16,7 +16,16 @@
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- z
 - understand
-	- [[LeetCode/875. Koko Eating Bananas]]
+	- [[LeetCode/153. Find Minimum in Rotated Sorted Array]]
+	- [[LeetCode/33. Search in Rotated Sorted Array]]
+	- [[LeetCode/981. Time Based Key-Value Store]]
+	- [[LeetCode/4. Median of Two Sorted Arrays]]
+	- [[LeetCode/206. Reverse Linked List]]
+	- [[LeetCode/143. Reorder List]]
+	- [[LeetCode/19. Remove Nth Node From End of List]]
+	- [[LeetCode/138. Copy List with Random Pointer]]
+	- [[LeetCode/2. Add Two Numbers]]
+	- [[LeetCode/287. Find the Duplicate Number]]
 	- [[LeetCode/22. Generate Parentheses]]
 		- what are the the techniques actually called
 		- backtracking with references
@@ -53,16 +62,6 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [[LeetCode/153. Find Minimum in Rotated Sorted Array]]
-	- [[LeetCode/33. Search in Rotated Sorted Array]]
-	- [[LeetCode/981. Time Based Key-Value Store]]
-	- [[LeetCode/4. Median of Two Sorted Arrays]]
-	- [[LeetCode/206. Reverse Linked List]]
-	- [[LeetCode/143. Reorder List]]
-	- [[LeetCode/19. Remove Nth Node From End of List]]
-	- [[LeetCode/138. Copy List with Random Pointer]]
-	- [[LeetCode/2. Add Two Numbers]]
-	- [[LeetCode/287. Find the Duplicate Number]]
 	- [[LeetCode/146. LRU Cache]]
 	- [[LeetCode/23. Merge k Sorted Lists]]
 	- [[LeetCode/25. Reverse Nodes in k-Group]]
