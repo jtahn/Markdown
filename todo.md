@@ -3,7 +3,9 @@
 	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 - add the function prototype to every card, right under the link
 - figure out how i want to split gowers/higham and get it in my zotero
-
+- embed animation via powerpoint? make slides; can i embed a slideshow that autoplays and loops? example:
+	- https://docs.google.com/presentation/d/e/2PACX-1vQ-Oy-oQ0i4CvWbo8gf9-v42gVOb5gS76sJvhG7jqIntQV7R1dDG3tS7YUhRiPqYXBCjqCcVsJUeZjG/pub?start=true&loop=false&delayms=1500&slide=id.gbc95359713_0_384
+	- ehh i'm not sure...the link changes every time the slide changes...this might cause problems
 
 # todo
 - reviews
@@ -24,7 +26,6 @@
 	- z
 - understand
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
-	- [[LeetCode/206. Reverse Linked List]]
 	- [[LeetCode/143. Reorder List]]
 	- [[LeetCode/19. Remove Nth Node From End of List]]
 	- [[LeetCode/138. Copy List with Random Pointer]]
