@@ -20,6 +20,8 @@
 
 
 
+![](../!assets/attachments/tenor.gif)
+
 
 
 # Obsidian settings that I changed for this vault

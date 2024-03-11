@@ -3,9 +3,19 @@
 	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 - add the function prototype to every card, right under the link
 - figure out how i want to split gowers/higham and get it in my zotero
-- embed animation via powerpoint? make slides; can i embed a slideshow that autoplays and loops? example:
-	- https://docs.google.com/presentation/d/e/2PACX-1vQ-Oy-oQ0i4CvWbo8gf9-v42gVOb5gS76sJvhG7jqIntQV7R1dDG3tS7YUhRiPqYXBCjqCcVsJUeZjG/pub?start=true&loop=false&delayms=1500&slide=id.gbc95359713_0_384
-	- ehh i'm not sure...the link changes every time the slide changes...this might cause problems
+- add diagrams
+	- you can drag and drop local gif files into obsidian (check if i can drag straight from browser; probly not though); they automatically will get moved to attachments folder + linked there; then they show up on github markdown viewer, and also in the anki card embedding! 
+	- making gifs:
+		- * [Make an animated GIF from a slide show - Microsoft Support](https://support.microsoft.com/en-us/office/make-an-animated-gif-from-a-slide-show-a598753e-92de-4f1b-8393-714db4d334b4)
+		- seems google slides doesn't have this functionality...so you could create in gslides, then open in ppt
+			- https://www.howtogeek.com/832437/how-to-convert-google-slides-to-video-or-gif/
+	- alternative (that seems worse, but maybe could be useful to be aware of)
+		- you can share a link to a google slides prez that auto plays/loops it 
+		- ie https://docs.google.com/presentation/d/e/2PACX-1vQ-Oy-oQ0i4CvWbo8gf9-v42gVOb5gS76sJvhG7jqIntQV7R1dDG3tS7YUhRiPqYXBCjqCcVsJUeZjG/pub?start=true&loop=false&delayms=1500&slide=id.gbc95359713_0_384
+		- * [Make Google Docs, Sheets, Slides & Forms public - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/183965?hl=en&co=GENIE.Platform%3DDesktop#)
+			- can get an embed link
+			- 
+
 
 # todo
 - reviews
@@ -27,6 +37,8 @@
 - understand
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
 	- [[LeetCode/143. Reorder List]]
+		- recursion
+		- iterative and space efficient
 	- [[LeetCode/19. Remove Nth Node From End of List]]
 	- [[LeetCode/138. Copy List with Random Pointer]]
 	- [[LeetCode/2. Add Two Numbers]]
