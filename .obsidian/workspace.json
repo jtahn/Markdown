@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "70ae7f6205137ef4",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "LeetCode/0. README.md"
               }
             }
           }
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/0. README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/0. README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,24 +187,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "7041918403bde985",
   "lastOpenFiles": [
+    "todo.md",
+    "LeetCode/33. Search in Rotated Sorted Array.md",
+    "!assets/attachments/Pasted image 20240311094113.png",
+    "!assets/attachments/Pasted image 20240311094058.png",
+    "!assets/attachments/Pasted image 20240311093239.png",
+    "!assets/attachments/Pasted image 20240310214142.png",
+    "!assets/attachments/Pasted image 20240310214103.png",
+    "!assets/attachments/Pasted image 20240310214045.png",
+    "LeetCode/0. README.md",
     "LeetCode/153. Find Minimum in Rotated Sorted Array.md",
     "Blurbs/Very general patterns.md",
     "!assets/attachments/Pasted image 20240310204423.png",
     "!assets/attachments/Pasted image 20240310204331.png",
     "!assets/attachments/Pasted image 20240310204259.png",
     "!assets/attachments/Pasted image 20240310204215.png",
-    "!assets/attachments/Pasted image 20240310204149.png",
-    "!assets/attachments/Pasted image 20240310204038.png",
-    "!assets/attachments/Pasted image 20240310204006.png",
-    "!assets/attachments/Pasted image 20240310203949.png",
-    "!assets/attachments/Pasted image 20240310203908.png",
-    "todo.md",
     "LeetCode/704. Binary Search.md",
-    "!assets/attachments/Pasted image 20240310202951.png",
     "LeetCode/875. Koko Eating Bananas.md",
-    "LeetCode/0. README.md",
     "Blurbs/Leetcode specific remarks.md",
     "LeetCode/74. Search a 2D Matrix.md",
     "LeetCode/84. Largest Rectangle in Histogram.md",
@@ -222,7 +224,6 @@
     "LeetCode/76. Minimum Window Substring.md",
     "LeetCode/239. Sliding Window Maximum.md",
     "Blurbs/Python2 vs Python3.md",
-    "Blurbs/Overflow.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",

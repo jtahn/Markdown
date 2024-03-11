@@ -16,8 +16,6 @@
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- z
 - understand
-	- [[LeetCode/153. Find Minimum in Rotated Sorted Array]]
-	- [[LeetCode/33. Search in Rotated Sorted Array]]
 	- [[LeetCode/981. Time Based Key-Value Store]]
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
 	- [[LeetCode/206. Reverse Linked List]]
