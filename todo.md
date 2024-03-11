@@ -2,6 +2,9 @@
 - modify the markdown cards
 	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 - add the function prototype to every card, right under the link
+- figure out how i want to split gowers/higham and get it in my zotero
+
+
 # todo
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
@@ -14,9 +17,12 @@
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
 	- [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
+	- [238. Product of Array Except Self](LeetCode/238.%20Product%20of%20Array%20Except%20Self.md)
+	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
+	- [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
+	- [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
 	- z
 - understand
-	- [[LeetCode/981. Time Based Key-Value Store]]
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
 	- [[LeetCode/206. Reverse Linked List]]
 	- [[LeetCode/143. Reorder List]]
