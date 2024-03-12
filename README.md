@@ -1,13 +1,19 @@
+![](../!assets/attachments/tenor.gif)   ![|200](!assets/attachments/tenor-2.gif)
+
 # Meta
 - [todo](todo.md)
 - why markdown (instead of vscode latex or anki editor)
 	- max convenience with all of:
-		- screenies, mathjax, code snippets, nested lists (multiple indents), headings
+		- mathjax, code snippets, nested lists (multiple indents), headings, quotes
 			- for short informal stuff, all this stuff is helpful
 				- quick to skim
 				- easy to revise
 				- (and no real cons exactly bc it's for short informal stuff)
-		- obsidian turns wikilinks into relative paths, and this is actually p helpful
+		- gifs (helpful for diagrams/visualizations)..see the top
+- why obsidian
+	- immediately insert screenies
+		- (note you can do this in vscode as well, with Paste Image extension)
+	- turns wikilinks into relative paths, and this is actually p helpful for github viewing/embedding
 - this repo is for md files that i need to be publicly available. examples:
 	- [Calc TA stuff](Calc/0.%20README.md)
 		- rough math/cs explanations for students
@@ -20,7 +26,6 @@
 
 
 
-![](../!assets/attachments/tenor.gif)
 
 
 

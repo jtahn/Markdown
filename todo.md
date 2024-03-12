@@ -33,6 +33,11 @@
 	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
 	- [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
 	- [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
+	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md)
+	- [235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
+	- [84. Largest Rectangle in Histogram](LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
+	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
+	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md)
 	- z
 - understand
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
