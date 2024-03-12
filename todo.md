@@ -43,7 +43,6 @@
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
 	- [[LeetCode/143. Reorder List]]
 		- recursion
-	- [[LeetCode/19. Remove Nth Node From End of List]]
 	- [[LeetCode/138. Copy List with Random Pointer]]
 	- [[LeetCode/2. Add Two Numbers]]
 	- [[LeetCode/287. Find the Duplicate Number]]
