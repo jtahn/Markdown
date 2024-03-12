@@ -43,8 +43,6 @@
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
 	- [[LeetCode/143. Reorder List]]
 		- recursion
-	- [[LeetCode/138. Copy List with Random Pointer]]
-	- [[LeetCode/2. Add Two Numbers]]
 	- [[LeetCode/287. Find the Duplicate Number]]
 	- [[LeetCode/22. Generate Parentheses]]
 		- what are the the techniques actually called
