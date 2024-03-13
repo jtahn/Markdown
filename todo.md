@@ -19,7 +19,6 @@
 # todo
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
-	- [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 	- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)

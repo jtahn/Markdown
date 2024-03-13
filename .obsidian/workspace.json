@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "7167130ff9a17a2e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "2ea499ded38d70c2",
             "type": "leaf",
             "pinned": true,
@@ -78,15 +64,17 @@
             }
           },
           {
-            "id": "fc4709958e49e5b6",
+            "id": "7167130ff9a17a2e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blurbs/Common combinatorial arguments used for complexity.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/53. Maximum Subarray.md"
+                "file": "todo.md"
               }
             }
           }
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/53. Maximum Subarray.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/53. Maximum Subarray.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,13 +214,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b7f71504343898a",
+  "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
-    "LeetCode/1. Two Sum.md",
-    "Blurbs/Common combinatorial arguments used for complexity.md",
+    "LeetCode/141. Linked List Cycle.md",
+    "LeetCode/104. Maximum Depth of Binary Tree.md",
     "LeetCode/53. Maximum Subarray.md",
     "todo.md",
-    "LeetCode/104. Maximum Depth of Binary Tree.md",
+    "Blurbs/Common combinatorial arguments used for complexity.md",
+    "LeetCode/1. Two Sum.md",
     "LeetCode/0. README.md",
     "README.md",
     "!assets/attachments/HUHrabbit.gif",
@@ -263,7 +252,6 @@
     "Blurbs/Python standard library modules.md",
     "LeetCode/981. Time Based Key-Value Store.md",
     "LeetCode/21. Merge Two Sorted Lists.md",
-    "LeetCode/33. Search in Rotated Sorted Array.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",
