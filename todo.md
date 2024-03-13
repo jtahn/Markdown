@@ -16,7 +16,6 @@
 			- can get an embed link
 			- 
 
-
 # todo
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
@@ -40,6 +39,10 @@
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md)
 	- z
 - understand
+	- [[LeetCode/104. Maximum Depth of Binary Tree]]
+	- [[LeetCode/543. Diameter of Binary Tree]]
+	- [[LeetCode/100. Same Tree]]
+	- [[LeetCode/572. Subtree of Another Tree]]
 	- [[LeetCode/4. Median of Two Sorted Arrays]]
 	- [[LeetCode/143. Reorder List]]
 		- recursion
@@ -83,10 +86,6 @@
 	- [[LeetCode/146. LRU Cache]]
 	- [[LeetCode/23. Merge k Sorted Lists]]
 	- [[LeetCode/25. Reverse Nodes in k-Group]]
-	- [[LeetCode/104. Maximum Depth of Binary Tree]]
-	- [[LeetCode/543. Diameter of Binary Tree]]
-	- [[LeetCode/100. Same Tree]]
-	- [[LeetCode/572. Subtree of Another Tree]]
 	- [[LeetCode/102. Binary Tree Level Order Traversal]]
 	- [[LeetCode/199. Binary Tree Right Side View]]
 	- [[LeetCode/1448. Count Good Nodes in Binary Tree]]

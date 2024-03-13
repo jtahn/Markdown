@@ -1,4 +1,4 @@
-![](../!assets/attachments/tenor.gif)   ![|200](!assets/attachments/tenor-2.gif)
+![](!assets/attachments/clappingbear.gif)   
 
 # Meta
 - [todo](todo.md)
@@ -115,3 +115,8 @@
 	- [Baldy's Breakdowns: The Film Behind Cooper Kupp's Viral Touchdown Analysis](https://www.youtube.com/watch?v=7LXG0h5Txis)
 	- [LeBron's Photographic Memory](https://www.youtube.com/watch?v=HG6M2xQZvj0)
 	- [Sean McVay Literally Remembers Every Play of His Coaching Career 🤯| Simms & Lefkoe: The Show](https://www.youtube.com/watch?v=IjlfQBQk_kg)
+
+
+
+
+![](!assets/attachments/HUHrabbit.gif)

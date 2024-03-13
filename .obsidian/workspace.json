@@ -48,9 +48,49 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2ea499ded38d70c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/104. Maximum Depth of Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2b7f71504343898a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/53. Maximum Subarray.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fc4709958e49e5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blurbs/Common combinatorial arguments used for complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "LeetCode/53. Maximum Subarray.md"
               }
             }
           }
@@ -134,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/53. Maximum Subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/53. Maximum Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,24 +226,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "2b7f71504343898a",
   "lastOpenFiles": [
+    "LeetCode/1. Two Sum.md",
+    "Blurbs/Common combinatorial arguments used for complexity.md",
+    "LeetCode/53. Maximum Subarray.md",
+    "todo.md",
+    "LeetCode/104. Maximum Depth of Binary Tree.md",
+    "LeetCode/0. README.md",
+    "README.md",
+    "!assets/attachments/HUHrabbit.gif",
+    "!assets/attachments/clappingbear.gif",
+    "!assets/attachments/duckthumbsup.jpg",
     "LeetCode/2. Add Two Numbers.md",
     "Bugs/chaining.md",
     "!assets/attachments/Pasted image 20240312195144.png",
-    "README.md",
-    "LeetCode/0. README.md",
-    "todo.md",
     "!assets/attachments/Pasted image 20240312194523.png",
     "!assets/attachments/Pasted image 20240312194431.png",
     "!assets/attachments/Pasted image 20240312194400.png",
     "!assets/attachments/Pasted image 20240312194336.png",
     "!assets/attachments/Pasted image 20240312194313.png",
     "!assets/attachments/Pasted image 20240312194258.png",
-    "!assets/attachments/Pasted image 20240312194248.png",
-    "!assets/attachments/Pasted image 20240312193625.png",
     "Blurbs/Memory leaks.md",
-    "!assets/attachments/Pasted image 20240312192434.png",
     "LeetCode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "LeetCode/110. Balanced Binary Tree.md",
     "LeetCode/226. Invert Binary Tree.md",
@@ -220,9 +264,6 @@
     "LeetCode/981. Time Based Key-Value Store.md",
     "LeetCode/21. Merge Two Sorted Lists.md",
     "LeetCode/33. Search in Rotated Sorted Array.md",
-    "LeetCode/153. Find Minimum in Rotated Sorted Array.md",
-    "Blurbs/Very general patterns.md",
-    "LeetCode/704. Binary Search.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",
