@@ -19,7 +19,6 @@
 # todo
 - reviews
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
-	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
 	- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
@@ -36,6 +35,16 @@
 	- [84. Largest Rectangle in Histogram](LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
 	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md)
+	- [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
+	- [167. Two Sum II - Input Array Is Sorted](LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
+	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md)
+	- [33. Search in Rotated Sorted Array](LeetCode/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+	- [11. Container With Most Water](LeetCode/11.%20Container%20With%20Most%20Water.md)
+	- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
+	- [853. Car Fleet](LeetCode/853.%20Car%20Fleet.md)
+	- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+	- [287. Find the Duplicate Number](LeetCode/287.%20Find%20the%20Duplicate%20Number.md)
+	- 
 	- z
 - understand
 	- [[LeetCode/104. Maximum Depth of Binary Tree]]
