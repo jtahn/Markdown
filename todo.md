@@ -24,7 +24,6 @@
 	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
-	- [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
 	- [238. Product of Array Except Self](LeetCode/238.%20Product%20of%20Array%20Except%20Self.md)
 	- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
@@ -44,6 +43,10 @@
 	- [853. Car Fleet](LeetCode/853.%20Car%20Fleet.md)
 	- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 	- [287. Find the Duplicate Number](LeetCode/287.%20Find%20the%20Duplicate%20Number.md)
+	- [875. Koko Eating Bananas](LeetCode/875.%20Koko%20Eating%20Bananas.md)
+	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
+	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
+	- [49. Group Anagrams](LeetCode/49.%20Group%20Anagrams.md)
 	- 
 	- z
 - understand
