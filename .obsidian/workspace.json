@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "2ea499ded38d70c2",
+            "id": "7167130ff9a17a2e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/104. Maximum Depth of Binary Tree.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
@@ -62,83 +62,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7167130ff9a17a2e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b931e195d8ca110d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/704. Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9522cc7babb1ac49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/347. Top K Frequent Elements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4088c606b1a6a123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef031766bba15d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/424. Longest Repeating Character Replacement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b1d7cd49710e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/21. Merge Two Sorted Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "LeetCode/53. Maximum Subarray.md"
               }
             }
           }
@@ -222,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/53. Maximum Subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "LeetCode/53. Maximum Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,11 +200,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "2b7f71504343898a",
   "lastOpenFiles": [
+    "!assets/attachments/Pasted image 20240315025546.png",
+    "todo.md",
+    "LeetCode/53. Maximum Subarray.md",
+    "LeetCode/0. README.md",
+    "LeetCode/104. Maximum Depth of Binary Tree.md",
     "LeetCode/242. Valid Anagram.md",
     "!assets/attachments/Pasted image 20240314235441.png",
-    "todo.md",
     "LeetCode/704. Binary Search.md",
     "LeetCode/347. Top K Frequent Elements.md",
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
@@ -286,11 +216,8 @@
     "LeetCode/76. Minimum Window Substring.md",
     "LeetCode/21. Merge Two Sorted Lists.md",
     "LeetCode/141. Linked List Cycle.md",
-    "LeetCode/104. Maximum Depth of Binary Tree.md",
-    "LeetCode/53. Maximum Subarray.md",
     "Blurbs/Common combinatorial arguments used for complexity.md",
     "LeetCode/1. Two Sum.md",
-    "LeetCode/0. README.md",
     "README.md",
     "!assets/attachments/HUHrabbit.gif",
     "!assets/attachments/clappingbear.gif",
@@ -311,7 +238,6 @@
     "Blurbs/Hashing in diff languages.md",
     "LeetCode/19. Remove Nth Node From End of List.md",
     "LeetCode/206. Reverse Linked List.md",
-    "LeetCode/143. Reorder List.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",

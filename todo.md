@@ -47,7 +47,6 @@
 	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
 	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
 	- [49. Group Anagrams](LeetCode/49.%20Group%20Anagrams.md)
-	- 
 	- z
 - understand
 	- [[LeetCode/104. Maximum Depth of Binary Tree]]
