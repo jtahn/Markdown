@@ -47,6 +47,12 @@
 	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
 	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
 	- [49. Group Anagrams](LeetCode/49.%20Group%20Anagrams.md)
+	- [981. Time Based Key-Value Store](LeetCode/981.%20Time%20Based%20Key-Value%20Store.md)
+	- [19. Remove Nth Node From End of List](LeetCode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+	- [206. Reverse Linked List](LeetCode/206.%20Reverse%20Linked%20List.md)
+	- [138. Copy List with Random Pointer](LeetCode/138.%20Copy%20List%20with%20Random%20Pointer.md)
+	- [74. Search a 2D Matrix](LeetCode/74.%20Search%20a%202D%20Matrix.md)
+	- 
 	- z
 - understand
 	- [[LeetCode/104. Maximum Depth of Binary Tree]]

@@ -15,10 +15,10 @@
 		- (note you can do this in vscode as well, with Paste Image extension)
 	- turns wikilinks into relative paths, and this is actually p helpful for github viewing/embedding
 - this repo is for md files that i need to be publicly available. examples:
-	- [Calc TA stuff](Calc/0.%20README.md)
+	- [Calc TA stuff](Calc/README.md)
 		- rough math/cs explanations for students
 		- obsidian export to pdf is wonky, the md file itself looks better
-	- [LeetCode](LeetCode/0.%20README.md)
+	- [LeetCode](LeetCode/README.md)
 		- solution writeups to embed onto anki cards[^embed]
 
 

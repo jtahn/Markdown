@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/0. README.md",
+                "file": "LeetCode/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -62,9 +62,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "af6f29b8de673036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calc/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/53. Maximum Subarray.md"
+                "file": "Calc/README.md"
               }
             }
           }
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/53. Maximum Subarray.md",
+                "file": "Calc/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/53. Maximum Subarray.md",
+                "file": "Calc/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,12 +212,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b7f71504343898a",
+  "active": "af6f29b8de673036",
   "lastOpenFiles": [
-    "!assets/attachments/Pasted image 20240315025546.png",
+    "Bugs/README.md",
+    "Blurbs/README.md",
+    "README.md",
     "todo.md",
+    "LeetCode/README.md",
     "LeetCode/53. Maximum Subarray.md",
-    "LeetCode/0. README.md",
+    "!assets/attachments/Pasted image 20240315025546.png",
     "LeetCode/104. Maximum Depth of Binary Tree.md",
     "LeetCode/242. Valid Anagram.md",
     "!assets/attachments/Pasted image 20240314235441.png",
@@ -218,7 +233,6 @@
     "LeetCode/141. Linked List Cycle.md",
     "Blurbs/Common combinatorial arguments used for complexity.md",
     "LeetCode/1. Two Sum.md",
-    "README.md",
     "!assets/attachments/HUHrabbit.gif",
     "!assets/attachments/clappingbear.gif",
     "!assets/attachments/duckthumbsup.jpg",
@@ -229,7 +243,6 @@
     "!assets/attachments/Pasted image 20240312194431.png",
     "!assets/attachments/Pasted image 20240312194400.png",
     "!assets/attachments/Pasted image 20240312194336.png",
-    "!assets/attachments/Pasted image 20240312194313.png",
     "Blurbs/Memory leaks.md",
     "LeetCode/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "LeetCode/110. Balanced Binary Tree.md",
@@ -237,7 +250,6 @@
     "LeetCode/138. Copy List with Random Pointer.md",
     "Blurbs/Hashing in diff languages.md",
     "LeetCode/19. Remove Nth Node From End of List.md",
-    "LeetCode/206. Reverse Linked List.md",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",
