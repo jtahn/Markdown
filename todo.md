@@ -18,7 +18,6 @@
 
 # todo
 - reviews
-	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
@@ -67,7 +66,6 @@
 		- what are the the techniques actually called
 		- backtracking with references
 		- DP or memo
-	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md) divide and conquer
 	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
 		- see [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md) for related
