@@ -18,7 +18,6 @@
 
 # todo
 - reviews
-	- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
 	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
@@ -51,7 +50,6 @@
 	- [206. Reverse Linked List](LeetCode/206.%20Reverse%20Linked%20List.md)
 	- [138. Copy List with Random Pointer](LeetCode/138.%20Copy%20List%20with%20Random%20Pointer.md)
 	- [74. Search a 2D Matrix](LeetCode/74.%20Search%20a%202D%20Matrix.md)
-	- 
 	- z
 - understand
 	- [[LeetCode/104. Maximum Depth of Binary Tree]]

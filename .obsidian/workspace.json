@@ -188,8 +188,9 @@
   },
   "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
-    "LeetCode/53. Maximum Subarray.md",
+    "LeetCode/21. Merge Two Sorted Lists.md",
     "todo.md",
+    "LeetCode/53. Maximum Subarray.md",
     "!assets/attachments/Pasted image 20240315214129.png",
     "!assets/attachments/Pasted image 20240315214111.png",
     "!assets/attachments/Pasted image 20240315213808.png",
@@ -212,7 +213,6 @@
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
     "LeetCode/424. Longest Repeating Character Replacement.md",
     "LeetCode/76. Minimum Window Substring.md",
-    "LeetCode/21. Merge Two Sorted Lists.md",
     "LeetCode/141. Linked List Cycle.md",
     "Blurbs/Common combinatorial arguments used for complexity.md",
     "LeetCode/1. Two Sum.md",
