@@ -18,7 +18,6 @@
 
 # todo
 - reviews
-	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
 	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
