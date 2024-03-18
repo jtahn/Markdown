@@ -1,9 +1,6 @@
-# organization and clean-up
-- modify the markdown cards
-	- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
-- add the function prototype to every card, right under the link
-- figure out how i want to split gowers/higham and get it in my zotero
-- add diagrams
+# markdown structure: possible changes
+- can i add code lines to code snippets?
+- best way to add diagrams?
 	- you can drag and drop local gif files into obsidian (check if i can drag straight from browser; probly not though); they automatically will get moved to attachments folder + linked there; then they show up on github markdown viewer, and also in the anki card embedding! 
 	- making gifs:
 		- * [Make an animated GIF from a slide show - Microsoft Support](https://support.microsoft.com/en-us/office/make-an-animated-gif-from-a-slide-show-a598753e-92de-4f1b-8393-714db4d334b4)
@@ -14,9 +11,44 @@
 		- ie https://docs.google.com/presentation/d/e/2PACX-1vQ-Oy-oQ0i4CvWbo8gf9-v42gVOb5gS76sJvhG7jqIntQV7R1dDG3tS7YUhRiPqYXBCjqCcVsJUeZjG/pub?start=true&loop=false&delayms=1500&slide=id.gbc95359713_0_384
 		- * [Make Google Docs, Sheets, Slides & Forms public - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/183965?hl=en&co=GENIE.Platform%3DDesktop#)
 			- can get an embed link
-			- 
 
-# todo
+# anki card changes
+- the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
+
+# general card structure/content reminders
+- add the function prototype to every card, right under the link
+- add descriptors 
+- discussions of 'fundamental techniques'
+	- remove from cards where this is just 1 step of the approach
+		- ie [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
+	- add reference to cards where the 'fundamental technique' is the entire approach; ie exactly solved by these fundamental techniques
+	- examples
+		- [703. Kth Largest Element in a Stream](LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
+			- heaps
+		- [704. Binary Search](LeetCode/704.%20Binary%20Search.md)
+			- 2 vs 3 cases
+			- while loop condition allowing equality or not
+		- [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md) will contain discussions on:
+			- counting
+			- (a lot of this covered by realpython article on Counter class)
+			- choice of what python structure to use for counting
+				- dict (and the 2 typical ways ppl handle absent keys)
+				- default dict
+				- Counter
+			- how to compare hash structures
+				- cover the built-in ops/commands
+					- ie `&` operator for Counter
+				- optimizations:
+					- construct structure as you pass through 1 item; then decrement counts as you pass through another
+					- using a variable to store total counts, so you dont have to iterate through entire hashmap every time to compare 
+						- 2 ways here too:
+							- store how many 'letters of alphabet have the correct count'
+							- store total letters we are correct with (and so we have success when total letter matches length of whatever we're trying to find/match)
+
+
+
+
+# leetcode
 - reviews
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
@@ -48,6 +80,10 @@
 	- [206. Reverse Linked List](LeetCode/206.%20Reverse%20Linked%20List.md)
 	- [138. Copy List with Random Pointer](LeetCode/138.%20Copy%20List%20with%20Random%20Pointer.md)
 	- [74. Search a 2D Matrix](LeetCode/74.%20Search%20a%202D%20Matrix.md)
+	- [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
+	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
+	- [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
+	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 	- z
 - understand
 	- [[LeetCode/104. Maximum Depth of Binary Tree]]
