@@ -1,10 +1,21 @@
-# index of foundational techniques (and dicussions)
+# alternative descriptions of this blurb
+- 'what parts of the algo should i go into detail about; vs what parts should i just wave hands and cite stuff'
+
+# index of foundational techniques
+- meta
+	- these aren't necessarily the 'only problem' that is fundamental for this technique
+	- it's just currently, the first one that was at that 'lowest level found so far', and i haven't found a problem that is 'more fundamental' for that technique
+	- so that problem is currently where the discussion for this technique is located
 - [704. Binary Search](../LeetCode/704.%20Binary%20Search.md)
 	- binary search
 - [242. Valid Anagram](../LeetCode/242.%20Valid%20Anagram.md)
-	- counting and comparing counts
+	- counting freqs wrt a finite char set
+	- comparing counts once
 - [703. Kth Largest Element in a Stream](../LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
 	- heaps
+- [567. Permutation in String](../LeetCode/567.%20Permutation%20in%20String.md)
+	- sliding window
+	- repeatedly comparing counts wrt a finite char set
 
 # looking for fundamental problem
 - stacks/queues
@@ -22,6 +33,9 @@
 			- however this problem raises an interesting observation about how it matters for space complexity, which direction you iterate through; i highly suspect this should go into the discussion for this technique
 
 
+# use fundamental techniques, if they're just a step of the overall solution
+- make sure to add a reference to the technique
+	- for [strategy when reviewing cards](strategy%20when%20reviewing%20cards.md)
 
 
 # only the 'best' technique
@@ -51,3 +65,5 @@
 			- strictly better time complexity than above techniques
 			- asymptotically equivalent space complexity
 			- so that's why other techniques, imo no reason to go in detail; i should know how to explain them if necessary, because i review the other problems
+
+

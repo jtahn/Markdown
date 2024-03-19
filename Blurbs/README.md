@@ -1,25 +1,26 @@
-# goal
+# ideally: this directory is a just temp placeholder
 - ultimately, this directory should be empty
-- i should be able to find a 'fundamental problem' where a blurb's discussion can be put into
-	- ie the entire solution to this problem, essentially revolves around exactly understanding that is targeted by this discussion
-	- once i find this: then add it to my 'index of foundational/fundamental techniques'
-	- ie python modules: there's often a problem that this module most directly solves
-		- exampls
-			- bisect: [704. Binary Search](../LeetCode/704.%20Binary%20Search.md)
-			- heapq: [703. Kth Largest Element in a Stream](../LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
-
-
-- like any kind of discussion
-	- there's surely some kind of application
-	- which surely is the 'entire/fundamental' answer to a question
-	- so i just need to find that 'fundamental question'
-		- ideally, phrased like a question i'd actually be asked in an interview
-			- even better: exact examples of questions that are asked in interviews
-			- bc atm, swe/quant interviews are the highest priority
-			- later, 'job performance' might be come highest priority, and so then questions i might try to phrase as 'situations that have come up during ppl's job work' as well
-	- until then: can just leave the discussion in this directory as a blurb
-	- repeatedly re-reading zotero is a lower priority
-		- mainly helps/triggers awareness if i have a misunderstanding (ie using incorrect jargon) 
+	- i should be able to find a 'fundamental problem' where a blurb's discussion can be put into
+		- ie the entire solution to this problem, essentially revolves around exactly understanding that is targeted by this discussion
+		- once i find this: then add it to my 'index of foundational/fundamental techniques'
+		- ie python modules: there's often a problem that this module most directly solves
+			- exampls
+				- bisect: [704. Binary Search](../LeetCode/704.%20Binary%20Search.md)
+				- heapq: [703. Kth Largest Element in a Stream](../LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
+	- any kind of discussion:
+		- there's surely some kind of application
+		- which surely is the 'entire/fundamental' answer to a question
+		- so i just need to find that 'fundamental question'
+			- ideally, phrased like a question i'd actually be asked in an interview
+				- even better: exact examples of questions that are asked in interviews
+				- bc atm, swe/quant interviews are the highest priority
+				- later, 'job performance' might be come highest priority, and so then questions i might try to phrase as 'situations that have come up during ppl's job work' as well
+		- until then: can just leave the discussion in this directory as a blurb
+		- repeatedly re-reading zotero is a lower priority
+			- mainly helps/triggers awareness if i have a misunderstanding about how i'm explaining something
+				- ie using incorrect jargon
+				- also a source for my writeups for discussions on the fundamental techniques
+					- btw add them as references
 
 
 

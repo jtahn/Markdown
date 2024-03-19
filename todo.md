@@ -16,6 +16,12 @@
 - the js embedding needs to also replace the 'directory' field; and then i add leetcode directory to all my leetcode cards
 
 # general card structure/content reminders
+- it's fine to leave a todo list for later
+	- get stuff down in a state where, it won't be a headache to resume where i stopped
+	- if revising is difficult (ie idk how to word things properly; or i can't really figure out the 'big idea'): just means i don't have the background/connections to make yet
+		- it's just inefficient to spend an hour trying to figure it out: the explanation will eventually appear somewhere else (ie clrs; stackexchange; solution to another problem)
+			- i have too much stuff to cover atm, i need to prepare for swe and quant interviews
+	- so just come back later, when i've done more reviews; eventually, i'll have the bg/cnxns
 - add the function prototype to every card, right under the link
 - add descriptors 
 - discussions of 'fundamental techniques'
@@ -49,6 +55,11 @@
 
 
 # leetcode
+- voice memo cleanup
+	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
+	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
+	- [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
+	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 - reviews
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
@@ -84,6 +95,8 @@
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
 	- [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
 	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
+	- [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
+	- [15. 3Sum](LeetCode/15.%203Sum.md)
 	- z
 - understand
 	- [[LeetCode/104. Maximum Depth of Binary Tree]]
