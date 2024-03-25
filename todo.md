@@ -55,11 +55,6 @@
 
 
 # leetcode
-- voice memo cleanup
-	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
-	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
-	- [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
-	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 - reviews
 	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
 	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
@@ -97,24 +92,20 @@
 	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 	- [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
 	- [15. 3Sum](LeetCode/15.%203Sum.md)
-	- z
-- understand
-	- [[LeetCode/104. Maximum Depth of Binary Tree]]
-	- [[LeetCode/543. Diameter of Binary Tree]]
-	- [[LeetCode/100. Same Tree]]
-	- [[LeetCode/572. Subtree of Another Tree]]
-	- [[LeetCode/4. Median of Two Sorted Arrays]]
-	- [[LeetCode/143. Reorder List]]
-		- recursion
-	- [[LeetCode/287. Find the Duplicate Number]]
-	- [[LeetCode/22. Generate Parentheses]]
-		- what are the the techniques actually called
-		- backtracking with references
-		- DP or memo
-	- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md) logn space (claimed)
-	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md) stacks
-		- see [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md) for related
-	- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md) set lookup is O(1)
+	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
+	- [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
+	- [383. Ransom Note](LeetCode/383.%20Ransom%20Note.md)
+	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
+	- [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
+	- [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+	- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
+	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
+	- [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
+	- [33. Search in Rotated Sorted Array](LeetCode/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+	- [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
+	- [84. Largest Rectangle in Histogram](LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
+	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
+	- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 	- z
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow
@@ -142,6 +133,12 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
+	- [[LeetCode/104. Maximum Depth of Binary Tree]]
+	- [[LeetCode/543. Diameter of Binary Tree]]
+	- [[LeetCode/100. Same Tree]]
+	- [[LeetCode/572. Subtree of Another Tree]]
+	- [[LeetCode/4. Median of Two Sorted Arrays]]
+	- [[LeetCode/287. Find the Duplicate Number]]
 	- [[LeetCode/146. LRU Cache]]
 	- [[LeetCode/23. Merge k Sorted Lists]]
 	- [[LeetCode/25. Reverse Nodes in k-Group]]
