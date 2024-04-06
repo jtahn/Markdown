@@ -134,3 +134,84 @@
 # why
 - fundamental techniques seems similar to how you’ll actually approach problems in practice
 	- once you get really good at recognizing patterns; you start already guessing that there are certain obvious/classic steps you should take to simplify the problem, and already having a general sense of what that technique will do; maybe not specifics, but in a broad way (aka the specific implementation details don’t immediately matter atm)
+
+
+
+# 'true understanding' means i know the steps?
+
+- it does seem like: true understanding of the problem happens when:
+	- i actually do understand how to ‘come up with the solution’ myself, and i can see how there are clear steps
+	- similar to how in calculus: when i see a problem, i immediately know the general steps i need to take (and the ‘jargon names’ for them), and ‘why’ (ie the ‘inspo’..ie ‘problem asks for slope of tangent line, so i immediately know i need to take a derivative; so lets do a derivative; and now we see to derive, we need to use product/chain rule’)
+
+- yea imo the mindset i need to take with leetcode:
+	- it’s exactly how i study calculus
+	- the ‘difficulty’ here is that calculus, seems there’s a lot more ways to practice the abstract formulation (ie not word problems) to build confidence with the mechanical/drilling/computation aspect (which for leetcode imo: is the ‘implementation’ aka ‘writing code’ part)
+		- well idk, we’ll see..wait until later to think of ‘similarities btwn calc and leetcode’
+	- but for now: just keep doing what i’m doing. it’s definitely working, and based on gold medal competitive programmers, is close to the ‘right’ way to do things
+	- none of this will ever be a waste of time, bc leetcode is the most important thing for the ‘road to 500k tc’..ie if there was anything to ‘maximize’ (ie go over 80/20 rule), it should be leetcode
+		- and swe seems like the most consistent/’highest EV’ way to hit 500k tc
+		- i suspect im nearing the end of the bubble tho, so this is kinda urgent..like atm i’m probly lucky cuz it seems ‘american being lazy/not having time to do leetcode’ and ‘internationals grinding leetcode but not having enough spots at companies’...but surely one of these will change in the next few years
+			- ie companies outsourcing even more of their work
+			- or: at some point, bc of how many americans are switching over to swe: even if most arent doing much leetcode: there are enough that are doing it, that i now have serious competition
+	- also: it’s like max 250 problems that i ‘need to do’, before surely im at like 99pct mastery, and by that point: steps/etc/connections/’blurbs’ will become soooo obvious
+
+
+
+# name variables when i cite a fundy
+
+- when i say ‘name variables’:
+	- i mean like: ‘fundamental technique’ is very general and should be interpreted as acting on ‘general problem’ that involves ‘general objects’...ie variables
+		- but bc im using specific problems: then the objects in that problems should be interpreted as ‘variables’
+	- so then: when i apply technique from one problem to another problem: maybe briefly describe what objects in current problem are associated with objects in the og/fundamental problem..ie naming variables
+
+
+# ideal level of 'explanation'
+- ideal level of ‘explanation’ is:
+	- heading uses ‘jargon’ for the technique
+	- sometimes, a oneliner that more specifically describes ‘naming the variables’ used in the technique, for each fundamental technique that is cited
+	- oneliner comments for each block/subroutine in the code, if not immediately obvious what’s happening
+
+- goal: practice:
+	- reading code
+	- associating ‘jargon’ with techniques
+	- practice applying ‘techniques’ to specific situations (ie how to ‘name variables’)
+
+- having long explanation after the code, is actually annoying to understand
+	- bc i have to keep scrolling back and forth, unless super vertical display
+
+- no point explaining step by step in prose, when python is already so readable
+
+- imo the goal here is: to be able to develop the skill in performing the following steps:
+	- identify global technique to use (ie the jargon heading)
+	- identify how to name variables to use for that fundamental/global technique
+	- recall what the typical steps are (ie comments for each subroutine in code)
+	- know finer details of implementation (aka writing the actual python code)
+
+- probably move complexity at the very top, ie before i provide actual code
+	- bc i think it should possible (and would be a good skill) to be able to quickly estimate/recall the probably complexity, based on the global technique
+
+
+- maybe: always put a oneliner comment for every subroutine (“aka step”), even if its obvious
+	- bc imo makes it easier to remember/understand this process
+
+- simply put: the explanation is made so that reading/understanding solutions is the right balance of ‘easy’ yet ‘feels efficient’
+	- and imo, the above format is basically the best template
+	- ‘no comments’ are harder to understand; but too much prose/detail feels like a slog
+	- the best is clearly, going from general to specific, in a very organized/efficient way (ie minimize scrolling/jumping around)
+
+
+
+# fundy: it's not the structure, it's the approach?
+- future possible blurb:
+	- common reason to use a structure: save things you need for later computations
+		- ie: when you typically choose stack for this:
+			- the decision on:
+				- whether you can do a computation now
+				- or need to wait/save it for later
+				- and/or whether an element isnt needed for future computations
+			- you can phrase this decision to depend on an inequality
+				- more precisely: the decision is equivalent to an inequality
+			- example: [42. Trapping Rain Water](../LeetCode/42.%20Trapping%20Rain%20Water.md)
+
+
+

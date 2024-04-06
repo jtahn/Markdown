@@ -76,6 +76,7 @@
 	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md)
 	- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 	- [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
+	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
 
 
 
@@ -99,6 +100,7 @@
 	- [235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
 	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
+	- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
 	- z
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow
