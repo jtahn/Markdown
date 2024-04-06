@@ -75,6 +75,7 @@
 	- [74. Search a 2D Matrix](LeetCode/74.%20Search%20a%202D%20Matrix.md)
 	- [704. Binary Search](LeetCode/704.%20Binary%20Search.md)
 	- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+	- [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
 
 
 
