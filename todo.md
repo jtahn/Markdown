@@ -77,6 +77,10 @@
 	- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 	- [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
 	- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
+	- [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
+	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
+	- [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
+	- [15. 3Sum](LeetCode/15.%203Sum.md)
 
 
 

@@ -1,3 +1,10 @@
+# jargon: 'fundy'
+- ‘fundy’ as an abbreviation for any of fundamental problem/technique/idea
+	- ie ‘big fundy’ the yankee player, lol
+	- obvious from the context, whether i’m referring to problem/technique/idea
+	- instead of ‘fp’...cuz kinda confusing what that acronym is for..also is only ‘fundametnal problem’
+
+
 # alternative descriptions of this blurb
 - 'what parts of the algo should i go into detail about; vs what parts should i just wave hands and cite stuff'
 

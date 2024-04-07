@@ -10,11 +10,34 @@
 
 - a technique is useful if:
 	- it achieves optimal asymptotic complexity in either time/space, and the constant isnt ‘far worse’
-	- is significantly easier to understand/write
-	- becomes a uniquely optimal technique if a ‘finite’ constraint becomes ‘infinite’
+		- ie matches optimal complexity in either time or space
+	- or is significantly easier to understand/write
+	- or becomes a uniquely optimal technique if a ‘finite’ constraint becomes ‘infinite’
 		- and ‘spirit of the problem’ was for the constraint to indeed be finite
 		- see [complexity analysis wrt "spirit of the problem"](complexity%20analysis%20wrt%20"spirit%20of%20the%20problem".md)
 		- ie [36. Valid Sudoku](../LeetCode/36.%20Valid%20Sudoku.md)
+
+
+- add to above list: i think more complicated techniques are still useful 
+	- but really think about the 'key idea'...often, it actually is something i already have, just implemented in a more complicated/equivalent way
+		- ie remember to separate 'implementation' from 'inspiration'
+		- example: [143. Reorder List](../LeetCode/143.%20Reorder%20List.md)
+			- i thought recursion was a genuinely diff approach..but i realized it wasnt; its a diff implementation, but same 'main idea' as other stuff i had
+	- but point still stands: can be worth having more complicated stuff, as long as its genuinely diff
+		- even if an approach is more ‘complicated to understand’/’harder to implement’, and doesnt have strictly better complexity: it can still be worth keeping
+		- it just has to be a genuinely different approach that is sensible, and at least match optimal complexity in space or time
+		- when i say ‘best approach’, is mean ‘best version of the inspo’ for that approach
+		- example (well not anymore, bc it wasnt actually diff): [143. Reorder List](../LeetCode/143.%20Reorder%20List.md)
+			- the recursion approach isnt strictly better in time/space, and it’s harder to understand
+			- but imo atm, its still worth keeping, bc it matches optimal time complexity; and is a genuinely diff and sensible approach to the problem
+				- ie its not like ‘equivalent approach but uses a diff definition’
+
+
+
+
+
+
+
 
 
 
@@ -26,6 +49,13 @@
 	- ie:
 		- every technique has examples where it is truly the optimal technique
 		- and the examples cover all the possible ways i should know how to use the technique
+
+
+
+
+
+
+
 
 
 
