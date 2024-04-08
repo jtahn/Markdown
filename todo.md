@@ -81,6 +81,15 @@
 	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 	- [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
 	- [15. 3Sum](LeetCode/15.%203Sum.md)
+	- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
+	- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
+	- [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
+	- [383. Ransom Note](LeetCode/383.%20Ransom%20Note.md)
+	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
+	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
+	- [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
+	- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
+	- 
 
 
 
@@ -101,6 +110,7 @@
 	- [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
 	- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 	- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
+	- [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
 	- [235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 	- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
 	- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
