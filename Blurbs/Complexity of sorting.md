@@ -3,6 +3,7 @@
 		- can consider it like the 'shpeel' i should be able to rattle off if i ever use a technique that involves sorting/searching
 - summary
 	- complexity depends on the sorting algo
+	- most algos aren't in-place
 	- python
 		- timsort
 	- java
@@ -11,6 +12,15 @@
 		- introsort
 
 ---
+
+# sorting jargon
+- CLRS:
+![](../!assets/attachments/Pasted%20image%2020240408191841.png)
+
+
+# clrs: complexity
+![](../!assets/attachments/Pasted%20image%2020240408191926.png)
+
 
 # [Sorting and searching cheatsheet for coding interviews | Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/sorting-searching/)
 

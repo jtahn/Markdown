@@ -48,6 +48,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "341c849607fdd771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/11. Container With Most Water.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90fed0adddd2bb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blurbs/techniques, fundamental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -62,7 +86,6 @@
       {
         "id": "2f7d65cefc31b30e",
         "type": "tabs",
-        "dimension": 58.20203892493049,
         "children": [
           {
             "id": "30ea3e619e5c4c61",
@@ -100,9 +123,8 @@
         ]
       },
       {
-        "id": "70ae7f6205137ef4",
+        "id": "c189687f6d021912",
         "type": "tabs",
-        "dimension": 41.79796107506951,
         "children": [
           {
             "id": "36d31c74556e5c4b",
@@ -168,12 +190,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -188,32 +209,34 @@
   },
   "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
-    "LeetCode/424. Longest Repeating Character Replacement.md",
+    "LeetCode/11. Container With Most Water.md",
     "todo.md",
+    "Blurbs/techniques, fundamental.md",
+    "LeetCode/1. Two Sum.md",
+    "LeetCode/128. Longest Consecutive Sequence.md",
+    "LeetCode/167. Two Sum II - Input Array Is Sorted.md",
+    "LeetCode/739. Daily Temperatures.md",
+    "LeetCode/36. Valid Sudoku.md",
+    "LeetCode/973. K Closest Points to Origin.md",
+    "LeetCode/84. Largest Rectangle in Histogram.md",
+    "LeetCode/155. Min Stack.md",
+    "LeetCode/3. Longest Substring Without Repeating Characters.md",
+    "Blurbs/Complexity of sorting.md",
+    "!assets/attachments/Pasted image 20240408191926.png",
+    "!assets/attachments/Pasted image 20240408191841.png",
+    "LeetCode/424. Longest Repeating Character Replacement.md",
+    "Blurbs/techniques, separating and naming.md",
     "LeetCode/125. Valid Palindrome.md",
     "LeetCode/278. First Bad Version.md",
     "LeetCode/232. Implement Queue using Stacks.md",
     "LeetCode/383. Ransom Note.md",
     "LeetCode/57. Insert Interval.md",
     "LeetCode/76. Minimum Window Substring.md",
-    "LeetCode/167. Two Sum II - Input Array Is Sorted.md",
-    "LeetCode/36. Valid Sudoku.md",
-    "LeetCode/128. Longest Consecutive Sequence.md",
-    "LeetCode/11. Container With Most Water.md",
     "LeetCode/226. Invert Binary Tree.md",
     "LeetCode/49. Group Anagrams.md",
     "LeetCode/704. Binary Search.md",
     "LeetCode/42. Trapping Rain Water.md",
     "LeetCode/542. 01 Matrix.md",
-    "LeetCode/15. 3Sum.md",
-    "LeetCode/271. Encode and Decode Strings.md",
-    "LeetCode/733. Flood Fill.md",
-    "LeetCode/143. Reorder List.md",
-    "LeetCode/2. Add Two Numbers.md",
-    "LeetCode/153. Find Minimum in Rotated Sorted Array.md",
-    "LeetCode/74. Search a 2D Matrix.md",
-    "LeetCode/138. Copy List with Random Pointer.md",
-    "LeetCode/19. Remove Nth Node From End of List.md",
     "!assets/attachments/Pasted image 20240401203058.png",
     "!assets/attachments/Pasted image 20240227103747.png",
     "!assets/attachments/Pasted image 20240316003153.png",
@@ -222,8 +245,6 @@
     "!assets/attachments/Pasted image 20240315213808.png",
     "!assets/attachments/Pasted image 20240315205431.png",
     "!assets/attachments/Pasted image 20240315195538.png",
-    "!assets/attachments/Pasted image 20240315184055.png",
-    "!assets/attachments/Pasted image 20240315183413.png",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",

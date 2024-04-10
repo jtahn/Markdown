@@ -72,22 +72,32 @@
 
 
 
-# name should be based on structure?
+# separate headings / heading names: should NOT be based on data structure
 
 
-- naming approaches / what is actually the key idea wrt data structure
-	- it seems approaches: i should think about ‘what i want to compute and store’
-	- and then from there: becomes ‘clear’ what data structure i should use
-	- i suspect: the converse is basically true: every data structure has like a few types ‘things to store’ that is associated/optimal for
-	- for the interest of brevity/understanding: i think it’s probs better to name approaches based on data structure
-	- and then have a oneliner immediately under, that describes what we are going to compute/store
-	- i suspect: as i approach ‘mastery’, this order of things will be fine
-		- even tho technically, ‘what do i want to store’ comes before the ‘what data structure we should use’
-		- i think what will happen is that, once i’m a ‘master’:
-			- once i read problem, i’ll immediately have a sense of what things i might want to store
-			- and then that is confirmed when i see data structure heading
-	- regardless, i think better to use data structures as heading, bc more ‘efficient’/consistent for naming things
-		- and since oneliner for ‘what i store’ is immediately under, it’s basically like i’m seeing both at the same time, so it doesnt actually matter which one i see ‘first’ in terms of understanding
-		- so choosing to put the data structure as heading, is more for aesthetics/convenience
+- even if two approaches are using similar data structures: they can be entirely different approaches
+- what makes approaches similar is NOT what structures they use; but rather, what the structures are storing
+	- specifically, WHY are they storing that info; how do they plan to use it
+- ie 84:
+	- there is an approach using a stack twice, and another approach using a stack once
+	- but imo these are fundamentally diff, bc the stacks are used to store diff objects
+
+
+- this discussion below is the wrong conclusion! correct logic; but point is, [84. Largest Rectangle in Histogram](../LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md) is an example where, diff approaches can have same structure
+	- so: cannot name based on structure
+	- naming approaches / what is actually the key idea wrt data structure
+		- it seems approaches: i should think about ‘what i want to compute and store’
+		- and then from there: becomes ‘clear’ what data structure i should use
+		- i suspect: the converse is basically true: every data structure has like a few types ‘things to store’ that is associated/optimal for
+		- for the interest of brevity/understanding: i think it’s probs better to name approaches based on data structure
+		- and then have a oneliner immediately under, that describes what we are going to compute/store
+		- i suspect: as i approach ‘mastery’, this order of things will be fine
+			- even tho technically, ‘what do i want to store’ comes before the ‘what data structure we should use’
+			- i think what will happen is that, once i’m a ‘master’:
+				- once i read problem, i’ll immediately have a sense of what things i might want to store
+				- and then that is confirmed when i see data structure heading
+		- regardless, i think better to use data structures as heading, bc more ‘efficient’/consistent for naming things
+			- and since oneliner for ‘what i store’ is immediately under, it’s basically like i’m seeing both at the same time, so it doesnt actually matter which one i see ‘first’ in terms of understanding
+			- so choosing to put the data structure as heading, is more for aesthetics/convenience
 			- ie sometimes i cant fit that oneliner all in a heading
 

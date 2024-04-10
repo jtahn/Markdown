@@ -4,11 +4,23 @@
 	- obvious from the context, whether i’m referring to problem/technique/idea
 	- instead of ‘fp’...cuz kinda confusing what that acronym is for..also is only ‘fundametnal problem’
 
+# jargon: in writeups
+- references
+	- list all fundies that are cited, and briefly explain why
+- results
+	- list all fundies introduced/discussed by this problem/writeup
+
+
 
 # alternative descriptions of this blurb
 - 'what parts of the algo should i go into detail about; vs what parts should i just wave hands and cite stuff'
 
 # index of foundational techniques
+- [1. Two Sum](../LeetCode/1.%20Two%20Sum.md)
+	- complexity of hashing ops
+	- hashing basics
+	- python implementation of hashing
+	- sets vs dicts
 - meta
 	- these aren't necessarily the 'only problem' that is fundamental for this technique
 	- it's just currently, the first one that was at that 'lowest level found so far', and i haven't found a problem that is 'more fundamental' for that technique
@@ -30,6 +42,7 @@
 - 
 
 # todo: looking for fundamental problem
+- hashing/existence
 - stacks/queues
 - bucket sort
 	- candidate [347. Top K Frequent Elements](../LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
@@ -48,7 +61,19 @@
 		- for one of the easier problems where recursion is "the" solution, i should have a discussion about why we can define functions inside functions in python
 			- and maybe also, whether it's better to define aux function as a class method instead, ie outside the 'main' function
 
-
+- extreme value problem technique
+	- when solving an extreme value problem:
+		- a very common and general technique: interpret solution as an extreme of keys over a search space
+			- so the main questions become:
+				- determining what key to compute, so that an extreme value is a solution
+				- is there a way to iterate through search space efficiently
+				- is there a way to compute keys efficiently
+	- examples
+		- iterate efficiently
+			- [424. Longest Repeating Character Replacement](../LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
+		- compute key efficiently
+			- [84. Largest Rectangle in Histogram](../LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
+	
 
 # when to include 'tricks'
 - oneliner tricks that don't result in notable improvements to efficiency or understanding
