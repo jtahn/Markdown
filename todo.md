@@ -77,17 +77,17 @@
 - [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
 - [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
-- [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
 - [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 - [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
 - [15. 3Sum](LeetCode/15.%203Sum.md)
-- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
 - [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
 - [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
 - [383. Ransom Note](LeetCode/383.%20Ransom%20Note.md)
 - [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
 - [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
 - [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
+- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
+
 
 
 # review
@@ -115,7 +115,8 @@
 - [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 - [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
 - [238. Product of Array Except Self](LeetCode/238.%20Product%20of%20Array%20Except%20Self.md)
-- z
+- [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
+- 
 
 
 # new
