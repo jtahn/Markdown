@@ -1,3 +1,8 @@
+# assorted
+- add code snippets to top
+- Rename ‘implementations’ to ‘approaches’
+
+
 # markdown structure: possible changes
 - can i add code lines to code snippets?
 - best way to add diagrams?
@@ -54,7 +59,12 @@
 
 
 
-# revise
+# resources
+- ![](!assets/attachments/Pasted%20image%2020240412021212.png)
+	* [10 CS 106B Lecture Recursion 2 recursive data - YouTube](https://www.youtube.com/watch?v=iiF7rFx32Fw&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d&index=10)
+	* [14 CS 106B Lecture Backtracking printBinary, printDecimal - YouTube](https://www.youtube.com/watch?v=zL4mjpYpRmc&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d&index=14)
+
+# edited for my structure
 - [84. Largest Rectangle in Histogram](LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
 - [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 - [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
@@ -87,36 +97,24 @@
 - [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
 - [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
 - [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
-
-
-
-# review
 - [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
-- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
-- [853. Car Fleet](LeetCode/853.%20Car%20Fleet.md)
-- [3. Longest Substring Without Repeating Characters](LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
-- [875. Koko Eating Bananas](LeetCode/875.%20Koko%20Eating%20Bananas.md)
-- [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
-- [138. Copy List with Random Pointer](LeetCode/138.%20Copy%20List%20with%20Random%20Pointer.md)
-- [19. Remove Nth Node From End of List](LeetCode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [206. Reverse Linked List](LeetCode/206.%20Reverse%20Linked%20List.md)
+- [3. Longest Substring Without Repeating Characters](LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+- [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
 - [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
-- [981. Time Based Key-Value Store](LeetCode/981.%20Time%20Based%20Key-Value%20Store.md)
-- [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
 - [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
 - [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
-- [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
 - [235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
-- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
-- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
 - [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
-- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
 - [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
 - [238. Product of Array Except Self](LeetCode/238.%20Product%20of%20Array%20Except%20Self.md)
 - [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
-- 
+
+
+
+
 
 
 # new
