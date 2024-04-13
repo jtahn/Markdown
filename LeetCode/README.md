@@ -77,8 +77,14 @@
 50. same tree
 51. subtree of another tree
 52. [235. Lowest Common Ancestor of a Binary Search Tree](235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
-53. binary tree level order
-54. 
+53. binary tree level order traversal
+54. binary tree right side view
+55. count good nodes in binary tree
+56. validate bst
+57. kth smallest in bst
+58. construct bt from pre and in
+59. bt max path sum
+60. serialize bt
 
 ## Tries
 61. implement trie prefix tree
@@ -86,34 +92,115 @@
 63. word search II
 
 ## Heap / Priority Queue
-64. kth largest
-65. last stone
+64. kth largest in stream
+65. last stone weight
 66. [973. K Closest Points to Origin](973.%20K%20Closest%20Points%20to%20Origin.md)
-68. 
+67. kth largest in array
+68. task scheduler
+69. design twitter
+70. find median from stream
 
 ## Backtracking
-
+71. subsets
+72. combo sum
+73. perms
+74. subsets 2
+75. combos 2
+76. word search
+77. palindrom part
+78. letter combos of phone
+79. n queens
 
 ## Graphs
+80. num islands
+81. max area island
+82. clone graph
+83. walls gates
+84. oranges
+85. pacific atlantic
+86. surrounded regions
+87. course
+88. course 2
+89. graph valid tree
+90. num conn in undirected
+91. redundant
+92. word ladder
 
 ## Advanced Graphs
+93. reconstruct itinerary
+94. min cost connect points
+95. network delay time
+96. swim rising water
+97. alien dictionary
+98. cheapest flights k stops
 
 ## 1-D Dynamic Programming
+99. climbing stairs
+100. min cost climbing
+101. house robber
+102. robber 2
+103. longest palindromic substring
+104. palindromic substrings
+105. decode ways
+106. coin change
+107. max prod subarray
+108. word break
+109. longest increasing subseq
+110. partition equal subset sum
 
 ## 2-D Dynamic Programming
+111. unique paths
+112. longest common subseq
+113. best time to buy sell stock with cooldown
+114. coin change 2
+115. target sum
+116. interleaving string
+117. longest increasing path in matrix
+118. distinct subseqs
+119. edit dist
+120. burst balloons
+121. regex matching
 
 ## Greedy
 122. [53. Maximum Subarray](53.%20Maximum%20Subarray.md)
-123. 
+123. jump game
+124. jump 2
+125. gas station
+126. hand of straights
+127. merge triples
+128. part labels
+129. valid parenthesis string
 
 ## Intervals
 130. [57. Insert Interval](57.%20Insert%20Interval.md)
-131. 
+131. merge intervals
+132. non overlapping intervals
+133. meeting rooms
+134. meet 2
+135. min interval include query
 
 ## Math & Geometry
-
+136. rotate image
+137. spiral matrix
+138. set matrix zeroes
+139. happy number
+140. plus one
+141. pow(x,n)
+142. multiply strings
+143. detect squares
 
 ## Bit Manipulation
+144. single number
+145. number of 1 bits
+146. counting bits
+147. reverse bits
+148. missing number
+149. sum of two integers
+150. reverse integer
+
+
+---
+(begin blind75)
 
 ## Array
 

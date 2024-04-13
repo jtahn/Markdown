@@ -114,17 +114,54 @@
 
 
 
+# new now
+## fill out comprehensive (1-52; 64-66)
+-52
+- [[LeetCode/4. Median of Two Sorted Arrays]]
+- [[LeetCode/287. Find the Duplicate Number]]
+- [[LeetCode/146. LRU Cache]]
+- [[LeetCode/23. Merge k Sorted Lists]]
+- [[LeetCode/25. Reverse Nodes in k-Group]]
+- [[LeetCode/104. Maximum Depth of Binary Tree]]
+- [[LeetCode/543. Diameter of Binary Tree]]
+- [[LeetCode/100. Same Tree]]
+- [[LeetCode/572. Subtree of Another Tree]]
 
+64-65
+- [[LeetCode/703. Kth Largest Element in a Stream]]
+- [[LeetCode/1046. Last Stone Weight]]
+
+## optimal only (53-63; 67-150)
+53-63
+- [[LeetCode/102. Binary Tree Level Order Traversal]]
+- [[LeetCode/199. Binary Tree Right Side View]]
+- [[LeetCode/1448. Count Good Nodes in Binary Tree]]
+- [[LeetCode/98. Validate Binary Search Tree]]
+- [[LeetCode/230. Kth Smallest Element in a BST]]
+- [[LeetCode/105. Construct Binary Tree from Preorder and Inorder Traversal]]
+- [[LeetCode/124. Binary Tree Maximum Path Sum]]
+- [[LeetCode/297. Serialize and Deserialize Binary Tree]]
+- [[LeetCode/208. Implement Trie (Prefix Tree)]]
+- [[LeetCode/211. Design Add and Search Words Data Structure]]
+- [[LeetCode/212. Word Search II]]
+
+67-onward
+- [[LeetCode/215. Kth Largest Element in an Array]]
+- [[LeetCode/621. Task Scheduler]]
+- [[LeetCode/355. Design Twitter]]
+- [[LeetCode/295. Find Median from Data Stream]]
+- [78. Subsets](LeetCode/78.%20Subsets.md)
+- 
 
 
 # new
 - whatever is next on neetcode 150 (https://neetcode.io/practice)
-	- meta: workflow
+	- meta: workflow for comprehensive
 		- reliable github repos
 			- https://github.com/lzl124631x/LeetCode/tree/master/leetcode
 		- possibly reliable github repos
 			- https://github.com/knockcat/Leetcode
-		- possibly reliable leetcoders
+		- possibly reliable leetcoders if i see them in leetcode solutions; otherwise open a bunch of solutions in tabs
 			- https://leetcode.com/lee215/
 			- https://leetcode.com/linfq/
 		- draft a skeleton + dump screenies/etc for the solutions
@@ -144,32 +181,6 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-	- [[LeetCode/104. Maximum Depth of Binary Tree]]
-	- [[LeetCode/543. Diameter of Binary Tree]]
-	- [[LeetCode/100. Same Tree]]
-	- [[LeetCode/572. Subtree of Another Tree]]
-	- [[LeetCode/4. Median of Two Sorted Arrays]]
-	- [[LeetCode/287. Find the Duplicate Number]]
-	- [[LeetCode/146. LRU Cache]]
-	- [[LeetCode/23. Merge k Sorted Lists]]
-	- [[LeetCode/25. Reverse Nodes in k-Group]]
-	- [[LeetCode/102. Binary Tree Level Order Traversal]]
-	- [[LeetCode/199. Binary Tree Right Side View]]
-	- [[LeetCode/1448. Count Good Nodes in Binary Tree]]
-	- [[LeetCode/98. Validate Binary Search Tree]]
-	- [[LeetCode/230. Kth Smallest Element in a BST]]
-	- [[LeetCode/105. Construct Binary Tree from Preorder and Inorder Traversal]]
-	- [[LeetCode/124. Binary Tree Maximum Path Sum]]
-	- [[LeetCode/297. Serialize and Deserialize Binary Tree]]
-	- [[LeetCode/208. Implement Trie (Prefix Tree)]]
-	- [[LeetCode/211. Design Add and Search Words Data Structure]]
-	- [[LeetCode/212. Word Search II]]
-	- [[LeetCode/703. Kth Largest Element in a Stream]]
-	- [[LeetCode/1046. Last Stone Weight]]
-	- [[LeetCode/215. Kth Largest Element in an Array]]
-	- [[LeetCode/621. Task Scheduler]]
-	- [[LeetCode/355. Design Twitter]]
-	- [[LeetCode/295. Find Median from Data Stream]]
 - whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
 	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 - other popular/reputable lists
