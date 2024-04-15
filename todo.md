@@ -64,7 +64,10 @@
 	* [10 CS 106B Lecture Recursion 2 recursive data - YouTube](https://www.youtube.com/watch?v=iiF7rFx32Fw&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d&index=10)
 	* [14 CS 106B Lecture Backtracking printBinary, printDecimal - YouTube](https://www.youtube.com/watch?v=zL4mjpYpRmc&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d&index=14)
 
-# edited for my structure
+
+
+
+# comprehensive but probly not concise
 - [84. Largest Rectangle in Histogram](LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
 - [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
 - [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
@@ -114,7 +117,16 @@
 
 
 
-# new now
+## comprehensive but not structured
+- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+- 
+
+# new
+- quicklinks
+	- https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr
+	- https://algo.monster/liteproblems/1
+	- https://leetcodethehardway.com/solutions/category/3000---3099
+
 ## fill out comprehensive (1-52; 64-66)
 -52
 - [[LeetCode/4. Median of Two Sorted Arrays]]
