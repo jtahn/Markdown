@@ -101,11 +101,11 @@
 70. find median from stream
 
 ## Backtracking
-71. subsets
-72. combo sum
-73. perms
-74. subsets 2
-75. combos 2
+71. [78. Subsets](78.%20Subsets.md)
+72. [39. Combination Sum](39.%20Combination%20Sum.md)
+73. [46. Permutations](46.%20Permutations.md)
+74. [90. Subsets II](90.%20Subsets%20II.md)
+75. [40. Combination Sum II](40.%20Combination%20Sum%20II.md)
 76. word search
 77. palindrom part
 78. letter combos of phone
@@ -201,8 +201,14 @@
 
 ---
 (begin blind75)
+https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
 
 ## Array
+151. majority element
+152. move zeroes
+153. squares of a sorted array
+154. 
+
 
 ## Stack
 - [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)

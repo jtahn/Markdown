@@ -50,31 +50,19 @@
             }
           },
           {
-            "id": "d459a192c3410894",
+            "id": "6d9c079a995ff494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/23. Merge k Sorted Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13792b94977f46b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/25. Reverse Nodes in k-Group.md",
+                "file": "LeetCode/39. Combination Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/25. Reverse Nodes in k-Group.md"
+                "file": "LeetCode/39. Combination Sum.md"
               }
             }
           }
@@ -156,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/25. Reverse Nodes in k-Group.md",
+                "file": "LeetCode/39. Combination Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/25. Reverse Nodes in k-Group.md",
+                "file": "LeetCode/39. Combination Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,34 +195,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13792b94977f46b5",
+  "active": "6d9c079a995ff494",
   "lastOpenFiles": [
-    "LeetCode/23. Merge k Sorted Lists.md",
     "todo.md",
-    "LeetCode/25. Reverse Nodes in k-Group.md",
-    "LeetCode/4. Median of Two Sorted Arrays.md",
-    "LeetCode/21. Merge Two Sorted Lists.md",
-    "LeetCode/README.md",
     "LeetCode/78. Subsets.md",
-    "LeetCode/295. Find Median from Data Stream.md",
-    "LeetCode/355. Design Twitter.md",
-    "LeetCode/621. Task Scheduler.md",
+    "private/assorted.md",
+    "private/scratch.md",
+    "private/shopping.md",
+    "private/Untitled.md",
+    "private/errands.md",
+    "private/cigars.md",
+    "private/cigar log.md",
     "LeetCode/215. Kth Largest Element in an Array.md",
+    "LeetCode/703. Kth Largest Element in a Stream.md",
     "LeetCode/212. Word Search II.md",
-    "LeetCode/211. Design Add and Search Words Data Structure.md",
-    "LeetCode/208. Implement Trie (Prefix Tree).md",
-    "LeetCode/297. Serialize and Deserialize Binary Tree.md",
-    "LeetCode/124. Binary Tree Maximum Path Sum.md",
-    "LeetCode/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "LeetCode/230. Kth Smallest Element in a BST.md",
-    "LeetCode/98. Validate Binary Search Tree.md",
-    "LeetCode/1448. Count Good Nodes in Binary Tree.md",
-    "LeetCode/199. Binary Tree Right Side View.md",
+    "private/test.md",
+    "private",
+    "scratch.md",
     "LeetCode/102. Binary Tree Level Order Traversal.md",
-    "LeetCode/287. Find the Duplicate Number.md",
-    "LeetCode/146. LRU Cache.md",
-    "LeetCode/104. Maximum Depth of Binary Tree.md",
-    "LeetCode/543. Diameter of Binary Tree.md",
+    "Untitled.md",
+    "LeetCode/1046. Last Stone Weight.md",
+    "LeetCode/572. Subtree of Another Tree.md",
+    "LeetCode/40. Combination Sum II.md",
+    "LeetCode/90. Subsets II.md",
+    "LeetCode/46. Permutations.md",
+    "LeetCode/39. Combination Sum.md",
+    "LeetCode/295. Find Median from Data Stream.md",
+    "LeetCode/211. Design Add and Search Words Data Structure.md",
+    "LeetCode/124. Binary Tree Maximum Path Sum.md",
+    "LeetCode/98. Validate Binary Search Tree.md",
+    "!assets/attachments/Pasted image 20240415130633.png",
+    "!assets/attachments/Pasted image 20240415130610.png",
+    "!assets/attachments/Pasted image 20240415130534.png",
     "!assets/attachments/Pasted image 20240412021212.png",
     "!assets/attachments/Pasted image 20240408191926.png",
     "!assets/attachments/Pasted image 20240408191841.png",
@@ -242,9 +234,6 @@
     "!assets/attachments/Pasted image 20240227103747.png",
     "!assets/attachments/Pasted image 20240316003153.png",
     "!assets/attachments/Pasted image 20240315214129.png",
-    "!assets/attachments/Pasted image 20240315214111.png",
-    "!assets/attachments/Pasted image 20240315213808.png",
-    "!assets/attachments/Pasted image 20240315205431.png",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",
@@ -253,7 +242,6 @@
     "Calc",
     "LeetCode/py/973.py",
     "LeetCode/py/733.py",
-    "LeetCode/py/704.py",
-    "LeetCode/py/542.py"
+    "LeetCode/py/704.py"
   ]
 }

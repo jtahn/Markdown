@@ -67,85 +67,54 @@
 
 
 
-# comprehensive but probly not concise
-- [84. Largest Rectangle in Histogram](LeetCode/84.%20Largest%20Rectangle%20in%20Histogram.md)
-- [424. Longest Repeating Character Replacement](LeetCode/424.%20Longest%20Repeating%20Character%20Replacement.md)
-- [973. K Closest Points to Origin](LeetCode/973.%20K%20Closest%20Points%20to%20Origin.md)
-- [36. Valid Sudoku](LeetCode/36.%20Valid%20Sudoku.md)
-- [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
-- [167. Two Sum II - Input Array Is Sorted](LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
-- [128. Longest Consecutive Sequence](LeetCode/128.%20Longest%20Consecutive%20Sequence.md)
-- [11. Container With Most Water](LeetCode/11.%20Container%20With%20Most%20Water.md)
-- [33. Search in Rotated Sorted Array](LeetCode/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
-- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
-- [853. Car Fleet](LeetCode/853.%20Car%20Fleet.md)
-- [875. Koko Eating Bananas](LeetCode/875.%20Koko%20Eating%20Bananas.md)
-- [226. Invert Binary Tree](LeetCode/226.%20Invert%20Binary%20Tree.md)
-- [49. Group Anagrams](LeetCode/49.%20Group%20Anagrams.md)
-- [981. Time Based Key-Value Store](LeetCode/981.%20Time%20Based%20Key-Value%20Store.md)
-- [19. Remove Nth Node From End of List](LeetCode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
-- [138. Copy List with Random Pointer](LeetCode/138.%20Copy%20List%20with%20Random%20Pointer.md)
-- [74. Search a 2D Matrix](LeetCode/74.%20Search%20a%202D%20Matrix.md)
-- [704. Binary Search](LeetCode/704.%20Binary%20Search.md)
-- [153. Find Minimum in Rotated Sorted Array](LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
-- [2. Add Two Numbers](LeetCode/2.%20Add%20Two%20Numbers.md)
-- [42. Trapping Rain Water](LeetCode/42.%20Trapping%20Rain%20Water.md)
-- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
-- [271. Encode and Decode Strings](LeetCode/271.%20Encode%20and%20Decode%20Strings.md)
-- [15. 3Sum](LeetCode/15.%203Sum.md)
-- [76. Minimum Window Substring](LeetCode/76.%20Minimum%20Window%20Substring.md)
-- [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md)
-- [383. Ransom Note](LeetCode/383.%20Ransom%20Note.md)
-- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
-- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
-- [125. Valid Palindrome](LeetCode/125.%20Valid%20Palindrome.md)
-- [567. Permutation in String](LeetCode/567.%20Permutation%20in%20String.md)
-- [143. Reorder List](LeetCode/143.%20Reorder%20List.md)
-- [155. Min Stack](LeetCode/155.%20Min%20Stack.md)
-- [206. Reverse Linked List](LeetCode/206.%20Reverse%20Linked%20List.md)
-- [3. Longest Substring Without Repeating Characters](LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
-- [121. Best Time to Buy and Sell Stock](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
-- [217. Contains Duplicate](LeetCode/217.%20Contains%20Duplicate.md)
-- [242. Valid Anagram](LeetCode/242.%20Valid%20Anagram.md)
-- [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
-- [141. Linked List Cycle](LeetCode/141.%20Linked%20List%20Cycle.md)
-- [235. Lowest Common Ancestor of a Binary Search Tree](LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
-- [110. Balanced Binary Tree](LeetCode/110.%20Balanced%20Binary%20Tree.md)
-- [1. Two Sum](LeetCode/1.%20Two%20Sum.md)
-- [238. Product of Array Except Self](LeetCode/238.%20Product%20of%20Array%20Except%20Self.md)
-- [347. Top K Frequent Elements](LeetCode/347.%20Top%20K%20Frequent%20Elements.md)
+#  comprehensive (1-75)
+- also:
+	122. [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
+	130. [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md) 
+- and anything i've done in blind75
+	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
+	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
+	- [733. Flood Fill](LeetCode/733.%20Flood%20Fill.md)
+	- [542. 01 Matrix](LeetCode/542.%2001%20Matrix.md)
+	- [383. Ransom Note](LeetCode/383.%20Ransom%20Note.md)
+
+revise in passes; can combine passes
+1. make template
+1. understand optimal
+2. determine optimal fundies
+3. make comprehensive
+4. determine comprehensive fundies
+5. make structured
+6. make concise
 
 
+## not optimal
 
-## comprehensive but not structured
-- [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
-- 
 
-# new
-- quicklinks
-	- https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr
-	- https://algo.monster/liteproblems/1
-	- https://leetcodethehardway.com/solutions/category/3000---3099
+71. [78. Subsets](LeetCode/78.%20Subsets.md)
+- [39. Combination Sum](LeetCode/39.%20Combination%20Sum.md)
+- [46. Permutations](LeetCode/46.%20Permutations.md)
+- [90. Subsets II](LeetCode/90.%20Subsets%20II.md)
+75. [40. Combination Sum II](LeetCode/40.%20Combination%20Sum%20II.md)
 
-## fill out comprehensive (1-52; 64-66)
--52
-- [[LeetCode/4. Median of Two Sorted Arrays]]
-- [[LeetCode/287. Find the Duplicate Number]]
-- [[LeetCode/146. LRU Cache]]
-- [[LeetCode/23. Merge k Sorted Lists]]
-- [[LeetCode/25. Reverse Nodes in k-Group]]
-- [[LeetCode/104. Maximum Depth of Binary Tree]]
-- [[LeetCode/543. Diameter of Binary Tree]]
-- [[LeetCode/100. Same Tree]]
-- [[LeetCode/572. Subtree of Another Tree]]
 
-64-65
-- [[LeetCode/703. Kth Largest Element in a Stream]]
-- [[LeetCode/1046. Last Stone Weight]]
+## not comprehensive
+21. (maybe) [20. Valid Parentheses](LeetCode/20.%20Valid%20Parentheses.md)
 
-## optimal only (53-63; 67-150)
-53-63
-- [[LeetCode/102. Binary Tree Level Order Traversal]]
+34. [[LeetCode/4. Median of Two Sorted Arrays]]
+
+42. [[LeetCode/287. Find the Duplicate Number]]
+43. [[LeetCode/146. LRU Cache]]
+44. [[LeetCode/23. Merge k Sorted Lists]]
+45. [[LeetCode/25. Reverse Nodes in k-Group]]
+
+47. [[LeetCode/104. Maximum Depth of Binary Tree]]
+48. [[LeetCode/543. Diameter of Binary Tree]]
+
+50. [[LeetCode/100. Same Tree]]
+51. [[LeetCode/572. Subtree of Another Tree]]
+
+53. [[LeetCode/102. Binary Tree Level Order Traversal]]
 - [[LeetCode/199. Binary Tree Right Side View]]
 - [[LeetCode/1448. Count Good Nodes in Binary Tree]]
 - [[LeetCode/98. Validate Binary Search Tree]]
@@ -155,19 +124,49 @@
 - [[LeetCode/297. Serialize and Deserialize Binary Tree]]
 - [[LeetCode/208. Implement Trie (Prefix Tree)]]
 - [[LeetCode/211. Design Add and Search Words Data Structure]]
-- [[LeetCode/212. Word Search II]]
+63. [[LeetCode/212. Word Search II]]
+64. [[LeetCode/703. Kth Largest Element in a Stream]]
+65. [[LeetCode/1046. Last Stone Weight]]
 
-67-onward
-- [[LeetCode/215. Kth Largest Element in an Array]]
+67. [[LeetCode/215. Kth Largest Element in an Array]]
 - [[LeetCode/621. Task Scheduler]]
 - [[LeetCode/355. Design Twitter]]
-- [[LeetCode/295. Find Median from Data Stream]]
-- [78. Subsets](LeetCode/78.%20Subsets.md)
-- 
+70. [[LeetCode/295. Find Median from Data Stream]]
 
 
-# new
-- whatever is next on neetcode 150 (https://neetcode.io/practice)
+
+
+## not structured
+20. [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
+23. [150. Evaluate Reverse Polish Notation](LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+24. [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
+36. [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+
+
+## not concise
+(all; next time i review, work on concise)
+
+
+
+
+
+
+# optimal only (76+)
+(do comprehensive later; ie once i fully finish 'optimal' pass of neetcode and grind75)
+- quicklinks
+	- https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr
+	- https://algo.monster/liteproblems/1
+	- https://leetcodethehardway.com/solutions/category/3000---3099
+
+# created template
+76. [79. Word Search](LeetCode/79.%20Word%20Search.md)
+77. 
+
+
+
+
+## reminder of order
+- first: whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow for comprehensive
 		- reliable github repos
 			- https://github.com/lzl124631x/LeetCode/tree/master/leetcode
@@ -193,7 +192,7 @@
 		- once it's clean enough
 			- unsuspend card in anki
 			- add to toc in the readme
-- whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
+- second: whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
 	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 - other popular/reputable lists
 	- https://leetcode.com/explore/interview/card/top-interview-questions-hard/
