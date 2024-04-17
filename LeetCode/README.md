@@ -54,7 +54,7 @@
 31. [153. Find Minimum in Rotated Sorted Array](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 32. [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 33. [981. Time Based Key-Value Store](981.%20Time%20Based%20Key-Value%20Store.md)
-34. median of two sorted
+34. [4. Median of Two Sorted Arrays](4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 ## Linked List
 35. [206. Reverse Linked List](206.%20Reverse%20Linked%20List.md)
@@ -64,41 +64,41 @@
 39. [138. Copy List with Random Pointer](138.%20Copy%20List%20with%20Random%20Pointer.md)
 40. [2. Add Two Numbers](2.%20Add%20Two%20Numbers.md)
 41. [141. Linked List Cycle](141.%20Linked%20List%20Cycle.md) 
-42. find the duplicate
-43. lru cache
-44. merge k sorted
-45. reverse nodes in k group
+42. [287. Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md)
+43. [146. LRU Cache](146.%20LRU%20Cache.md)
+44. [23. Merge k Sorted Lists](23.%20Merge%20k%20Sorted%20Lists.md)
+45. [25. Reverse Nodes in k-Group](25.%20Reverse%20Nodes%20in%20k-Group.md)
 
 ## Trees
 46. [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
-47. maximum depth of binary
-48. diameter of binary
+47. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+48. [543. Diameter of Binary Tree](543.%20Diameter%20of%20Binary%20Tree.md)
 49. [110. Balanced Binary Tree](110.%20Balanced%20Binary%20Tree.md)
-50. same tree
-51. subtree of another tree
+50. [100. Same Tree](100.%20Same%20Tree.md)
+51. [572. Subtree of Another Tree](572.%20Subtree%20of%20Another%20Tree.md)
 52. [235. Lowest Common Ancestor of a Binary Search Tree](235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
-53. binary tree level order traversal
-54. binary tree right side view
-55. count good nodes in binary tree
-56. validate bst
-57. kth smallest in bst
-58. construct bt from pre and in
-59. bt max path sum
-60. serialize bt
+53. [102. Binary Tree Level Order Traversal](102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+54. [199. Binary Tree Right Side View](199.%20Binary%20Tree%20Right%20Side%20View.md)
+55. [1448. Count Good Nodes in Binary Tree](1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md)
+56. [98. Validate Binary Search Tree](98.%20Validate%20Binary%20Search%20Tree.md)
+57. [230. Kth Smallest Element in a BST](230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+58. [105. Construct Binary Tree from Preorder and Inorder Traversal](105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+59. [124. Binary Tree Maximum Path Sum](124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+60. [297. Serialize and Deserialize Binary Tree](297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 
 ## Tries
-61. implement trie prefix tree
-62. design add and
-63. word search II
+61. [208. Implement Trie (Prefix Tree)](208.%20Implement%20Trie%20(Prefix%20Tree).md)
+62. [211. Design Add and Search Words Data Structure](211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
+63. [212. Word Search II](212.%20Word%20Search%20II.md)
 
 ## Heap / Priority Queue
-64. kth largest in stream
-65. last stone weight
+64. [703. Kth Largest Element in a Stream](703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
+65. [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)
 66. [973. K Closest Points to Origin](973.%20K%20Closest%20Points%20to%20Origin.md)
-67. kth largest in array
-68. task scheduler
-69. design twitter
-70. find median from stream
+67. [215. Kth Largest Element in an Array](215.%20Kth%20Largest%20Element%20in%20an%20Array.md)
+68. [621. Task Scheduler](621.%20Task%20Scheduler.md)
+69. [355. Design Twitter](355.%20Design%20Twitter.md)
+70. [295. Find Median from Data Stream](295.%20Find%20Median%20from%20Data%20Stream.md)
 
 ## Backtracking
 71. [78. Subsets](78.%20Subsets.md)

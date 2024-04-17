@@ -1,5 +1,17 @@
 ![](!assets/attachments/clappingbear.gif)   
 
+# shortcuts
+- index of leetcode writeups: [README](LeetCode/README.md)
+
+
+
+
+
+
+
+
+---
+
 # Meta
 - [todo](todo.md)
 - why markdown (instead of vscode latex or anki editor)

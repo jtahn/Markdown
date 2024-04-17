@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01d987c96ac26e61",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "7041918403bde985",
             "type": "leaf",
             "pinned": true,
@@ -62,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/39. Combination Sum.md"
+                "file": "todo.md"
               }
             }
           }
@@ -144,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/39. Combination Sum.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/39. Combination Sum.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d9c079a995ff494",
+  "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
+    "LeetCode/README.md",
+    "README.md",
     "todo.md",
+    "LeetCode/39. Combination Sum.md",
     "LeetCode/78. Subsets.md",
     "private/assorted.md",
     "private/scratch.md",
@@ -219,11 +208,8 @@
     "LeetCode/40. Combination Sum II.md",
     "LeetCode/90. Subsets II.md",
     "LeetCode/46. Permutations.md",
-    "LeetCode/39. Combination Sum.md",
     "LeetCode/295. Find Median from Data Stream.md",
     "LeetCode/211. Design Add and Search Words Data Structure.md",
-    "LeetCode/124. Binary Tree Maximum Path Sum.md",
-    "LeetCode/98. Validate Binary Search Tree.md",
     "!assets/attachments/Pasted image 20240415130633.png",
     "!assets/attachments/Pasted image 20240415130610.png",
     "!assets/attachments/Pasted image 20240415130534.png",
