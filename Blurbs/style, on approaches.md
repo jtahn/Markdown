@@ -1,4 +1,16 @@
-# when does a technique get its own heading
+# btw, what should we call the heading?
+- candidates
+	- approaches
+	- implementations
+	- techniques
+- imo definitely 'approaches'; it's the right level of 'amt of important differences'
+	- ie 'implementation', theres too many variants if this is how I decide to organize things
+	- also: then naming implementations becomes a headache; bc diff approaches can use same types of data structures..so then the heading needs to contain all this info
+	- 'techniques' doesn't make sense; imo a technique is more like a 'step' or a 'trick'
+
+
+
+# when does a technique get its own heading; ie when to separate things
 - imo it needs to be a significant 'big idea/insight' FOR THAT PROBLEM, it should be relative
 	- ie for [242. Valid Anagram](../LeetCode/242.%20Valid%20Anagram.md): 
 		- i think its worth having headings for all the 3 diff ways you do hashmaps in python to count stuff, and also how you compare them
@@ -100,4 +112,18 @@
 			- and since oneliner for ‘what i store’ is immediately under, it’s basically like i’m seeing both at the same time, so it doesnt actually matter which one i see ‘first’ in terms of understanding
 			- so choosing to put the data structure as heading, is more for aesthetics/convenience
 			- ie sometimes i cant fit that oneliner all in a heading
+
+
+
+# clean code
+- write it in a way that helps understand the approach
+	- there's no need to understand alternative ways to write it, that involve like 'combining/inverting loops' and other stuff
+		- that's not what i'm being tested on
+		- if the 'other way to write it' is actually important: then i'll eventually encounter a problem where it matters...aka then, it becomes a fundy/approach
+- make it easy to not just READ, but UNDERSTAND what it is doing
+	- i'll probably remember it better if i understand the code too
+- it's fine to have 'longer code' for these problems: the solutions are so short, that a 'long solution' isn't even that long
+- this generally means, avoid:
+	- oneliners
+	- code that doesn't match up with the intuition/explanation
 

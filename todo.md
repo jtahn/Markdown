@@ -1,8 +1,3 @@
-# assorted
-- add code snippets to top
-- Rename ‘implementations’ to ‘approaches’
-
-
 # markdown structure: possible changes
 - can i add code lines to code snippets?
 - best way to add diagrams?
@@ -88,15 +83,6 @@ revise in passes; can combine passes
 6. make concise
 
 
-## not optimal
-
-
-71. [78. Subsets](LeetCode/78.%20Subsets.md)
-- [39. Combination Sum](LeetCode/39.%20Combination%20Sum.md)
-- [46. Permutations](LeetCode/46.%20Permutations.md)
-- [90. Subsets II](LeetCode/90.%20Subsets%20II.md)
-75. [40. Combination Sum II](LeetCode/40.%20Combination%20Sum%20II.md)
-
 
 ## not comprehensive
 21. (maybe) [20. Valid Parentheses](LeetCode/20.%20Valid%20Parentheses.md)
@@ -132,7 +118,11 @@ revise in passes; can combine passes
 - [[LeetCode/621. Task Scheduler]]
 - [[LeetCode/355. Design Twitter]]
 70. [[LeetCode/295. Find Median from Data Stream]]
-
+71. [78. Subsets](LeetCode/78.%20Subsets.md)
+- [39. Combination Sum](LeetCode/39.%20Combination%20Sum.md)
+- [46. Permutations](LeetCode/46.%20Permutations.md)
+- [90. Subsets II](LeetCode/90.%20Subsets%20II.md)
+75. [40. Combination Sum II](LeetCode/40.%20Combination%20Sum%20II.md)
 
 
 
@@ -153,6 +143,9 @@ revise in passes; can combine passes
 
 # optimal only (76+)
 (do comprehensive later; ie once i fully finish 'optimal' pass of neetcode and grind75)
+(and after i go through EPI/CTCI/skiena)
+
+
 - quicklinks
 	- https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr
 	- https://algo.monster/liteproblems/1
@@ -160,7 +153,29 @@ revise in passes; can combine passes
 
 # created template
 76. [79. Word Search](LeetCode/79.%20Word%20Search.md)
-77. 
+77. [131. Palindrome Partitioning](LeetCode/131.%20Palindrome%20Partitioning.md)
+78. [17. Letter Combinations of a Phone Number](LeetCode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
+79. [51. N-Queens](LeetCode/51.%20N-Queens.md)
+80. [200. Number of Islands](LeetCode/200.%20Number%20of%20Islands.md)
+81. [695. Max Area of Island](LeetCode/695.%20Max%20Area%20of%20Island.md)
+82. [133. Clone Graph](LeetCode/133.%20Clone%20Graph.md)
+83. [286. Walls and Gates](LeetCode/286.%20Walls%20and%20Gates.md)
+84. [994. Rotting Oranges](LeetCode/994.%20Rotting%20Oranges.md)
+85. [417. Pacific Atlantic Water Flow](LeetCode/417.%20Pacific%20Atlantic%20Water%20Flow.md)
+86. [130. Surrounded Regions](LeetCode/130.%20Surrounded%20Regions.md)
+87. [207. Course Schedule](LeetCode/207.%20Course%20Schedule.md)
+88. [210. Course Schedule II](LeetCode/210.%20Course%20Schedule%20II.md)
+89. [261. Graph Valid Tree](LeetCode/261.%20Graph%20Valid%20Tree.md)
+90. [323. Number of Connected Components in an Undirected Graph](LeetCode/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.md)
+91. [684. Redundant Connection](LeetCode/684.%20Redundant%20Connection.md)
+92. [127. Word Ladder](LeetCode/127.%20Word%20Ladder.md)
+93. [332. Reconstruct Itinerary](LeetCode/332.%20Reconstruct%20Itinerary.md)
+94. 
+
+
+
+
+
 
 
 

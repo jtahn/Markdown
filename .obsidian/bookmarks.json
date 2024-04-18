@@ -27,7 +27,19 @@
       "type": "file",
       "ctime": 1713317854678,
       "path": "private/assorted.md",
-      "title": "private/assorted"
+      "title": "assorted"
+    },
+    {
+      "type": "file",
+      "ctime": 1713385641393,
+      "path": "private/cigars.md",
+      "title": "cigars"
+    },
+    {
+      "type": "file",
+      "ctime": 1713386083923,
+      "path": "private/errands.md",
+      "title": "errands"
     }
   ]
 }

@@ -2,16 +2,9 @@
 [^order]: starts with [neetcode150](https://neetcode.io/practice); then continues with [grind169 (sorted by topic, then difficulty)](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty); then 'leetcode top interview 150'
 [^unfinished]: check [todo](../todo.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
 
-## Appendix and brownie points
-- [Common combinatorial arguments used for complexity](../Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
-- [Complexity of sorting](../Blurbs/Complexity%20of%20sorting.md)
-- [Overflow](../Blurbs/Overflow.md)
-- [Brute force methods](../Blurbs/Brute%20force%20methods.md)
-- [recursive traversal is DFS](../Blurbs/recursive%20traversal%20is%20DFS.md)
-- [equality of reference vs value](../Bugs/equality%20of%20reference%20vs%20value.md)
 
-![](../!assets/attachments/duckthumbsup.jpg)  
 
+# NeetCode
 ## Arrays & Hashing
 1. [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
 2. [242. Valid Anagram](242.%20Valid%20Anagram.md)
@@ -106,70 +99,70 @@
 73. [46. Permutations](46.%20Permutations.md)
 74. [90. Subsets II](90.%20Subsets%20II.md)
 75. [40. Combination Sum II](40.%20Combination%20Sum%20II.md)
-76. word search
-77. palindrom part
-78. letter combos of phone
-79. n queens
+76. [79. Word Search](79.%20Word%20Search.md)
+77. [131. Palindrome Partitioning](131.%20Palindrome%20Partitioning.md)
+78. [17. Letter Combinations of a Phone Number](17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
+79. [51. N-Queens](51.%20N-Queens.md)
 
 ## Graphs
-80. num islands
-81. max area island
-82. clone graph
-83. walls gates
-84. oranges
-85. pacific atlantic
-86. surrounded regions
-87. course
-88. course 2
-89. graph valid tree
-90. num conn in undirected
-91. redundant
-92. word ladder
+80. [200. Number of Islands](LeetCode/200.%20Number%20of%20Islands.md)
+81. [695. Max Area of Island](LeetCode/695.%20Max%20Area%20of%20Island.md)
+82. [133. Clone Graph](LeetCode/133.%20Clone%20Graph.md)
+83. [286. Walls and Gates](LeetCode/286.%20Walls%20and%20Gates.md)
+84. [994. Rotting Oranges](LeetCode/994.%20Rotting%20Oranges.md)
+85. [417. Pacific Atlantic Water Flow](LeetCode/417.%20Pacific%20Atlantic%20Water%20Flow.md)
+86. [130. Surrounded Regions](LeetCode/130.%20Surrounded%20Regions.md)
+87. [207. Course Schedule](LeetCode/207.%20Course%20Schedule.md)
+88. [210. Course Schedule II](LeetCode/210.%20Course%20Schedule%20II.md)
+89. [261. Graph Valid Tree](LeetCode/261.%20Graph%20Valid%20Tree.md)
+90. [323. Number of Connected Components in an Undirected Graph](LeetCode/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.md)
+91. [684. Redundant Connection](LeetCode/684.%20Redundant%20Connection.md)
+92. [127. Word Ladder](LeetCode/127.%20Word%20Ladder.md)
 
 ## Advanced Graphs
-93. reconstruct itinerary
-94. min cost connect points
-95. network delay time
-96. swim rising water
-97. alien dictionary
-98. cheapest flights k stops
+93. [332. Reconstruct Itinerary](LeetCode/332.%20Reconstruct%20Itinerary.md)
+94. [1584. Min Cost to Connect All Points](1584.%20Min%20Cost%20to%20Connect%20All%20Points.md)
+95. [743. Network Delay Time](743.%20Network%20Delay%20Time.md)
+96. [778. Swim in Rising Water](778.%20Swim%20in%20Rising%20Water.md)
+97. [269. Alien Dictionary](269.%20Alien%20Dictionary.md)
+98. [787. Cheapest Flights Within K Stops](787.%20Cheapest%20Flights%20Within%20K%20Stops.md)
 
 ## 1-D Dynamic Programming
-99. climbing stairs
-100. min cost climbing
-101. house robber
-102. robber 2
-103. longest palindromic substring
-104. palindromic substrings
-105. decode ways
-106. coin change
-107. max prod subarray
-108. word break
-109. longest increasing subseq
-110. partition equal subset sum
+99. [70. Climbing Stairs](70.%20Climbing%20Stairs.md)
+100. [746. Min Cost Climbing Stairs](746.%20Min%20Cost%20Climbing%20Stairs.md)
+101. [198. House Robber](198.%20House%20Robber.md)
+102. [213. House Robber II](213.%20House%20Robber%20II.md)
+103. [5. Longest Palindromic Substring](5.%20Longest%20Palindromic%20Substring.md)
+104. [647. Palindromic Substrings](647.%20Palindromic%20Substrings.md)
+105. [91. Decode Ways](91.%20Decode%20Ways.md)
+106. [322. Coin Change](322.%20Coin%20Change.md)
+107. [152. Maximum Product Subarray](152.%20Maximum%20Product%20Subarray.md)
+108. [139. Word Break](139.%20Word%20Break.md)
+109. [300. Longest Increasing Subsequence](300.%20Longest%20Increasing%20Subsequence.md)
+110. [416. Partition Equal Subset Sum](416.%20Partition%20Equal%20Subset%20Sum.md)
 
 ## 2-D Dynamic Programming
-111. unique paths
-112. longest common subseq
-113. best time to buy sell stock with cooldown
-114. coin change 2
-115. target sum
-116. interleaving string
-117. longest increasing path in matrix
-118. distinct subseqs
-119. edit dist
-120. burst balloons
-121. regex matching
+111. [62. Unique Paths](62.%20Unique%20Paths.md)
+112. [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)
+113. [309. Best Time to Buy and Sell Stock with Cooldown](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)
+114. [518. Coin Change II](518.%20Coin%20Change%20II.md)
+115. [494. Target Sum](494.%20Target%20Sum.md)
+116. [97. Interleaving String](97.%20Interleaving%20String.md)
+117. [329. Longest Increasing Path in a Matrix](329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+118. [115. Distinct Subsequences](115.%20Distinct%20Subsequences.md)
+119. [72. Edit Distance](72.%20Edit%20Distance.md)
+120. [312. Burst Balloons](312.%20Burst%20Balloons.md)
+121. [10. Regular Expression Matching](10.%20Regular%20Expression%20Matching.md)
 
 ## Greedy
 122. [53. Maximum Subarray](53.%20Maximum%20Subarray.md)
-123. jump game
-124. jump 2
-125. gas station
-126. hand of straights
-127. merge triples
-128. part labels
-129. valid parenthesis string
+123. [55. Jump Game](55.%20Jump%20Game.md)
+124. [45. Jump Game II](45.%20Jump%20Game%20II.md)
+125. [134. Gas Station](134.%20Gas%20Station.md)
+126. [846. Hand of Straights](846.%20Hand%20of%20Straights.md)
+127. [1899. Merge Triplets to Form Target Triplet](1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet.md)
+128. [763. Partition Labels](763.%20Partition%20Labels.md)
+129. [678. Valid Parenthesis String](678.%20Valid%20Parenthesis%20String.md)
 
 ## Intervals
 130. [57. Insert Interval](57.%20Insert%20Interval.md)
@@ -199,8 +192,9 @@
 150. reverse integer
 
 
----
-(begin blind75)
+
+# Grind 75
+(begin non overlapping from glind75)
 https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
 
 ## Array
@@ -212,12 +206,17 @@ https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&groupin
 
 ## Stack
 - [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
+- backspace string compare
+
 
 ## Linked List
+- middle of the linked list
 
 ## String
+- longest palindrome
 
 ## Binary Tree
+- symmetric tree
 
 ## Binary Search
 - [278. First Bad Version](278.%20First%20Bad%20Version.md)
@@ -227,107 +226,55 @@ https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&groupin
 - [542. 01 Matrix](542.%2001%20Matrix.md)
 - 
 ## Binary Search Tree
+- convert sorted array to binary search tree
 
 ## Hash Table
 - [383. Ransom Note](383.%20Ransom%20Note.md)
 
 ## Dynamic Programming
+- maximal square
 
 ## Binary
+- add binary
 
 ## Math
+- roman to integer
+- 
 
 ## Heap
+- top k frequent words
 
 ## Trie
+- design in-memory file system
+- 
+
 
 ## Recursion
+- next permutation
 
 ## Matrix
+- sudoku solver
+
 
 ## Queue
+- design hit counter
 
 
 
+# Appendix and brownie points
+- [Common combinatorial arguments used for complexity](../Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
+- [Complexity of sorting](../Blurbs/Complexity%20of%20sorting.md)
+- [Overflow](../Blurbs/Overflow.md)
+- [Brute force methods](../Blurbs/Brute%20force%20methods.md)
+- [recursive traversal is DFS](../Blurbs/recursive%20traversal%20is%20DFS.md)
+- [equality of reference vs value](../Bugs/equality%20of%20reference%20vs%20value.md)
 
-
-
-
-
-
-
-
-
-
-
-# Style
-- code
-	- make it easy to not just READ, but UNDERSTAND what it is doing
-		- i'll probably remember it better if i understand the code too
-	- it's fine to have 'longer code' for these problems: the solutions are so short, that a 'long solution' isn't even that long
-	- this generally means, avoid:
-		- oneliners
-		- code that doesn't match up with the intuition/explanation
-
-
-# References
-- most stuff here isn't original
-- Leetcode
-	- youtube
-		- neetcode
-			- he doesnt give all 'good to know solutions', but he always explains the 'best' solution very well. so imo, these are probably the best starting point for completely understanding the problem and solutions
-			- this is reason why i'm starting with neetcode150 list instead of grind169; ie if i cant understand it, then i know i can fall back here; or if i'm too tired that i dont even want to read, then i can at minimum watch the youtube solution 
-		- https://www.youtube.com/@cheatcodeninja/videos
-	- github
-		- https://github.com/lzl124631x/LeetCode/tree/master/leetcode
-			- this guy seems to have writeups for the harder problems
-	- https://leetcodethehardway.com/
-	- https://algo.monster/liteproblems/271
-		- replace 271 with whatever number the problem is
-		- these sometimes/often don't actually have the best solution
-	- leetcode forum users
-		- https://leetcode.com/hiepit/
-			- this guy consistently seems the best. covers all the necessary approaches, extremely concise, gives the key idea with proper terminology. some of the other guys below are more comprehensive but too rambly, and/or provide extra approaches that don't seem 'necessary' to know/cover
-		- https://leetcode.com/archit91/
-		- https://leetcode.com/its_vishal_7575/
-		- https://leetcode.com/r0gue_shinobi/
-		- https://leetcode.com/MarkSPhilip31/
-	- might have interesting perspectives
-		- https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/
-		- https://leetcode.com/stefanpochmann/
-			- this guy seems famous, but actually i'm generally not a fan, he's addicted to writing unreadable code bc he just slaps way too many operators, language specific things/tricks into it in order to cut down the number of lines, that don't seem to actually make the code any more efficient
-			- basically he's inadvertently singlehandedly convincing me that oneliners are terrible, and i shouldnt use too many esoteric functions or going inception style and nesting dozens of generators/comprehensions
-				- just stick to popular functions; when the solutions are already this short, there's nothing wrong with loops and multiline conditional statements, bc everyone knows what you're doing and it's way easier to read, even if you're familiar with oneliner if/else assignments
-				- even if you're aware of how increment operators behave (ie ocurring before or after assignment); it's just completely unecessary brainpower to use when you're trying to read a solution; or keeping track of all the generators that are nested inside each other; its just far easier to read when it's just indented
-			- ie completely missing the point...point of leetcode is to understand the patterns and major techniques of how to work with structures...not to write oneliners lol
-	- chinese
-		- https://github.com/topics/leetcode-solutions
-		- https://github.com/grandyang/leetcode
-		- 1point3acres leetcode (need a mandarin translator)
-- code
-	- neetcode github
-	- https://walkccc.me/LeetCode/
-- general interview tips
-	- https://interviewguide.dev/
-	- https://www.techinterviewhandbook.org/
-- to look up premium leetcode problem descriptions
-	- https://www.lintcode.com/problem
-	- https://leetcode.ca/search/
-- more lists of problems
-	- when i go thorugh grind169..tbh i should order it by topic and difficulty (like neetcode does); not by the og ordering
-		- the og ordering (where they mix it up) is more meant if i'm practicing leetcode their way, ie actually going through and solving them without looking up solutions..completely different from what i'm doing, which is just reading and understanding solutions
-		- https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
-	- https://projecteuler.net/archives
-	- teamblind
-		- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
-		- https://www.teamblind.com/post/Looking-for-a-good-follow-up-to-Blind-Curated-List-of-Top-75-Leetcode-Questions-nbV7TTvS
-- 'theory'
-	- CLRS
-	- skiena
-	- https://medium.com/leetcode-patterns
-
+![](../!assets/attachments/duckthumbsup.jpg)  
 
 
 
 
 ![](../!assets/attachments/massiveHmmm.jpeg)
+
+
+

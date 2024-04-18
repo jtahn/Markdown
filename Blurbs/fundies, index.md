@@ -1,0 +1,26 @@
+
+# index of foundational techniques
+- [1. Two Sum](../LeetCode/1.%20Two%20Sum.md)
+	- complexity of hashing ops
+	- hashing basics
+	- python implementation of hashing
+	- sets vs dicts
+- meta
+	- these aren't necessarily the 'only problem' that is fundamental for this technique
+	- it's just currently, the first one that was at that 'lowest level found so far', and i haven't found a problem that is 'more fundamental' for that technique
+	- so that problem is currently where the discussion for this technique is located
+- [704. Binary Search](../LeetCode/704.%20Binary%20Search.md)
+	- binary search
+- [242. Valid Anagram](../LeetCode/242.%20Valid%20Anagram.md)
+	- counting freqs wrt a finite char set
+	- comparing counts once
+- [703. Kth Largest Element in a Stream](../LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
+	- heaps
+- [567. Permutation in String](../LeetCode/567.%20Permutation%20in%20String.md)
+	- sliding window
+	- repeatedly comparing counts wrt a finite char set
+- [150. Evaluate Reverse Polish Notation](../LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+	- transforming conditional subroutines into a dict + general subroutine
+- [235. Lowest Common Ancestor of a Binary Search Tree](../LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
+	- wlog
+- 
