@@ -166,31 +166,30 @@
 
 ## Intervals
 130. [57. Insert Interval](57.%20Insert%20Interval.md)
-131. merge intervals
-132. non overlapping intervals
-133. meeting rooms
-134. meet 2
-135. min interval include query
+131. [56. Merge Intervals](56.%20Merge%20Intervals.md)
+132. [435. Non-overlapping Intervals](435.%20Non-overlapping%20Intervals.md)
+133. [252. Meeting Rooms](252.%20Meeting%20Rooms.md)
+134. [253. Meeting Rooms II](253.%20Meeting%20Rooms%20II.md)
+135. [1851. Minimum Interval to Include Each Query](1851.%20Minimum%20Interval%20to%20Include%20Each%20Query.md)
 
 ## Math & Geometry
-136. rotate image
-137. spiral matrix
-138. set matrix zeroes
-139. happy number
-140. plus one
-141. pow(x,n)
-142. multiply strings
-143. detect squares
+136. [48. Rotate Image](48.%20Rotate%20Image.md)
+137. [54. Spiral Matrix](54.%20Spiral%20Matrix.md)
+138. [73. Set Matrix Zeroes](73.%20Set%20Matrix%20Zeroes.md)
+139. [202. Happy Number](202.%20Happy%20Number.md)
+140. [66. Plus One](66.%20Plus%20One.md)
+141. [50. Pow(x, n)](50.%20Pow(x,%20n).md)
+142. [43. Multiply Strings](43.%20Multiply%20Strings.md)
+143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
 
 ## Bit Manipulation
-144. single number
-145. number of 1 bits
-146. counting bits
-147. reverse bits
-148. missing number
-149. sum of two integers
-150. reverse integer
-
+144. [136. Single Number](136.%20Single%20Number.md)
+145. [191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
+146. [338. Counting Bits](338.%20Counting%20Bits.md)
+147. [190. Reverse Bits](190.%20Reverse%20Bits.md)
+148. [268. Missing Number](268.%20Missing%20Number.md)
+149. [371. Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
+150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
 
 
 # Grind 75
@@ -198,7 +197,7 @@
 https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
 
 ## Array
-151. majority element
+151. [169. Majority Element](169.%20Majority%20Element.md)
 152. move zeroes
 153. squares of a sorted array
 154. 

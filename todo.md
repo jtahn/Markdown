@@ -1,3 +1,23 @@
+# anki cards
+- (to blurb on 'workflow')
+- add anki cards once i make the template
+- once i make a template: then add the anki card
+	- so all the 'new cards' will be things where i've only 'made template'
+	- only graduate to learning phase once i 'understand optimized'
+	- (so maybe: edit the settings for 'reading/revising cards' so that there's only 1 learning step)
+- each time a card shows up for a review:
+	- minimum review actions:
+		- fully understand what's already there
+		- do any edits that feel 'easy'
+	- if i have the energy:
+		- try to reach the next 'stage' of completeness
+		- ie if i'm at 'understand optimized'; then try to complete 'fill with comprehensive'
+
+
+
+
+
+
 # markdown structure: possible changes
 - can i add code lines to code snippets?
 - best way to add diagrams?
@@ -62,10 +82,14 @@
 
 
 
-#  comprehensive (1-75)
-- also:
-	122. [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
-	130. [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md) 
+#  comprehensive (1-41)
+- 1-41
+46. [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
+49. [110. Balanced Binary Tree](110.%20Balanced%20Binary%20Tree.md)
+52. [235. Lowest Common Ancestor of a Binary Search Tree](235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
+66. [973. K Closest Points to Origin](973.%20K%20Closest%20Points%20to%20Origin.md)
+122. [53. Maximum Subarray](LeetCode/53.%20Maximum%20Subarray.md)
+130. [57. Insert Interval](LeetCode/57.%20Insert%20Interval.md) 
 - and anything i've done in blind75
 	- [232. Implement Queue using Stacks](LeetCode/232.%20Implement%20Queue%20using%20Stacks.md)
 	- [278. First Bad Version](LeetCode/278.%20First%20Bad%20Version.md)
@@ -83,48 +107,10 @@ revise in passes; can combine passes
 6. make concise
 
 
-
 ## not comprehensive
 21. (maybe) [20. Valid Parentheses](LeetCode/20.%20Valid%20Parentheses.md)
 
 34. [[LeetCode/4. Median of Two Sorted Arrays]]
-
-42. [[LeetCode/287. Find the Duplicate Number]]
-43. [[LeetCode/146. LRU Cache]]
-44. [[LeetCode/23. Merge k Sorted Lists]]
-45. [[LeetCode/25. Reverse Nodes in k-Group]]
-
-47. [[LeetCode/104. Maximum Depth of Binary Tree]]
-48. [[LeetCode/543. Diameter of Binary Tree]]
-
-50. [[LeetCode/100. Same Tree]]
-51. [[LeetCode/572. Subtree of Another Tree]]
-
-53. [[LeetCode/102. Binary Tree Level Order Traversal]]
-- [[LeetCode/199. Binary Tree Right Side View]]
-- [[LeetCode/1448. Count Good Nodes in Binary Tree]]
-- [[LeetCode/98. Validate Binary Search Tree]]
-- [[LeetCode/230. Kth Smallest Element in a BST]]
-- [[LeetCode/105. Construct Binary Tree from Preorder and Inorder Traversal]]
-- [[LeetCode/124. Binary Tree Maximum Path Sum]]
-- [[LeetCode/297. Serialize and Deserialize Binary Tree]]
-- [[LeetCode/208. Implement Trie (Prefix Tree)]]
-- [[LeetCode/211. Design Add and Search Words Data Structure]]
-63. [[LeetCode/212. Word Search II]]
-64. [[LeetCode/703. Kth Largest Element in a Stream]]
-65. [[LeetCode/1046. Last Stone Weight]]
-
-67. [[LeetCode/215. Kth Largest Element in an Array]]
-- [[LeetCode/621. Task Scheduler]]
-- [[LeetCode/355. Design Twitter]]
-70. [[LeetCode/295. Find Median from Data Stream]]
-71. [78. Subsets](LeetCode/78.%20Subsets.md)
-- [39. Combination Sum](LeetCode/39.%20Combination%20Sum.md)
-- [46. Permutations](LeetCode/46.%20Permutations.md)
-- [90. Subsets II](LeetCode/90.%20Subsets%20II.md)
-75. [40. Combination Sum II](LeetCode/40.%20Combination%20Sum%20II.md)
-
-
 
 ## not structured
 20. [239. Sliding Window Maximum](LeetCode/239.%20Sliding%20Window%20Maximum.md)
@@ -132,16 +118,15 @@ revise in passes; can combine passes
 24. [22. Generate Parentheses](LeetCode/22.%20Generate%20Parentheses.md)
 36. [21. Merge Two Sorted Lists](LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
 
-
 ## not concise
-(all; next time i review, work on concise)
+(all listed above; next time i review, work on concise)
 
 
 
 
 
 
-# optimal only (76+)
+# optimal only (42+)
 (do comprehensive later; ie once i fully finish 'optimal' pass of neetcode and grind75)
 (and after i go through EPI/CTCI/skiena)
 
@@ -151,12 +136,7 @@ revise in passes; can combine passes
 	- https://algo.monster/liteproblems/1
 	- https://leetcodethehardway.com/solutions/category/3000---3099
 
-# created template
-76. [79. Word Search](LeetCode/79.%20Word%20Search.md)
-77. [131. Palindrome Partitioning](LeetCode/131.%20Palindrome%20Partitioning.md)
-78. [17. Letter Combinations of a Phone Number](LeetCode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
-79. [51. N-Queens](LeetCode/51.%20N-Queens.md)
-80. [200. Number of Islands](LeetCode/200.%20Number%20of%20Islands.md)
+## created template
 81. [695. Max Area of Island](LeetCode/695.%20Max%20Area%20of%20Island.md)
 82. [133. Clone Graph](LeetCode/133.%20Clone%20Graph.md)
 83. [286. Walls and Gates](LeetCode/286.%20Walls%20and%20Gates.md)
@@ -169,8 +149,8 @@ revise in passes; can combine passes
 90. [323. Number of Connected Components in an Undirected Graph](LeetCode/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.md)
 91. [684. Redundant Connection](LeetCode/684.%20Redundant%20Connection.md)
 92. [127. Word Ladder](LeetCode/127.%20Word%20Ladder.md)
+
 93. [332. Reconstruct Itinerary](LeetCode/332.%20Reconstruct%20Itinerary.md)
-94. 
 
 
 
@@ -180,7 +160,7 @@ revise in passes; can combine passes
 
 
 
-## reminder of order
+# reminder of order
 - first: whatever is next on neetcode 150 (https://neetcode.io/practice)
 	- meta: workflow for comprehensive
 		- reliable github repos
