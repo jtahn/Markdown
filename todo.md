@@ -137,7 +137,6 @@ revise in passes; can combine passes
 	- https://leetcodethehardway.com/solutions/category/3000---3099
 
 ## created template
-81. [695. Max Area of Island](LeetCode/695.%20Max%20Area%20of%20Island.md)
 82. [133. Clone Graph](LeetCode/133.%20Clone%20Graph.md)
 83. [286. Walls and Gates](LeetCode/286.%20Walls%20and%20Gates.md)
 84. [994. Rotting Oranges](LeetCode/994.%20Rotting%20Oranges.md)
@@ -161,50 +160,41 @@ revise in passes; can combine passes
 
 
 # reminder of order
-- first: whatever is next on neetcode 150 (https://neetcode.io/practice)
-	- meta: workflow for comprehensive
-		- reliable github repos
-			- https://github.com/lzl124631x/LeetCode/tree/master/leetcode
-		- possibly reliable github repos
-			- https://github.com/knockcat/Leetcode
-		- possibly reliable leetcoders if i see them in leetcode solutions; otherwise open a bunch of solutions in tabs
-			- https://leetcode.com/lee215/
-			- https://leetcode.com/linfq/
-		- draft a skeleton + dump screenies/etc for the solutions
-			- high level summary of the optimal solution:  https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
-			- watch the vid https://neetcode.io/practice
-			- look it up on reliable sources for the 'best solution'
-				- https://leetcodethehardway.com/
-				- https://algo.monster/liteproblems/424
-			- reliable leetcoders
-				- hiepit https://leetcode.com/hiepit/
-				- chaudhary1337 https://leetcode.com/chaudhary1337/
-				- DBabichev https://leetcode.com/DBabichev/
-			- reliable youtubers
-				- https://www.youtube.com/@chaudharycodes/videos
-			- then check leetcode forum solutions for other possible methods and clean explanations
-		- clean it up a bit
-		- once it's clean enough
-			- unsuspend card in anki
-			- add to toc in the readme
-- second: whatever is next on [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
-	- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
-- other popular/reputable lists
-	- https://leetcode.com/explore/interview/card/top-interview-questions-hard/
-	- 
-- seem interesting/useful/related (these might've already been covered)
+
+- meta: workflow for comprehensive
+	- reliable github repos
+		- https://github.com/lzl124631x/LeetCode/tree/master/leetcode
+	- possibly reliable github repos
+		- https://github.com/knockcat/Leetcode
+	- possibly reliable leetcoders if i see them in leetcode solutions; otherwise open a bunch of solutions in tabs
+		- https://leetcode.com/lee215/
+		- https://leetcode.com/linfq/
+	- draft a skeleton + dump screenies/etc for the solutions
+		- high level summary of the optimal solution:  https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
+		- watch the vid https://neetcode.io/practice
+		- look it up on reliable sources for the 'best solution'
+			- https://leetcodethehardway.com/
+			- https://algo.monster/liteproblems/424
+		- reliable leetcoders
+			- hiepit https://leetcode.com/hiepit/
+			- chaudhary1337 https://leetcode.com/chaudhary1337/
+			- DBabichev https://leetcode.com/DBabichev/
+		- reliable youtubers
+			- https://www.youtube.com/@chaudharycodes/videos
+		- then check leetcode forum solutions for other possible methods and clean explanations
+	- clean it up a bit
+	- once it's clean enough
+		- unsuspend card in anki
+		- add to toc in the readme
+
+- more interesting/useful/related (these might've already been covered)
 	- monotonic queues/stacks
 		- https://leetcode.com/problems/jump-game-iv/description/
 		- https://leetcode.com/problems/constrained-subsequence-sum/description/
-		- https://leetcode.com/problems/daily-temperatures/description/
-		- https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 		- https://leetcode.com/problems/132-pattern/description/
 		- https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
 		- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 		- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
-		- https://leetcode.com/problems/next-greater-element-i/description/
-			- this one is related to [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
-			- imo it's valuable bc it highlights why [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md) has 2 optimal solutions instead of just 1...it's bc the possible temps are a finite set
 	- binary search
 		- https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
 		- https://leetcode.com/problems/divide-chocolate/description/
@@ -214,21 +204,48 @@ revise in passes; can combine passes
 		- 1283. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/446376/javacpython-bianry-search/401806)
 		- 1231. [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/discuss/408503/Python-Binary-Search)
 		- 1011. [Capacity To Ship Packages In N Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/256729/javacpython-binary-search/351188?page=3)
-		- 875. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/discuss/152324/C++JavaPython-Binary-Search)
 		- 774. [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/discuss/113633/Easy-and-Concise-Solution-using-Binary-Search-C++JavaPython)
-		- 410. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- famous hard leetcode problems
-	- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
-	- [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-	- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-	- https://leetcode.com/problems/alien-dictionary/description/
-	- [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
-	- https://leetcode.com/problems/burst-balloons/description/
-		- [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
-	- https://leetcode.com/problems/all-oone-data-structure/description/
-		- [432. All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
-	- https://leetcode.com/problems/split-array-largest-sum/description/
-		- [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+	- design
+		1. Design Tic-Tac-Toe
+		2. Design TinyURL
+		3. Encode and Decode TinyURL
+		4. Moving Average from Data Stream
+		5. Zigzag Iterator
+		6. Insert Delete GetRandom O(1) - Duplicates allowed
+		7. All O`one Data Structure
+		8. Flatten Nested List Iterator
+		9. Design Search Autocomplete System
+		10. Two Sum III - Data structure design
+		11. Design Circular Queue
+		12. Find Median from Data Stream
+
+- find/focus/figure out topics that the top companies seem to love
+	- binary search (ie google)
+	- "Hudson river is asking combinatronics + geom algo"
+	- primeagen said: focus on arrays (and javascript) (and asyncio in js?)
+	- google
+		- https://javascript.plainenglish.io/leetcode-1293-shortest-path-in-a-grid-with-obstacles-elimination-b60f229579f7
+		- https://javascript.plainenglish.io/leetcode-1091-shortest-path-in-binary-matrix-e9119754ceb1
+		- 
+
+
+
+
+- fill in problems for fundies that i think should exist, but neetcode/grind/etc dont provide 'fundy enough' problem for it
+	- backtracking algo with multiple obvious extension paths at each node
+		- ie 'find all paths from source to target vertex in graph'
+		- there are some problems that are kinda like this, but they're both a bit more complicated imo
+			- [17. Letter Combinations of a Phone Number](LeetCode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) 
+			- [46. Permutations](LeetCode/46.%20Permutations.md)
+	- https://leetcode.com/problems/next-greater-element-i/description/
+		- seems like one of the best fundies for monotonic stack?
+		- this one is related to [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md)
+		- this problem: it shouldnt matter which way you iterate, wrt complexity
+			- which is why: it's valuable bc it highlights why [739. Daily Temperatures](LeetCode/739.%20Daily%20Temperatures.md) has 2 optimal solutions instead of just 1...it's bc the possible temps are a finite set
+
+
+
+
 - other references to make problem writeups for
 	- directly applicable to swe interview
 		- aziz (EPI)
@@ -292,4 +309,68 @@ revise in passes; can combine passes
 		- extremely rough cards that i understand the material, and have all the prose there; but are written very sloppily
 		- future cards that i (just) have a skeleton for
 
+
+
+
+
+---
+
+
+# specific companies
+
+## ttzztt
+
+scroll the left sidebar down, it will show categories
+https://ttzztt.gitbooks.io/lc/content/longest-increasing-subsequence.html
+
+
+Twitter
+Identifying Triangle
+Last and Second-Last
+300. Longest increasing subsequence
+Twin String
+647. Number of palindromic substring
+Wildcard Matching
+Akuna
+C++ Intern
+V1
+V2
+Cut the Sticks
+Quant Dev
+Postfix_to_infix
+Drone Delivery
+phone
+LintCode Contest
+Ask For Cooling Time
+SQL
+176. Second Highest Salary
+597. Friend Requests I: Overall Acceptance Rate
+FB 19
+Convert Binary Search Tree (BST) to Sorted Doubly-Linked List
+3Sum
+Minimum Window Substring
+Count number of occurrences (or frequency) in a sorted array
+Count NO2
+Valid Palindrome
+Merge k Sorted Lists
+Kth Largest Element in an Array
+Move Zeros
+Remove Invalid Parenthesis
+friends
+Integer to English
+Islands
+Valid Palindrome
+sec
+Longest Increasing Path in a Matrix
+Product of Array Except Self
+Binary Tree Vertical Order Traversal
+Add Binary
+Valid Parentheses
+sup
+128. Longest Consecutive Sequence
+Combination Sum II
+Add and Search Word - Data structure design
+feb
+Google 20
+410. Split Array Largest Sum
 

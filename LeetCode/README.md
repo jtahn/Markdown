@@ -193,70 +193,146 @@
 
 
 # Grind 75
-(begin non overlapping from glind75)
-https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
 
 ## Array
 151. [169. Majority Element](169.%20Majority%20Element.md)
-152. move zeroes
-153. squares of a sorted array
-154. 
+152. [283. Move Zeroes](283.%20Move%20Zeroes.md)
+153. [977. Squares of a Sorted Array](977.%20Squares%20of%20a%20Sorted%20Array.md)
+154. [75. Sort Colors](75.%20Sort%20Colors.md)
+155. [189. Rotate Array](189.%20Rotate%20Array.md)
+156. [525. Contiguous Array](525.%20Contiguous%20Array.md)
+157. [560. Subarray Sum Equals K](560.%20Subarray%20Sum%20Equals%20K.md)
+158. [16. 3Sum Closest](16.%203Sum%20Closest.md)
+159. [759. Employee Free Time](759.%20Employee%20Free%20Time.md)
 
 
 ## Stack
-- [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
-- backspace string compare
+160. [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
+161. backspace string compare
+162. decode string
+163. asteroid collision
+164. basic calc 2
+165. basic calc
+166. max freq stack
+167. longest valid parentheses
 
 
 ## Linked List
-- middle of the linked list
+168. middle of the linked list
+169. palindrome linked list
+170. swap nodes in pairs
+171. odd even linked list
+172. sort list
+173. rotate list
 
 ## String
-- longest palindrome
+174. longest palindrome
+- longest common prefix
+- string to integer (atoi)
+- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+- largest number
+179. palindrome pairs
 
 ## Binary Tree
-- symmetric tree
+180. symmetric tree
+181. lowest common ancestor of a binary tree
+182. path sum 2
+183. max width of binary tree
+184. binary tree zigzag level order traversal
+185. path sum 3
+186. all nodes distance k in binary tree
 
 ## Binary Search
-- [278. First Bad Version](278.%20First%20Bad%20Version.md)
+187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
+188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
 
 ## Graph
-- [733. Flood Fill](733.%20Flood%20Fill.md)
-- [542. 01 Matrix](542.%2001%20Matrix.md)
-- 
+189. [733. Flood Fill](733.%20Flood%20Fill.md)
+190. [542. 01 Matrix](542.%2001%20Matrix.md)
+191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
+192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
+193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
+194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
+195. [815. Bus Routes](815.%20Bus%20Routes.md)
+
 ## Binary Search Tree
-- convert sorted array to binary search tree
+196. [108. Convert Sorted Array to Binary Search Tree](108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+197. [285. Inorder Successor in BST](285.%20Inorder%20Successor%20in%20BST.md)
 
 ## Hash Table
-- [383. Ransom Note](383.%20Ransom%20Note.md)
+198. [383. Ransom Note](383.%20Ransom%20Note.md)
+199. [380. Insert Delete GetRandom O(1)](380.%20Insert%20Delete%20GetRandom%20O(1).md)
+200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
 
 ## Dynamic Programming
-- maximal square
+201. [221. Maximal Square](221.%20Maximal%20Square.md)
+202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
 
 ## Binary
-- add binary
+203. [67. Add Binary](67.%20Add%20Binary.md)
 
 ## Math
-- roman to integer
-- 
+204. roman to integer
+205. palindrome number
+206. random pick with weight
 
 ## Heap
-- top k frequent words
+207. top k frequent words
+208. find k closests elements
+209. smallest range cvoering elts from k lists
 
 ## Trie
-- design in-memory file system
-- 
-
+210. design in-memory file system
 
 ## Recursion
-- next permutation
+211. [31. Next Permutation](31.%20Next%20Permutation.md)
 
 ## Matrix
-- sudoku solver
-
+212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
 
 ## Queue
-- design hit counter
+213. design hit counter
+
+
+
+
+# LeetCode
+
+
+
+
+
+
+# famous problems
+(usually bc very difficult)
+
+
+- [410. Split Array Largest Sum](LeetCode/410.%20Split%20Array%20Largest%20Sum.md)
+	- binary search
+- [546. Remove Boxes](LeetCode/546.%20Remove%20Boxes.md)
+- [432. All O'one Data Structure](LeetCode/432.%20All%20O'one%20Data%20Structure.md)
+- [126. Word Ladder II](LeetCode/126.%20Word%20Ladder%20II.md)
+- [407. Trapping Rain Water II](407.%20Trapping%20Rain%20Water%20II.md)
+- [818. Race Car](818.%20Race%20Car.md)
+- [1591. Strange Printer II](1591.%20Strange%20Printer%20II.md)
+- [1659. Maximize Grid Happiness](1659.%20Maximize%20Grid%20Happiness.md)
+- [2203. Minimum Weighted Subgraph With the Required Paths](2203.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.md)
+
+
+
+
+
+
+
+# Meta
+- current order of problems:
+	- neetcode 150
+	- grind 75
+		- https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
+	- lc official list: "top interview questions"
+		- https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+	- official leetcode lists
+	- random famous (hard) problems
 
 
 

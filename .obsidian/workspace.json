@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "2f719f3feb627ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "refs/skiena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7167130ff9a17a2e",
             "type": "leaf",
             "pinned": true,
@@ -34,8 +46,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "80e7e5b94208aa62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/133. Clone Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -47,6 +72,7 @@
       {
         "id": "2f7d65cefc31b30e",
         "type": "tabs",
+        "dimension": 49.675625579240034,
         "children": [
           {
             "id": "30ea3e619e5c4c61",
@@ -86,6 +112,7 @@
       {
         "id": "c189687f6d021912",
         "type": "tabs",
+        "dimension": 50.324374420759966,
         "children": [
           {
             "id": "36d31c74556e5c4b",
@@ -93,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/README.md"
+                "file": "todo.md"
               }
             }
           }
@@ -117,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/README.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/README.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,44 +195,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30ea3e619e5c4c61",
+  "active": "7167130ff9a17a2e",
   "lastOpenFiles": [
-    "LeetCode/169. Majority Element.md",
-    "LeetCode/README.md",
+    "refs/skiena.md",
+    "!assets/attachments/Pasted image 20240420052526.png",
+    "!assets/attachments/Pasted image 20240420052450.png",
     "todo.md",
-    "LeetCode/7. Reverse Integer.md",
-    "LeetCode/371. Sum of Two Integers.md",
-    "LeetCode/268. Missing Number.md",
-    "LeetCode/190. Reverse Bits.md",
-    "LeetCode/338. Counting Bits.md",
-    "LeetCode/191. Number of 1 Bits.md",
-    "LeetCode/136. Single Number.md",
-    "LeetCode/43. Multiply Strings.md",
-    "LeetCode/2013. Detect Squares.md",
-    "LeetCode/50. Pow(x, n).md",
-    "LeetCode/66. Plus One.md",
-    "LeetCode/202. Happy Number.md",
-    "LeetCode/73. Set Matrix Zeroes.md",
-    "LeetCode/54. Spiral Matrix.md",
-    "LeetCode/48. Rotate Image.md",
-    "!assets/attachments/Pasted image 20240419040057.png",
-    "!assets/attachments/Pasted image 20240419032457.png",
-    "!assets/attachments/Pasted image 20240419032446.png",
-    "!assets/attachments/Pasted image 20240419031615.png",
-    "!assets/attachments/Pasted image 20240419031605.png",
-    "!assets/attachments/Pasted image 20240419031452.png",
-    "!assets/attachments/Pasted image 20240419031440.png",
-    "LeetCode/56. Merge Intervals.md",
-    "LeetCode/1851. Minimum Interval to Include Each Query.md",
-    "LeetCode/253. Meeting Rooms II.md",
-    "LeetCode/252. Meeting Rooms.md",
-    "LeetCode/435. Non-overlapping Intervals.md",
-    "1,5.md",
-    "README.md",
-    "LeetCode/45. Jump Game II.md",
-    "!assets/attachments/Pasted image 20240418150445.png",
-    "!assets/attachments/Pasted image 20240418150434.png",
-    "!assets/attachments/Pasted image 20240418150214.png",
+    "LeetCode/README.md",
+    "refs",
+    "!assets/attachments/Pasted image 20240420044154.png",
+    "!assets/attachments/Pasted image 20240420042257.png",
+    "LeetCode/200. Number of Islands.md",
+    "LeetCode/133. Clone Graph.md",
+    "LeetCode/739. Daily Temperatures.md",
+    "LeetCode/285. Inorder Successor in BST.md",
+    "LeetCode/759. Employee Free Time.md",
+    "!assets/attachments/Pasted image 20240420014242.png",
+    "!assets/attachments/Pasted image 20240420014231.png",
+    "LeetCode/1730. Shortest Path to Get Food.md",
+    "LeetCode/1197. Minimum Knight Moves.md",
+    "!assets/attachments/Pasted image 20240420013403.png",
+    "!assets/attachments/Pasted image 20240420013233.png",
+    "!assets/attachments/Pasted image 20240420013223.png",
+    "!assets/attachments/Pasted image 20240420013211.png",
+    "LeetCode/380. Insert Delete GetRandom O(1).md",
+    "LeetCode/41. First Missing Positive.md",
+    "LeetCode/221. Maximal Square.md",
+    "LeetCode/377. Combination Sum IV.md",
+    "LeetCode/67. Add Binary.md",
+    "LeetCode/31. Next Permutation.md",
+    "LeetCode/37. Sudoku Solver.md",
+    "LeetCode/108. Convert Sorted Array to Binary Search Tree.md",
+    "LeetCode/16. 3Sum Closest.md",
+    "LeetCode/1235. Maximum Profit in Job Scheduling.md",
+    "LeetCode/815. Bus Routes.md",
+    "LeetCode/310. Minimum Height Trees.md",
+    "LeetCode/721. Accounts Merge.md",
+    "LeetCode/560. Subarray Sum Equals K.md",
+    "LeetCode/525. Contiguous Array.md",
     "private",
     "Blurbs",
     "Bugs",
@@ -214,7 +241,6 @@
     "Anki Card template wip/scratch.py",
     "Calc",
     "LeetCode/py/973.py",
-    "LeetCode/py/733.py",
-    "LeetCode/py/704.py"
+    "LeetCode/py/733.py"
   ]
 }
