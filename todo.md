@@ -137,11 +137,8 @@ revise in passes; can combine passes
 	- https://leetcodethehardway.com/solutions/category/3000---3099
 
 ## created template
-82. [133. Clone Graph](LeetCode/133.%20Clone%20Graph.md)
-83. [286. Walls and Gates](LeetCode/286.%20Walls%20and%20Gates.md)
-84. [994. Rotting Oranges](LeetCode/994.%20Rotting%20Oranges.md)
-85. [417. Pacific Atlantic Water Flow](LeetCode/417.%20Pacific%20Atlantic%20Water%20Flow.md)
-86. [130. Surrounded Regions](LeetCode/130.%20Surrounded%20Regions.md)
+
+
 87. [207. Course Schedule](LeetCode/207.%20Course%20Schedule.md)
 88. [210. Course Schedule II](LeetCode/210.%20Course%20Schedule%20II.md)
 89. [261. Graph Valid Tree](LeetCode/261.%20Graph%20Valid%20Tree.md)

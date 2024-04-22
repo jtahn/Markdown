@@ -102,8 +102,14 @@
 	- https://www.markdownguide.org/basic-syntax/#line-break-best-practices
 	- https://stackoverflow.com/questions/36583502/how-to-force-a-linebreak
 		- Just one thing: don't do a global trim on trailing spaces, as is often habit for source code, otherwise you'll lose important formatting.
-
-
+- code snippets
+	- https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Code+blocks
+		- https://prismjs.com/#supported-languages
+- linking to headings
+	- https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+heading+in+a+note
+	- on creation: works for markdown links, not just wikilinks
+		- don't use obsidian automplete suggestions for the file name
+		- seems you need to type in the full filename, then type a hashtag symbol; then obsidian will show suggestions to autocomplete the heading (which you can use)
 
 # obsidian decisions discussion
 - absolute paths

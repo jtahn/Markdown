@@ -1,3 +1,17 @@
+# why connect with an algo/DS textbook
+- understanding general idea is helpful
+	- probly makes it easier to understand specific ideas, bc they're like small tweaks/variants..ie instead of understanding the entire thing every time: just understand general idea, and then understand why the tweak/specific thing happens
+	- ie skiena is definitely important to do at the same time as leetcode. neither is more important the other. i need examples/implementations to actually fully understand the nuances of the general theory; i need skiena/epi to actually become aware of the general theory and understand the 'big picture' of the general theory. for interviews, i probly don't really need more than skiena/epi.
+- which algo/DS textbook
+	- just pick a memed/reputable one
+	- i chose skiena bc it seemed to be most applicable out of the memed stuff
+		- doesn't seem like you need to be any more general than this, for interviews
+	- take a look at EPI...tho imo EPI doesn't seem to explain the general stuff as much
+		- also it doesn't seem as polished
+		- BUT imo epi will be very helpful for understanding some implementations...ie their discussion of divide&conquer was very valuable imo, see [53. Maximum Subarray](../LeetCode/53.%20Maximum%20Subarray.md)
+			- versus skiena 5.6 covers this problem, but does not emphasize the difficulty/importance of 'stitching/merging' solutions; ie i like how EPI emphasizes how this is lowkey kind of subtle (but extremely important..ie the basically the meat of the problem) 
+
+
 # jargon: 'fundy'
 - ‘fundy’ as an abbreviation for any of fundamental problem/technique/idea
 	- ie ‘big fundy’ the yankee player, lol

@@ -344,6 +344,14 @@
 - [recursive traversal is DFS](../Blurbs/recursive%20traversal%20is%20DFS.md)
 - [equality of reference vs value](../Bugs/equality%20of%20reference%20vs%20value.md)
 
+
+# References
+(for myself; use gitignore to make sure these files arent uploaded)
+- [skiena](../refs/skiena.md)
+
+
+
+
 ![](../!assets/attachments/duckthumbsup.jpg)  
 
 
