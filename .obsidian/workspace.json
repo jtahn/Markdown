@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8847ebb19a5e59b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/207. Course Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f719f3feb627ef5",
             "type": "leaf",
             "state": {
@@ -48,19 +60,43 @@
             }
           },
           {
-            "id": "bdb26bdec43701c8",
+            "id": "1daa1920dcd92517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/207. Course Schedule.md",
+                "file": "LeetCode/261. Graph Valid Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f154e31ca3e554f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/200. Number of Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab4ec7536183d26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "refs/clrs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c189687f6d021912",
@@ -121,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "refs/clrs.md"
               }
             }
           }
@@ -145,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "refs/clrs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "refs/clrs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,18 +231,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7167130ff9a17a2e",
+  "active": "ab4ec7536183d26a",
   "lastOpenFiles": [
-    "LeetCode/207. Course Schedule.md",
+    "LeetCode/200. Number of Islands.md",
+    "refs/clrs og.pdf",
+    "refs/clrs.md",
+    "refs/aziz - epi c++.pdf",
+    "refs/skiena og.pdf",
     "refs/skiena.md",
+    "LeetCode/README.md",
+    "LeetCode/207. Course Schedule.md",
+    "todo.md",
+    "LeetCode/261. Graph Valid Tree.md",
+    "LeetCode/210. Course Schedule II.md",
+    "LeetCode/417. Pacific Atlantic Water Flow.md",
+    "LeetCode/130. Surrounded Regions.md",
+    "LeetCode/133. Clone Graph.md",
     "!assets/attachments/Pasted image 20240422012659.png",
     "!assets/attachments/Pasted image 20240422012510.png",
-    "LeetCode/README.md",
-    "todo.md",
-    "LeetCode/130. Surrounded Regions.md",
-    "LeetCode/200. Number of Islands.md",
-    "LeetCode/417. Pacific Atlantic Water Flow.md",
-    "LeetCode/133. Clone Graph.md",
     "!assets/attachments/Pasted image 20240421023957.png",
     "!assets/attachments/Pasted image 20240421023355.png",
     "!assets/attachments/Pasted image 20240421023152.png",
@@ -216,7 +257,6 @@
     "LeetCode/53. Maximum Subarray.md",
     "!assets/attachments/Pasted image 20240421021546.png",
     "!assets/attachments/Pasted image 20240421015608.png",
-    "LeetCode/261. Graph Valid Tree.md",
     "LeetCode/323. Number of Connected Components in an Undirected Graph.md",
     "LeetCode/269. Alien Dictionary.md",
     "LeetCode/252. Meeting Rooms.md",
@@ -227,21 +267,16 @@
     "LeetCode/143. Reorder List.md",
     "refs/epi.md",
     "refs/Untitled.md",
-    "refs/clrs.md",
     "clrs.md",
     "!assets/attachments/Pasted image 20240420052526.png",
     "!assets/attachments/Pasted image 20240420052450.png",
     "refs",
     "!assets/attachments/Pasted image 20240420044154.png",
-    "LeetCode/739. Daily Temperatures.md",
     "private",
     "Blurbs",
     "Bugs",
     "Anki Card template wip/scratch.ipynb",
     "scratch.ipynb",
-    "Anki Card template wip/scratch.py",
-    "Calc",
-    "LeetCode/py/973.py",
-    "LeetCode/py/733.py"
+    "Anki Card template wip/scratch.py"
   ]
 }

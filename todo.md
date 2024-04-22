@@ -139,8 +139,6 @@ revise in passes; can combine passes
 ## created template
 
 
-87. [207. Course Schedule](LeetCode/207.%20Course%20Schedule.md)
-88. [210. Course Schedule II](LeetCode/210.%20Course%20Schedule%20II.md)
 89. [261. Graph Valid Tree](LeetCode/261.%20Graph%20Valid%20Tree.md)
 90. [323. Number of Connected Components in an Undirected Graph](LeetCode/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.md)
 91. [684. Redundant Connection](LeetCode/684.%20Redundant%20Connection.md)
