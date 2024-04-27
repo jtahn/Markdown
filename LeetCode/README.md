@@ -208,39 +208,38 @@
 
 ## Stack
 160. [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
-161. backspace string compare
-162. decode string
-163. asteroid collision
-164. basic calc 2
-165. basic calc
-166. max freq stack
-167. longest valid parentheses
-
+161. [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
+162. [394. Decode String](394.%20Decode%20String.md)
+163. [735. Asteroid Collision](735.%20Asteroid%20Collision.md)
+164. [227. Basic Calculator II](227.%20Basic%20Calculator%20II.md)
+165. [224. Basic Calculator](224.%20Basic%20Calculator.md)
+166. [895. Maximum Frequency Stack](895.%20Maximum%20Frequency%20Stack.md)
+167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
 
 ## Linked List
-168. middle of the linked list
-169. palindrome linked list
-170. swap nodes in pairs
-171. odd even linked list
-172. sort list
-173. rotate list
+168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
+169. [234. Palindrome Linked List](234.%20Palindrome%20Linked%20List.md)
+170. [24. Swap Nodes in Pairs](24.%20Swap%20Nodes%20in%20Pairs.md)
+171. [328. Odd Even Linked List](328.%20Odd%20Even%20Linked%20List.md)
+172. [148. Sort List](148.%20Sort%20List.md)
+173. [61. Rotate List](61.%20Rotate%20List.md)
 
 ## String
-174. longest palindrome
-- longest common prefix
-- string to integer (atoi)
-- [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
-- largest number
-179. palindrome pairs
+174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
+175. [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
+176. [8. String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
+177. [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+178. [179. Largest Number](179.%20Largest%20Number.md)
+179. [336. Palindrome Pairs](336.%20Palindrome%20Pairs.md)
 
 ## Binary Tree
-180. symmetric tree
-181. lowest common ancestor of a binary tree
-182. path sum 2
-183. max width of binary tree
-184. binary tree zigzag level order traversal
-185. path sum 3
-186. all nodes distance k in binary tree
+180. [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
+181. [236. Lowest Common Ancestor of a Binary Tree](236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
+182. [113. Path Sum II](113.%20Path%20Sum%20II.md)
+183. [662. Maximum Width of Binary Tree](662.%20Maximum%20Width%20of%20Binary%20Tree.md)
+184. [103. Binary Tree Zigzag Level Order Traversal](103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
+185. [437. Path Sum III](437.%20Path%20Sum%20III.md)
+186. [863. All Nodes Distance K in Binary Tree](863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
 
 ## Binary Search
 187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
@@ -272,17 +271,17 @@
 203. [67. Add Binary](67.%20Add%20Binary.md)
 
 ## Math
-204. roman to integer
-205. palindrome number
-206. random pick with weight
+204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
+205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
+206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
 
 ## Heap
-207. top k frequent words
-208. find k closests elements
-209. smallest range cvoering elts from k lists
+207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
+208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
+209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
 
 ## Trie
-210. design in-memory file system
+210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
 
 ## Recursion
 211. [31. Next Permutation](31.%20Next%20Permutation.md)
@@ -291,7 +290,7 @@
 212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
 
 ## Queue
-213. design hit counter
+213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
 
 
 
@@ -336,18 +335,20 @@
 
 
 
+
+
 # Appendix and brownie points
 - [Common combinatorial arguments used for complexity](../Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
 - [Complexity of sorting](../Blurbs/Complexity%20of%20sorting.md)
 - [Overflow](../Blurbs/Overflow.md)
 - [Brute force methods](../Blurbs/Brute%20force%20methods.md)
-- [recursive traversal is DFS](../Blurbs/recursive%20traversal%20is%20DFS.md)
+- [fundy, recursion](../Blurbs/fundy,%20recursion.md)
 - [equality of reference vs value](../Bugs/equality%20of%20reference%20vs%20value.md)
 
 
 # References
 (for myself; use gitignore to make sure these files arent uploaded)
-- [skiena](../refs/skiena.md)
+- [skiena](../_private/skiena.md)
 
 
 

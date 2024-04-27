@@ -1,3 +1,36 @@
+# textbook sections
+- (move some of these to actual problems/fundies)
+- [adm 2.2: big oh](_private/pdfs/adm.pdf#page=51)
+- [adm 2.6-2.8: sums and logs](_private/pdfs/adm.pdf#page=63)
+- adm 4.6 quicksort
+- clrs
+	- 2
+		- sorting jargon (p 17-18)
+		- insertion sort
+		- subarray
+			- a contiguous portion of the array
+		- loop invariants
+		- objects, atributes
+		- pseudocode conventions/jargon
+	- 2.2
+		- complexity jargon
+	- 2.3
+		- algorithmic technique jargon
+		- solving/analyzing recurrence relations
+	- part II intro
+	- 6.3 building a heap
+	- 6.5 priority queues
+	- 7.2-7.3 quicksort
+	- 12.1 BST
+		- bst property
+		- pre/in/postorder tree walk
+	- 16 amortized analysis
+	- 20.2 bfs
+	- 20.3 dfs
+	- 14.1, 14.3 dp
+- knuth
+	- [6.2.1 searching an ordered table](_private/pdfs/taocp%203.pdf#page=427&annotation=5576R)
+		- [variation](_private/pdfs/taocp%203.pdf#page=432&selection=51,0,51,23)
 
 
 # assorted

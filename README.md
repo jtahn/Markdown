@@ -110,6 +110,7 @@
 	- on creation: works for markdown links, not just wikilinks
 		- don't use obsidian automplete suggestions for the file name
 		- seems you need to type in the full filename, then type a hashtag symbol; then obsidian will show suggestions to autocomplete the heading (which you can use)
+- https://www.tablesgenerator.com/markdown_tables#
 
 # obsidian decisions discussion
 - absolute paths

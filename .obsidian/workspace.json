@@ -22,81 +22,30 @@
             }
           },
           {
-            "id": "8847ebb19a5e59b2",
+            "id": "2b077dfe14e26c0b",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/207. Course Schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f719f3feb627ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "refs/skiena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7167130ff9a17a2e",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "todo.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1daa1920dcd92517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/261. Graph Valid Tree.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
           {
-            "id": "f154e31ca3e554f0",
+            "id": "fd2ce1fbb3179f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/200. Number of Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab4ec7536183d26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "refs/clrs.md",
+                "file": "LeetCode/9. Palindrome Number.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "refs/clrs.md"
+                "file": "LeetCode/README.md"
               }
             }
           }
@@ -180,8 +129,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "refs/clrs.md",
-                "collapseAll": false,
+                "file": "LeetCode/README.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -197,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "refs/clrs.md",
+                "file": "LeetCode/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,52 +179,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab4ec7536183d26a",
+  "active": "7041918403bde985",
   "lastOpenFiles": [
-    "LeetCode/200. Number of Islands.md",
-    "refs/clrs og.pdf",
-    "refs/clrs.md",
-    "refs/aziz - epi c++.pdf",
-    "refs/skiena og.pdf",
-    "refs/skiena.md",
-    "LeetCode/README.md",
-    "LeetCode/207. Course Schedule.md",
     "todo.md",
+    "LeetCode/9. Palindrome Number.md",
+    "LeetCode/README.md",
+    "LeetCode/362. Design Hit Counter.md",
+    "LeetCode/895. Maximum Frequency Stack.md",
+    "LeetCode/588. Design In-Memory File System.md",
+    "LeetCode/355. Design Twitter.md",
+    "LeetCode/211. Design Add and Search Words Data Structure.md",
+    "LeetCode/632. Smallest Range Covering Elements from K Lists.md",
+    "LeetCode/658. Find K Closest Elements.md",
+    "LeetCode/692. Top K Frequent Words.md",
+    "LeetCode/528. Random Pick with Weight.md",
+    "LeetCode/13. Roman to Integer.md",
+    "LeetCode/101. Symmetric Tree.md",
+    "LeetCode/863. All Nodes Distance K in Binary Tree.md",
+    "!assets/attachments/Pasted image 20240426153950.png",
+    "LeetCode/437. Path Sum III.md",
+    "!assets/attachments/Pasted image 20240426153842.png",
+    "LeetCode/103. Binary Tree Zigzag Level Order Traversal.md",
+    "!assets/attachments/Pasted image 20240426153743.png",
+    "LeetCode/662. Maximum Width of Binary Tree.md",
+    "!assets/attachments/Pasted image 20240426153555.png",
+    "!assets/attachments/Pasted image 20240426153546.png",
+    "!assets/attachments/Pasted image 20240426153537.png",
+    "LeetCode/113. Path Sum II.md",
+    "!assets/attachments/Pasted image 20240426153423.png",
+    "!assets/attachments/Pasted image 20240426153414.png",
+    "LeetCode/236. Lowest Common Ancestor of a Binary Tree.md",
+    "!assets/attachments/Pasted image 20240426153247.png",
+    "!assets/attachments/Pasted image 20240426153239.png",
     "LeetCode/261. Graph Valid Tree.md",
-    "LeetCode/210. Course Schedule II.md",
-    "LeetCode/417. Pacific Atlantic Water Flow.md",
-    "LeetCode/130. Surrounded Regions.md",
-    "LeetCode/133. Clone Graph.md",
-    "!assets/attachments/Pasted image 20240422012659.png",
-    "!assets/attachments/Pasted image 20240422012510.png",
-    "!assets/attachments/Pasted image 20240421023957.png",
-    "!assets/attachments/Pasted image 20240421023355.png",
-    "!assets/attachments/Pasted image 20240421023152.png",
-    "LeetCode/286. Walls and Gates.md",
-    "Blurbs/fundies, meta.md",
-    "LeetCode/53. Maximum Subarray.md",
-    "!assets/attachments/Pasted image 20240421021546.png",
-    "!assets/attachments/Pasted image 20240421015608.png",
     "LeetCode/323. Number of Connected Components in an Undirected Graph.md",
-    "LeetCode/269. Alien Dictionary.md",
-    "LeetCode/252. Meeting Rooms.md",
-    "README.md",
-    "LeetCode/438. Find All Anagrams in a String.md",
-    "LeetCode/253. Meeting Rooms II.md",
-    "LeetCode/169. Majority Element.md",
-    "LeetCode/143. Reorder List.md",
-    "refs/epi.md",
-    "refs/Untitled.md",
-    "clrs.md",
-    "!assets/attachments/Pasted image 20240420052526.png",
-    "!assets/attachments/Pasted image 20240420052450.png",
-    "refs",
-    "!assets/attachments/Pasted image 20240420044154.png",
-    "private",
-    "Blurbs",
-    "Bugs",
-    "Anki Card template wip/scratch.ipynb",
-    "scratch.ipynb",
-    "Anki Card template wip/scratch.py"
+    "LeetCode/336. Palindrome Pairs.md",
+    "LeetCode/179. Largest Number.md",
+    "LeetCode/8. String to Integer (atoi).md",
+    "LeetCode/14. Longest Common Prefix.md",
+    "_private/pdfs/epi.pdf",
+    "_private/pdfs/adm.pdf",
+    "_private/pdfs/clrs.pdf",
+    "_private/pdfs/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
+    "_private/pdfs/Jon Bentley - Programming Pearls-Addison-Wesley (2000).pdf",
+    "_private/pdfs/Bentley, Jon - Programming Pearls-Pearson Education Limited (US titles)_Addison Wesley Professional (1999).pdf",
+    "_private/pdfs/Jon Louis Bentley - More Programming Pearls_ Confessions of a Coder (1988).pdf",
+    "_private/pdfs/programming abstractions in c++.pdf",
+    "_private/pdfs/taocp 3.pdf",
+    "_private/pdfs/taocp 4b.pdf"
   ]
 }

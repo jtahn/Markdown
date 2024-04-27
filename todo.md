@@ -1,3 +1,5 @@
+
+
 # anki cards
 - (to blurb on 'workflow')
 - add anki cards once i make the template
@@ -71,15 +73,8 @@
 							- store how many 'letters of alphabet have the correct count'
 							- store total letters we are correct with (and so we have success when total letter matches length of whatever we're trying to find/match)
 
-
-
-
-# resources
-- ![](!assets/attachments/Pasted%20image%2020240412021212.png)
-	* [10 CS 106B Lecture Recursion 2 recursive data - YouTube](https://www.youtube.com/watch?v=iiF7rFx32Fw&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d&index=10)
-	* [14 CS 106B Lecture Backtracking printBinary, printDecimal - YouTube](https://www.youtube.com/watch?v=zL4mjpYpRmc&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d&index=14)
-
-
+- templates and problem suggestions
+	- [Graph For Beginners [Problems | Pattern | Sample Solutions] - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 
 
 #  comprehensive (1-41)
@@ -135,21 +130,6 @@ revise in passes; can combine passes
 	- https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr
 	- https://algo.monster/liteproblems/1
 	- https://leetcodethehardway.com/solutions/category/3000---3099
-
-## created template
-
-
-89. [261. Graph Valid Tree](LeetCode/261.%20Graph%20Valid%20Tree.md)
-90. [323. Number of Connected Components in an Undirected Graph](LeetCode/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.md)
-91. [684. Redundant Connection](LeetCode/684.%20Redundant%20Connection.md)
-92. [127. Word Ladder](LeetCode/127.%20Word%20Ladder.md)
-
-93. [332. Reconstruct Itinerary](LeetCode/332.%20Reconstruct%20Itinerary.md)
-
-
-
-
-
 
 
 
