@@ -2,10 +2,11 @@
   "attachmentFolderPath": "!assets/attachments",
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "promptDelete": false,
   "readableLineLength": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "mobilePullAction": ""
+  "mobilePullAction": "",
+  "showUnsupportedFiles": true
 }

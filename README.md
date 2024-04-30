@@ -13,7 +13,7 @@
 ---
 
 # Meta
-- [todo](todo.md)
+- [todo](_private/todo.md)
 - why markdown (instead of vscode latex or anki editor)
 	- max convenience with all of:
 		- mathjax, code snippets, nested lists (multiple indents), headings, quotes
@@ -27,7 +27,7 @@
 		- (note you can do this in vscode as well, with Paste Image extension)
 	- turns wikilinks into relative paths, and this is actually p helpful for github viewing/embedding
 - this repo is for md files that i need to be publicly available. examples:
-	- [Calc TA stuff](Calc/README.md)
+	- [Calc TA stuff](_private/Calc/README.md)
 		- rough math/cs explanations for students
 		- obsidian export to pdf is wonky, the md file itself looks better
 	- [LeetCode](LeetCode/README.md)
@@ -63,6 +63,20 @@
 - these are necessary so that images show up when viewing markdown files on github.com; so them emgithub sees them too when it embeds them into anki cards
 	- ![](!assets/attachments/Pasted%20image%2020240224004117.png)
 	- ![](!assets/attachments/Pasted%20image%2020240224004445.png)
+
+
+- actually i'm now going to switch to switch to wikilink
+	- i will convert most images into mermaid, so embedding images isn't usually necessary
+	- the ones that are too complicated to convert: i'll keep as "markdown links with relative paths"
+
+
+
+---
+
+![[!assets/attachments/Pasted image 20240427223421.png]]
+
+
+---
 
 
 - moving forward:

@@ -1,6 +1,6 @@
 # LeetCode ToC[^order][^unfinished]
 [^order]: starts with [neetcode150](https://neetcode.io/practice); then continues with [grind169 (sorted by topic, then difficulty)](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty); then 'leetcode top interview 150'
-[^unfinished]: check [todo](../todo.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
+[^unfinished]: check [todo](../_private/todo.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
 
 
 
@@ -338,12 +338,12 @@
 
 
 # Appendix and brownie points
-- [Common combinatorial arguments used for complexity](../Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
-- [Complexity of sorting](../Blurbs/Complexity%20of%20sorting.md)
-- [Overflow](../Blurbs/Overflow.md)
-- [Brute force methods](../Blurbs/Brute%20force%20methods.md)
-- [fundy, recursion](../Blurbs/fundy,%20recursion.md)
-- [equality of reference vs value](../Bugs/equality%20of%20reference%20vs%20value.md)
+- [Common combinatorial arguments used for complexity](../_private/Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
+- [Complexity of sorting](../_private/Blurbs/Complexity%20of%20sorting.md)
+- [Overflow](../_private/Blurbs/Overflow.md)
+- [Brute force methods](../_private/Blurbs/Brute%20force%20methods.md)
+- [fundy, recursion](../_private/Blurbs/fundy,%20recursion.md)
+- [equality of reference vs value](../_private/Bugs/equality%20of%20reference%20vs%20value.md)
 
 
 # References

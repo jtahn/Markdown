@@ -3,13 +3,19 @@
     {
       "type": "file",
       "ctime": 1709605108215,
-      "path": "todo.md",
+      "path": "_private/todo.md",
       "title": "todo"
     },
     {
       "type": "file",
       "ctime": 1709605119792,
       "path": "README.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1714276353430,
+      "path": "_refs/README.md",
+      "title": "_refs/README"
     },
     {
       "type": "file",
@@ -20,7 +26,7 @@
     {
       "type": "file",
       "ctime": 1709610593619,
-      "path": "Calc/README.md",
+      "path": "_private/Calc/README.md",
       "title": "Calc/0. README"
     },
     {
@@ -50,7 +56,7 @@
     {
       "type": "folder",
       "ctime": 1713818582833,
-      "path": "!assets/pdfs",
+      "path": "_refs",
       "title": "!assets/pdfs"
     },
     {

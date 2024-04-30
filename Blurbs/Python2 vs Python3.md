@@ -1,4 +1,0 @@
-- a lot of times solutions are in python 2, so they have things that are unnessary in python 3
-	- ie apparently: in python2, a/b would be an int if both are ints
-		- in python 3, they're floats
-	- there's some important differences in how the Counter class works (probly dict as well)
