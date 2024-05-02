@@ -1,6 +1,6 @@
 # LeetCode ToC[^order][^unfinished]
 [^order]: starts with [neetcode150](https://neetcode.io/practice); then continues with [grind169 (sorted by topic, then difficulty)](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty); then 'leetcode top interview 150'
-[^unfinished]: check [todo](../_private/todo.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
+[^unfinished]: check [todo, macro](../_private/Drafts/todo,%20macro.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
 
 
 
@@ -300,6 +300,9 @@
 
 
 
+# fundy fillers
+- next greatest element
+	- for monotone stack
 
 
 # famous problems
@@ -339,16 +342,16 @@
 
 # Appendix and brownie points
 - [Common combinatorial arguments used for complexity](../_private/Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
-- [Complexity of sorting](../_private/Blurbs/Complexity%20of%20sorting.md)
+- [Complexity of sorting](../_private/Drafts/Complexity%20of%20sorting.md)
 - [Overflow](../_private/Blurbs/Overflow.md)
-- [Brute force methods](../_private/Blurbs/Brute%20force%20methods.md)
+- [Brute force methods](../_private/Drafts/Brute%20force%20methods.md)
 - [fundy, recursion](../_private/Blurbs/fundy,%20recursion.md)
-- [equality of reference vs value](../_private/Bugs/equality%20of%20reference%20vs%20value.md)
+- [equality of reference vs value](../_private/Anki/equality%20of%20reference%20vs%20value.md)
 
 
 # References
 (for myself; use gitignore to make sure these files arent uploaded)
-- [skiena](../_private/skiena.md)
+- [skiena](../_refs/markdown%20examples/skiena.md)
 
 
 

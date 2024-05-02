@@ -8,5 +8,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "mobilePullAction": "",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true
 }

@@ -13,7 +13,7 @@
 ---
 
 # Meta
-- [todo](_private/todo.md)
+- [todo, macro](_private/Drafts/todo,%20macro.md)
 - why markdown (instead of vscode latex or anki editor)
 	- max convenience with all of:
 		- mathjax, code snippets, nested lists (multiple indents), headings, quotes
@@ -26,6 +26,8 @@
 	- immediately insert screenies
 		- (note you can do this in vscode as well, with Paste Image extension)
 	- turns wikilinks into relative paths, and this is actually p helpful for github viewing/embedding
+	- even my pdfs have backlinks...this seems like an incredibly useful feature in the future
+		- ie if i want to remind myself of specific leetcode problems that are examples of a concept in CLRS/skiena
 - this repo is for md files that i need to be publicly available. examples:
 	- [Calc TA stuff](_private/Calc/README.md)
 		- rough math/cs explanations for students
@@ -108,6 +110,15 @@
 		- ![](!assets/attachments/Pasted%20image%2020240224005640.png)
 
 
+# Device settings
+- bc i do a lot of technical writing, ie variables:
+	- means i should turn off auto-capitalization on my DEVICE
+		- obsidian's spellcheck (in editor settings) doesn't auto-capitalize
+	- ie otherwise, when i type `i+1` it will autocorrect to `I+1`
+	- so on chromebook:
+		- settings > device > keyboard > change input settings > English > physical keyboard > turn off autocorrection
+
+
 
 # markdown/obsidian 
 - https://docs.github.com/en/get-started/writing-on-github
@@ -125,6 +136,14 @@
 		- don't use obsidian automplete suggestions for the file name
 		- seems you need to type in the full filename, then type a hashtag symbol; then obsidian will show suggestions to autocomplete the heading (which you can use)
 - https://www.tablesgenerator.com/markdown_tables#
+- quotes
+	- [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Quotes)
+	- [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
+	- callouts/alerts
+		- use `[!note]` bc its compatible with both obsidian and github
+		- [Callouts - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Callouts)
+		- [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
+
 
 # obsidian decisions discussion
 - absolute paths

@@ -8,15 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6928c2dbc3a3dba3",
+            "id": "e612c097593b3a7e",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_refs/README.md",
-                "mode": "source",
-                "source": false
+                "file": "_refs/texts/clrs.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "198d5b6c3f9a0db6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_refs/texts/adm.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a8ba91f0cd942d6f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_refs/texts/epi.pdf"
               },
               "pinned": true
             }
@@ -36,19 +58,31 @@
             }
           },
           {
-            "id": "10da2807b02872f1",
+            "id": "f3a46aaae52aed6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/332. Reconstruct Itinerary.md",
+                "file": "LeetCode/70. Climbing Stairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6def689f9630628f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/91. Decode Ways.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +94,6 @@
       {
         "id": "2f7d65cefc31b30e",
         "type": "tabs",
-        "dimension": 47.482014388489205,
         "children": [
           {
             "id": "30ea3e619e5c4c61",
@@ -69,6 +102,25 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af69588c8ee5a191",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "59f6ca52057c0c10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
               }
             }
           },
@@ -86,33 +138,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "af69588c8ee5a191",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
-      },
-      {
-        "id": "582e4dc30e678f6a",
-        "type": "tabs",
-        "dimension": 52.51798561151079,
-        "children": [
-          {
-            "id": "36d31c74556e5c4b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "LeetCode/332. Reconstruct Itinerary.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,11 +160,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/332. Reconstruct Itinerary.md",
+                "file": "LeetCode/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -149,24 +177,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/332. Reconstruct Itinerary.md",
+                "file": "LeetCode/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "59f6ca52057c0c10",
+            "id": "36d31c74556e5c4b",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "LeetCode/README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,53 +210,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10da2807b02872f1",
+  "active": "7041918403bde985",
   "lastOpenFiles": [
-    "README.md",
-    "_private/todo.md",
-    "LeetCode/332. Reconstruct Itinerary.md",
-    "_refs/README.md",
-    "LeetCode/README.md",
-    "_refs/other/roberts - programming abstractions.pdf",
-    "_refs/other/bentley - programming pearls.pdf",
-    "_refs/other/bentley - more programming pearls.pdf",
-    "_refs/other/Jon Bentley - Programming Pearls-Addison-Wesley (2000).pdf",
-    "_refs/texts/clrs.pdf",
-    "_refs/cmu/15-451/lecture06-unionfind.pdf",
-    "_refs/other",
+    "LeetCode/70. Climbing Stairs.md",
     "_refs/texts/epi.pdf",
-    "_refs/mit",
-    "_refs/cmu/15-451/faq.html",
-    "cmu/CS 15-122_ Principles of Imperative Computation (Spring 2024) (4_27_2024 10_12_32 PM).html.md",
-    "!assets/attachments/Pasted image 20240427223421.png",
-    "LeetCode/362. Design Hit Counter.md",
-    "LeetCode/323. Number of Connected Components in an Undirected Graph.md",
-    "LeetCode/286. Walls and Gates.md",
-    "LeetCode/269. Alien Dictionary.md",
-    "LeetCode/261. Graph Valid Tree.md",
-    "LeetCode/253. Meeting Rooms II.md",
-    "LeetCode/252. Meeting Rooms.md",
-    "LeetCode/125. Valid Palindrome.md",
-    "LeetCode/2203. Minimum Weighted Subgraph With the Required Paths.md",
+    "_refs/texts/clrs.pdf",
+    "LeetCode/README.md",
+    "_refs/texts/adm.pdf",
+    "_refs/README.md",
+    "LeetCode/91. Decode Ways.md",
+    "LeetCode/647. Palindromic Substrings.md",
+    "LeetCode/5. Longest Palindromic Substring.md",
+    "LeetCode/20. Valid Parentheses.md",
+    "_private/Drafts/todo, macro.md",
+    "LeetCode/22. Generate Parentheses.md",
+    "LeetCode/21. Merge Two Sorted Lists.md",
+    "LeetCode/150. Evaluate Reverse Polish Notation.md",
+    "LeetCode/239. Sliding Window Maximum.md",
+    "LeetCode/4. Median of Two Sorted Arrays.md",
+    "_private/Drafts/todo, fundies.md",
+    "LeetCode/84. Largest Rectangle in Histogram.md",
+    "_private/Drafts/style and jargon.md",
+    "LeetCode/739. Daily Temperatures.md",
+    "LeetCode/31. Next Permutation.md",
+    "LeetCode/242. Valid Anagram.md",
+    "LeetCode/347. Top K Frequent Elements.md",
     "LeetCode/287. Find the Duplicate Number.md",
-    "_private/Blurbs/fundies, todo.md",
+    "LeetCode/973. K Closest Points to Origin.md",
+    "LeetCode/424. Longest Repeating Character Replacement.md",
+    "LeetCode/703. Kth Largest Element in a Stream.md",
+    "LeetCode/235. Lowest Common Ancestor of a Binary Search Tree.md",
+    "_refs/texts/pymotw.pdf",
+    "!assets/attachments/Pasted image 20240501152527.png",
+    "!assets/attachments/Pasted image 20240501152358.png",
+    "_refs/HTML import/Attachments/tr.txt",
+    "_refs/HTML import/Attachments",
+    "_refs/HTML import",
+    "realpython.org",
+    "_refs/realpython.org/python-counter.html",
+    "_refs/realpython.org",
+    "!assets/attachments/Pasted image 20240501000711.png",
+    "_refs/realpython.org/Python's Counter The Pythonic Way to Count Objects – Real Python/fruits-bar-chart.d6e2577346c9.png",
+    "!assets/attachments/Pasted image 20240304185920.png",
+    "!assets/attachments/Pasted image 20240427223421.png",
     "!assets/attachments/Pasted image 20240426153950.png",
-    "_private/skiena.md",
-    "_private/pdfs/skiena.md",
-    "LeetCode/9. Palindrome Number.md",
-    "LeetCode/895. Maximum Frequency Stack.md",
-    "LeetCode/588. Design In-Memory File System.md",
-    "LeetCode/355. Design Twitter.md",
-    "LeetCode/211. Design Add and Search Words Data Structure.md",
-    "LeetCode/632. Smallest Range Covering Elements from K Lists.md",
-    "LeetCode/658. Find K Closest Elements.md",
     "!assets/attachments/Pasted image 20240426153842.png",
     "!assets/attachments/Pasted image 20240426153743.png",
-    "!assets/attachments/Pasted image 20240426153555.png",
-    "!assets/attachments/Pasted image 20240426153546.png",
-    "!assets/attachments/Pasted image 20240426153537.png",
-    "!assets/attachments/Pasted image 20240426153423.png",
-    "!assets/attachments/Pasted image 20240426153414.png",
-    "!assets/attachments/Pasted image 20240426153247.png"
+    "!assets/attachments/Pasted image 20240426153555.png"
   ]
 }

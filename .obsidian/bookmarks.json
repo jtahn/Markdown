@@ -3,7 +3,7 @@
     {
       "type": "file",
       "ctime": 1709605108215,
-      "path": "_private/todo.md",
+      "path": "_private/Drafts/todo, macro.md",
       "title": "todo"
     },
     {
@@ -21,24 +21,18 @@
       "type": "file",
       "ctime": 1709605125051,
       "path": "LeetCode/README.md",
-      "title": "LeetCode/0. README"
-    },
-    {
-      "type": "file",
-      "ctime": 1709610593619,
-      "path": "_private/Calc/README.md",
-      "title": "Calc/0. README"
+      "title": "LeetCode/README"
     },
     {
       "type": "file",
       "ctime": 1713317854678,
-      "path": "_private/assorted.md",
+      "path": "_private/Drafts/assorted.md",
       "title": "assorted"
     },
     {
       "type": "file",
       "ctime": 1713385641393,
-      "path": "_private/cigars.md",
+      "path": "_private/Drafts/cigars.md",
       "title": "cigars"
     },
     {
@@ -49,21 +43,18 @@
     },
     {
       "type": "file",
-      "ctime": 1713643263900,
-      "path": "_private/skiena.md",
-      "title": "refs/skiena "
+      "ctime": 1714516102219,
+      "path": "LeetCode/127. Word Ladder.md"
     },
     {
-      "type": "folder",
-      "ctime": 1713818582833,
-      "path": "_refs",
-      "title": "!assets/pdfs"
+      "type": "file",
+      "ctime": 1714516557724,
+      "path": "LeetCode/684. Redundant Connection.md"
     },
     {
-      "type": "folder",
-      "ctime": 1713818735405,
-      "path": "_private/pdfs",
-      "title": "private/pdfs"
+      "type": "file",
+      "ctime": 1714516904622,
+      "path": "LeetCode/323. Number of Connected Components in an Undirected Graph.md"
     }
   ]
 }
