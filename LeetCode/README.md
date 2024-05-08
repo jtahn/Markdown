@@ -1,9 +1,3 @@
-# LeetCode ToC[^order][^unfinished]
-[^order]: starts with [neetcode150](https://neetcode.io/practice); then continues with [grind169 (sorted by topic, then difficulty)](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty); then 'leetcode top interview 150'
-[^unfinished]: check [todo, macro](../_private/Drafts/todo,%20macro.md), some listings below are pretty rough. i try not to list it here until it's decent enough 
-
-
-
 # NeetCode
 ## Arrays & Hashing
 1. [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
@@ -327,6 +321,17 @@
 
 
 # Meta
+- not all of the above have notes
+	- most of the above have incredibly messy notes
+	- check repo commits to see current progress
+
+- order
+	- starts with [neetcode150](https://neetcode.io/practice)
+	- then continues with [grind169 (sorted by topic, then difficulty)](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
+	- then tbd
+		- imo: priority is filling in fundies that imo are not well addressed by the above 2 lists
+		- at some point: leetcode official stuff, like 'leetcode top interview 150'
+
 - current order of problems:
 	- neetcode 150
 	- grind 75
@@ -341,17 +346,14 @@
 
 
 # Appendix and brownie points
-- [Common combinatorial arguments used for complexity](../_private/Blurbs/Common%20combinatorial%20arguments%20used%20for%20complexity.md)
 - [Complexity of sorting](../_private/Drafts/Complexity%20of%20sorting.md)
-- [Overflow](../_private/Blurbs/Overflow.md)
 - [Brute force methods](../_private/Drafts/Brute%20force%20methods.md)
-- [fundy, recursion](../_private/Blurbs/fundy,%20recursion.md)
 - [equality of reference vs value](../_private/Anki/equality%20of%20reference%20vs%20value.md)
 
 
 # References
 (for myself; use gitignore to make sure these files arent uploaded)
-- [skiena](../_refs/markdown%20examples/skiena.md)
+- [skiena](../_refs/_markdown%20examples/skiena.md)
 
 
 
