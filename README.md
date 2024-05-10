@@ -110,6 +110,15 @@
 		- ![](!assets/attachments/Pasted%20image%2020240224005640.png)
 
 
+
+
+## plugin settings
+
+![[!assets/attachments/Pasted image 20240508035229.png]]
+
+
+
+
 # Device settings
 - bc i do a lot of technical writing, ie variables:
 	- means i should turn off auto-capitalization on my DEVICE
