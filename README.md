@@ -169,16 +169,6 @@
 		- the important thing is whether the anki renderer supports it (which it does)
 
 
-# fun
-- youtube vids that make me want to study again
-	- [Tom Vs Time Episode 2 - The Mental Game](https://www.youtube.com/watch?v=qkFZybpxNtk&t=332s)
-	- [Celebrating Luke Kuechly, Smartest Linebacker to Play the Game | NFL Films Presents](https://www.youtube.com/watch?v=cbsRZDxlYEQ&t=197s)
-	- [Baldy's Breakdowns: The Film Behind Cooper Kupp's Viral Touchdown Analysis](https://www.youtube.com/watch?v=7LXG0h5Txis)
-	- [CJ Stroud Breaks Down His OWN Game Film](https://www.youtube.com/watch?v=D2t1B2Ev4nY&t=66s)
-	- [LeBron's Photographic Memory](https://www.youtube.com/watch?v=HG6M2xQZvj0)
-	- [Sean McVay Literally Remembers Every Play of His Coaching Career 🤯| Simms & Lefkoe: The Show](https://www.youtube.com/watch?v=IjlfQBQk_kg)
-
-
 
 
 ![](!assets/attachments/HUHrabbit.gif)

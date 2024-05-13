@@ -351,10 +351,6 @@
 - [equality of reference vs value](../_private/Anki/equality%20of%20reference%20vs%20value.md)
 
 
-# References
-(for myself; use gitignore to make sure these files arent uploaded)
-- [skiena](../_refs/_markdown%20examples/skiena.md)
-
 
 
 
