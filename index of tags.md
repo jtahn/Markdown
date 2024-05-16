@@ -45,62 +45,65 @@
 
 
 
-- [[_refs/algorithms/kt.pdf#page=287|kt, 6.3 Segmented Least Squares: Multi-way Choices]]
+- [[_refs/02 algorithms/kt.pdf#page=287|kt, 6.3 Segmented Least Squares: Multi-way Choices]]
 	- multi-way choices
-- [[_refs/algorithms/epi.pdf#page=314&offset=-115,647,0|epi, Dynamic programming boot camp]]
+- [[_refs/01 competitive programming/epi.pdf#page=314&offset=-115,647,0|epi, Dynamic programming boot camp]]
 	- caching
 	- recycling cache space
 	- 'make choices'
 	- counting problems
 	- decision problems
-- [[_refs/algorithms/clrs.pdf#page=385|clrs, 14.1 Rod cutting]]
+- [[_refs/02 algorithms/clrs.pdf#page=385|clrs, 14.1 Rod cutting]]
 	- optimal substructure
 	- time-memory tradeoff
 	- top-down
 	- memoization
 	- bottom-up
 	- subproblem graph
-- [[_refs/algorithms/clrs.pdf#page=404|clrs, 14.3 Elements of dynamic programming]]
+- [[_refs/02 algorithms/clrs.pdf#page=404|clrs, 14.3 Elements of dynamic programming]]
 	- really good explanation of optimal substructure, overlapping subproblems, 
-- [[_refs/algorithms/skiena.pdf#page=354|skiena, 10.9.1 When is Dynamic Programming Correct?]]
+- [[_refs/02 algorithms/skiena.pdf#page=354|skiena, 10.9.1 When is Dynamic Programming Correct?]]
 	- principle of optimality
 	- state
 	- partial solution
-- [[_refs/algorithms/skiena.pdf#page=321|skiena, Chapter 10 Dynamic Programming]]
+- [[_refs/02 algorithms/skiena.pdf#page=321|skiena, Chapter 10 Dynamic Programming]]
 	- consequences
 	- caching
-	- [[_refs/algorithms/skiena.pdf#page=323|skiena, 10.1.2 Fibonacci Numbers by Caching]]
+	- [[_refs/02 algorithms/skiena.pdf#page=323|skiena, 10.1.2 Fibonacci Numbers by Caching]]
 		- memoization
 		- caching (or tabling)
-	- [[_refs/algorithms/skiena.pdf#page=329|skiena, 10.2.1 Edit Distance by Recursion]]
+	- [[_refs/02 algorithms/skiena.pdf#page=329|skiena, 10.2.1 Edit Distance by Recursion]]
 		- the recursion branches three ways
-	- [[_refs/algorithms/skiena.pdf#page=332|skiena, 10.2.3 Reconstructing the Path]]
+	- [[_refs/02 algorithms/skiena.pdf#page=332|skiena, 10.2.3 Reconstructing the Path]]
 		- wait this is very important..aka reconstructing the solution is actually a very general procedure
 			- this was mentioned by other resources as well
-				- ie [[_refs/algorithms/nutshell.pdf#page=183&selection=36,0,61,62|nutshell, page 183]]
+				- ie [[_refs/unfiled/nutshell.pdf#page=183&selection=36,0,61,62|nutshell, page 183]]
 				- and there was another i swear...
-	- [[_refs/algorithms/skiena.pdf#page=355|skiena, 10.9.2 When is Dynamic Programming Efficient?]]
+	- [[_refs/02 algorithms/skiena.pdf#page=355|skiena, 10.9.2 When is Dynamic Programming Efficient?]]
 		- size of the state space
 		- combinatorial objects
-- [[_refs/algorithms/dpv.pdf#page=167|dpv, 6 Dynamic programming]]
+- [[_refs/02 algorithms/dpv.pdf#page=167|dpv, 6 Dynamic programming]]
 	- algorithmic paradigm
 	- implicit dag
 		- nodes are subproblems
 		- edges are dependencies
 			- if to solve subproblem B we need the answer to subproblem A, then there is a (conceptual) edge from A to B
 			- ie A is a smaller subproblem than B
-	- [[_refs/algorithms/dpv.pdf#page=174&selection=266,0,266,18|dpv, page 174]]
+	- [[_refs/02 algorithms/dpv.pdf#page=174&selection=266,0,266,18|dpv, page 174]]
 		- underlying dag structure
-	- [[_refs/algorithms/dpv.pdf#page=176&selection=6,0,6,18|dpv, page 176]]
+	- [[_refs/02 algorithms/dpv.pdf#page=176&selection=6,0,6,18|dpv, page 176]]
 		- common subproblems
-	- [[_refs/algorithms/dpv.pdf#page=180&selection=6,0,6,11|dpv, page 180]]
+	- [[_refs/02 algorithms/dpv.pdf#page=180&selection=6,0,6,11|dpv, page 180]]
 		- dpv say memoization is NOT dynamic programming
 			- but most other authors seem to say that memoization is a type of DP
-	- [[_refs/algorithms/dpv.pdf#page=186&selection=1,0,6,18|dpv, page 186]]
+	- [[_refs/02 algorithms/dpv.pdf#page=186&selection=1,0,6,18|dpv, page 186]]
 		- memory can be released
-- [[_refs/algorithms/cses2.pdf#page=82&offset=-3,136|cses2, 6.2.4 From Permutations to Subsets]]
+- [[_refs/01 competitive programming/cses2.pdf#page=82&offset=-3,136|cses2, 6.2.4 From Permutations to Subsets]]
 	- can also think of dp as turning 'permutations' into 'subsets '
-
+- [[_refs/02 algorithms/clrs.pdf#page=439|clrs, 15 Greedy Algorithms]]
+	- optimization problem
+	- sequence of steps
+	- set of choices at each step
 
 
 
@@ -115,6 +118,68 @@
 
 
 
+# greedy
+- EPI seems to consider them 'greedy' algorithms...but for various reasons, either consensus or me disagrees
+	- [[_refs/01 competitive programming/epi.pdf#page=352&offset=-115,373,0|epi, 18.7 Compute the maximum water trapped by a pair of vertical lines]]
+		- this is [[LeetCode/11. Container With Most Water|11. Container With Most Water]]
+	- [[_refs/01 competitive programming/epi.pdf#page=354&offset=-115,505,0|epi, 18.8 Compute the largest rectangle under the skyline]]
+		- this is [[LeetCode/84. Largest Rectangle in Histogram|84. Largest Rectangle in Histogram]]
+	- [[_refs/01 competitive programming/epi.pdf#page=350&offset=-115,417,0|epi, 18.6 The gasup problem]]
+		- this is [[LeetCode/134. Gas Station|134. Gas Station]]
+		- this didn't feel 'greedy' to me
+
+- seems like a lot 'two pointer' stuff is in greedy
+
+# is kmp = two pointer?
+
+- epi:
+	- lots of two pointer stuff seems to be in 'greedy', see above
+	- also see [[_refs/01 competitive programming/epi.pdf#page=218&offset=0,648|epi, 13 Hash Tables]]
+
+- actually it seems it's robin-karp
+	- the specific terminology that halim and sannemo seem to use is 'rolling'
+		- [[_refs/01 competitive programming/sannemo2018.pdf#page=256&selection=296,0,301,1|sannemo2018, page 256]]
+		- [[_refs/01 competitive programming/halim2.pdf#page=91|halim2, 6.6.2 Rolling Hash]]
+		- 
+	- neither of them have 'two-pointer' sections
+		- they just put these within 'string' algorithms
+		- i do think this is worth generalizing though, bc there are non-string problems that use these observations
+			- aka [[LeetCode/134. Gas Station|134. Gas Station]]
+- cses:
+	- sticks both two pointer and sliding window inside the 'amortized analysis' subsection
+		- maybe bc: the first time you compute the subroutine, it is O(n)
+		- but every other time is now O(1)
+		- so amortized: it's O(1) amortized
+		- 
+
+
+
+
+- refs for kmp
+	- [[_refs/02 algorithms/sedgewick.pdf#page=771|sedgewick, 5.3 Substring Search]]
+	- [[_refs/02 algorithms/skiena.pdf#page=693&selection=149,0,149,37|skiena, page 693]]
+
+
+- it seems that string algo theory are going to be fundamental examples of my two-pointer/iteration fundeez
+	- ie rabin-karp is #iteration/for_subroutine 
+		- [[_refs/02 algorithms/sedgewick.pdf#page=788&selection=42,0,52,0|sedgewick, page 788]]
+		- another wording of fundy/generalization: what i mean by 'iteration for subroutine': if your search space consists of things that are like 'collections', and these collections have significant 'overlap' (importantly..'adjacent collections' essentially overlap everywhere except in like 1 or 2 spots); and if the reason you care about these collections is you use them to compute a value...then you might not need to recompute the value every time..ie can very easily compute value of one collection using value of adjacent collection. see gas station, and also one of those 'substring search' problems
+
+
+
+
+find more supposed 2 pointer problems:
+1. **Pair Sum Identification:** Given a sorted array, find two numbers that add up to a specific target.
+2. **Remove Duplicates:** Remove duplicate elements in a sorted array.
+3. **Exploring Triplets:** Find all unique triplets in an array that add up to a specific target.
+4. **Maximizing Container Area:** Determine the maximum area that can be formed by two vertical lines and the x-axis in a histogram.
+5. **Palindromic Strings:** Check if a given string is a palindrome.
+6. **Merge Sorted Arrays:** Merge two sorted arrays in-place.
+7. **Longest Subarray with Ones After Replacement:** Find the longest subarray with at most one zero by flipping at most one 0 to 1.
+8. **Minimum Subarray Sums:** Find the minimum size of a contiguous subarray with a sum greater than or equal to a target value.
+9. **Squared Arrays:** Given a sorted array, return a new array containing squares of each number in sorted order.
+10. **Consecutive Elements Alignment:** Rearrange the elements such that all consecutive elements are in increasing order.
+
 
 
 # #graph
@@ -124,14 +189,14 @@
 
 
 
-- [[../../_refs/algorithms/skiena.pdf#page=238|adm, 7.9 Applications of Depth-First Search]]
+- [[_refs/02 algorithms/skiena.pdf#page=238|adm, 7.9 Applications of Depth-First Search]]
 	- skiena's traversal template assumes that we only want to process an edge once
 		- (cite the yt lectures)
 		- this is why it's important to know if we've already traversed edge (x,y)
 		- iirc..some algos even: there is an 'error' if you see the edge again
 			- confirm whether this is what the 2 coloring discusses:
-				- [[../../_refs/algorithms/skiena.pdf#page=233|adm, 7.7.2 Two-Coloring Graphs]]
-	- [[../../_refs/algorithms/skiena.pdf#page=238&selection=109,32,133,1|adm, page 238]]
+				- [[_refs/02 algorithms/skiena.pdf#page=233|adm, 7.7.2 Two-Coloring Graphs]]
+	- [[_refs/02 algorithms/skiena.pdf#page=238&selection=109,32,133,1|adm, page 238]]
 		- "But what if y is an ancestor of x, and thus in a discovered state..."
 		- to understand this, need to understand his dfs template
 			- need to understand basic C syntax; i put this somewhere...
@@ -161,11 +226,11 @@
 
 
 #graphs/edge_classification 
-- [[../../_refs/algorithms/clrs.pdf#page=591&selection=388,0,392,5|clrs, page 591, classification of edges]]
+- [[_refs/02 algorithms/clrs.pdf#page=591&selection=388,0,392,5|clrs, page 591, classification of edges]]
 
 
 #graphs/traversal/dfs 
-- [[../../_refs/algorithms/clrs.pdf#page=585|clrs, 20.3 Depth-first search]]
+- [[_refs/02 algorithms/clrs.pdf#page=585|clrs, 20.3 Depth-first search]]
 
 
 
@@ -218,7 +283,7 @@
 #trees/traversal 
 
 - predecessor, successor
-	- [[../../_refs/algorithms/clrs.pdf#page=340&selection=207,0,211,11|clrs, page 340]]
+	- [[_refs/02 algorithms/clrs.pdf#page=340&selection=207,0,211,11|clrs, page 340]]
 
 
 
@@ -232,10 +297,10 @@
 
 https://pymotw.com/3/collections/counter.html
 
-- [[../../_refs/_markdown examples/python-counter|python-counter]]
-	- [[../../_refs/_markdown examples/python-counter#Counting Objects in Python|counting with dict and defaultdict]]
-	- [[../../_refs/_markdown examples/python-counter#Constructing Counters|feeding iterable into counter]]
-	- [[../../_refs/_markdown examples/python-counter#Subtracting the Elements' Multiplicity|subtracting multiplicity]]
+- [[_refs/unfiled/_markdown examples/python-counter|python-counter]]
+	- [[_refs/unfiled/_markdown examples/python-counter#Counting Objects in Python|counting with dict and defaultdict]]
+	- [[_refs/unfiled/_markdown examples/python-counter#Constructing Counters|feeding iterable into counter]]
+	- [[_refs/unfiled/_markdown examples/python-counter#Subtracting the Elements' Multiplicity|subtracting multiplicity]]
 
 
 
@@ -250,14 +315,14 @@ https://pymotw.com/3/collections/counter.html
 
 # assorted
 - trailing pointer
-	- [[_refs/algorithms/clrs.pdf#page=343&selection=389,0,392,6|clrs, page 343]]
+	- [[_refs/02 algorithms/clrs.pdf#page=343&selection=389,0,392,6|clrs, page 343]]
 
 
 
-- [[../../_refs/algorithms/skiena.pdf#page=51|adm, 2.2 The Big Oh Notation]]
-- [[../../_refs/algorithms/skiena.pdf#page=63|adm, 2.6 Summations]]
+- [[_refs/02 algorithms/skiena.pdf#page=51|adm, 2.2 The Big Oh Notation]]
+- [[_refs/02 algorithms/skiena.pdf#page=63|adm, 2.6 Summations]]
 	- through 2.8
-- [[../../_refs/algorithms/skiena.pdf#page=146|adm, 4.6 Quicksort: Sorting by Randomization]]
+- [[_refs/02 algorithms/skiena.pdf#page=146|adm, 4.6 Quicksort: Sorting by Randomization]]
 - clrs
 	- 2
 		- sorting jargon (p 17-18)
@@ -284,7 +349,7 @@ https://pymotw.com/3/collections/counter.html
 	- 20.3 dfs
 	- 14.1, 14.3 dp
 - knuth
-	- [6.2.1 searching an ordered table](../../_refs/algorithms/taocp%203.pdf#page=427&annotation=5576R)
-		- [variation](../../_refs/algorithms/taocp%203.pdf#page=432&selection=51,0,51,23)
+	- [6.2.1 searching an ordered table](_refs/02%20algorithms/taocp%203.pdf#page=427&annotation=5576R)
+		- [variation](_refs/02%20algorithms/taocp%203.pdf#page=432&selection=51,0,51,23)
 
 
