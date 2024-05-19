@@ -1,3 +1,60 @@
+
+
+
+
+# greedy
+
+- finding greedy problems on neetcode
+	- examples provided by texts (aka likely the classic problems)
+	- [[_refs/02 algorithms/skiena.pdf#page=361&selection=6,0,6,17|skiena, page 361]]
+	- 
+
+
+- both clrs and dpv describe greedy in very specific terms, as building up solutions by piece from subproblems
+	- [[_refs/02 algorithms/dpv.pdf#page=138|dpv, 5 Greedy algorithms]]
+	- kt does not
+		- "It is hard, if not impossible, to define precisely what is meant by a greedy algorithm."
+	- so i think 'greedy algo' kinda depends on what ppl mean...seems there are ppl who take a very general/broad/loose definition for it
+	- imo, use the definition in clrs/dpv...it's more helpful to be more specific about it imo
+- [[_refs/02 algorithms/kt.pdf#page=141|kt, 4 Greedy Algorithms]]
+	- some of the phrases here are interesting, and i do want to use it
+		- "When a greedy algorithm succeeds in solving a nontrivial problem opti- mally, it typically implies something interesting and useful about the structure of the problem itself; there is a local decision rule that one can use to con- struct optimal solutions."
+	- but i don't want to use them to describe greedy
+	- 
+
+- the reputable cp resources seem to agree with ctci
+	- ie
+		- [[_refs/01 competitive programming/sannemo2018.pdf#page=153&offset=72,537.222|sannemo2018, Greedy Algorithms]]
+		- [[_refs/01 competitive programming/halim1.pdf#page=185|halim1, 3.4 Greedy]]
+		- [[_refs/01 competitive programming/cses1.pdf#page=67&offset=93.543,756.85|cses1, Greedy algorithms]]
+	- conclusions
+		- greedy has a very specific definition, and is typically difficult to prove correctness
+			- if you can prove connectness: it's typically done similar to the standard 'greedy algo' examples
+		- essentially a subset of dp
+	- aka
+		- if 'greedy algo' for a leetcode problems seems very obvious...then it probly isnt actually 'greedy'
+		- its more like: 'we understand something about the problem that leads to a very easy way to compute it'
+			- aka kinda like what kt is saying
+- ohhhhhh
+	- epi combines greedy and invariants into one section
+		- so a lot of times when consensus says 'greedy'...likely the better word is 'invariant'
+			- [[_refs/01 competitive programming/epi.pdf#page=346&offset=-115,403,0|epi, Invariants]]
+			- aka something about the structure of the problem!
+
+
+
+- i'm trying to find a leetcode problem that is 'greedy' via essentially asking me to code a 'furthest in future' cache
+	- clrs mentions that there are ways to rephrase this problem, ie
+		- [[_refs/02 algorithms/clrs.pdf#page=463&selection=184,0,241,63|clrs, page 463]]
+
+
+
+
+
+
+
+
+
 # assorted
 
 
