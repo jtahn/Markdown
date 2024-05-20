@@ -1,5 +1,5 @@
-# NeetCode
-## Arrays & Hashing
+# reviewed
+## Arrays & Hashing (neetcode)
 1. [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
 2. [242. Valid Anagram](242.%20Valid%20Anagram.md)
 3. [1. Two Sum](1.%20Two%20Sum.md)
@@ -10,14 +10,14 @@
 8. [271. Encode and Decode Strings](271.%20Encode%20and%20Decode%20Strings.md)
 9. [128. Longest Consecutive Sequence](128.%20Longest%20Consecutive%20Sequence.md)
 
-## Two Pointers
+## Two Pointers (neetcode)
 10. [125. Valid Palindrome](125.%20Valid%20Palindrome.md)
 11. [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 12. [15. 3Sum](15.%203Sum.md)
 13. [11. Container With Most Water](11.%20Container%20With%20Most%20Water.md)
 14. [42. Trapping Rain Water](42.%20Trapping%20Rain%20Water.md)
 
-## Sliding Window
+## Sliding Window (neetcode)
 15. [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 16. [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 17. [424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.md)
@@ -25,7 +25,7 @@
 19. [76. Minimum Window Substring](76.%20Minimum%20Window%20Substring.md)
 20. [239. Sliding Window Maximum](239.%20Sliding%20Window%20Maximum.md)
 
-## Stack
+## Stack (neetcode)
 21. [20. Valid Parentheses](20.%20Valid%20Parentheses.md)
 22. [155. Min Stack](155.%20Min%20Stack.md)
 23. [150. Evaluate Reverse Polish Notation](150.%20Evaluate%20Reverse%20Polish%20Notation.md)
@@ -34,7 +34,7 @@
 26. [853. Car Fleet](853.%20Car%20Fleet.md)
 27. [84. Largest Rectangle in Histogram](84.%20Largest%20Rectangle%20in%20Histogram.md)
 
-## Binary Search
+## Binary Search (neetcode)
 28. [704. Binary Search](704.%20Binary%20Search.md)
 29. [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.md)
 30. [875. Koko Eating Bananas](875.%20Koko%20Eating%20Bananas.md)
@@ -43,7 +43,7 @@
 33. [981. Time Based Key-Value Store](981.%20Time%20Based%20Key-Value%20Store.md)
 34. [4. Median of Two Sorted Arrays](4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
-## Linked List
+## Linked List (neetcode)
 35. [206. Reverse Linked List](206.%20Reverse%20Linked%20List.md)
 36. [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
 37. [143. Reorder List](143.%20Reorder%20List.md)
@@ -56,7 +56,7 @@
 44. [23. Merge k Sorted Lists](23.%20Merge%20k%20Sorted%20Lists.md)
 45. [25. Reverse Nodes in k-Group](25.%20Reverse%20Nodes%20in%20k-Group.md)
 
-## Trees
+## Trees (neetcode)
 46. [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 47. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 48. [543. Diameter of Binary Tree](543.%20Diameter%20of%20Binary%20Tree.md)
@@ -73,12 +73,12 @@
 59. [124. Binary Tree Maximum Path Sum](124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 60. [297. Serialize and Deserialize Binary Tree](297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 
-## Tries
+## Tries (neetcode)
 61. [208. Implement Trie (Prefix Tree)](208.%20Implement%20Trie%20(Prefix%20Tree).md)
 62. [211. Design Add and Search Words Data Structure](211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 63. [212. Word Search II](212.%20Word%20Search%20II.md)
 
-## Heap / Priority Queue
+## Heap / Priority Queue (neetcode)
 64. [703. Kth Largest Element in a Stream](703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)
 65. [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)
 66. [973. K Closest Points to Origin](973.%20K%20Closest%20Points%20to%20Origin.md)
@@ -87,7 +87,7 @@
 69. [355. Design Twitter](355.%20Design%20Twitter.md)
 70. [295. Find Median from Data Stream](295.%20Find%20Median%20from%20Data%20Stream.md)
 
-## Backtracking
+## Backtracking (neetcode)
 71. [78. Subsets](78.%20Subsets.md)
 72. [39. Combination Sum](39.%20Combination%20Sum.md)
 73. [46. Permutations](46.%20Permutations.md)
@@ -98,7 +98,7 @@
 78. [17. Letter Combinations of a Phone Number](17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 79. [51. N-Queens](51.%20N-Queens.md)
 
-## Graphs
+## Graphs (neetcode)
 80. [200. Number of Islands](LeetCode/200.%20Number%20of%20Islands.md)
 81. [695. Max Area of Island](LeetCode/695.%20Max%20Area%20of%20Island.md)
 82. [133. Clone Graph](LeetCode/133.%20Clone%20Graph.md)
@@ -113,7 +113,7 @@
 91. [684. Redundant Connection](LeetCode/684.%20Redundant%20Connection.md)
 92. [127. Word Ladder](LeetCode/127.%20Word%20Ladder.md)
 
-## Advanced Graphs
+## Advanced Graphs (neetcode)
 93. [332. Reconstruct Itinerary](LeetCode/332.%20Reconstruct%20Itinerary.md)
 94. [1584. Min Cost to Connect All Points](1584.%20Min%20Cost%20to%20Connect%20All%20Points.md)
 95. [743. Network Delay Time](743.%20Network%20Delay%20Time.md)
@@ -121,7 +121,7 @@
 97. [269. Alien Dictionary](269.%20Alien%20Dictionary.md)
 98. [787. Cheapest Flights Within K Stops](787.%20Cheapest%20Flights%20Within%20K%20Stops.md)
 
-## 1-D Dynamic Programming
+## 1-D Dynamic Programming (neetcode)
 99. [70. Climbing Stairs](70.%20Climbing%20Stairs.md)
 100. [746. Min Cost Climbing Stairs](746.%20Min%20Cost%20Climbing%20Stairs.md)
 101. [198. House Robber](198.%20House%20Robber.md)
@@ -135,7 +135,7 @@
 109. [300. Longest Increasing Subsequence](300.%20Longest%20Increasing%20Subsequence.md)
 110. [416. Partition Equal Subset Sum](416.%20Partition%20Equal%20Subset%20Sum.md)
 
-## 2-D Dynamic Programming
+## 2-D Dynamic Programming (neetcode)
 111. [62. Unique Paths](62.%20Unique%20Paths.md)
 112. [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)
 113. [309. Best Time to Buy and Sell Stock with Cooldown](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)
@@ -148,7 +148,7 @@
 120. [312. Burst Balloons](312.%20Burst%20Balloons.md)
 121. [10. Regular Expression Matching](10.%20Regular%20Expression%20Matching.md)
 
-## Greedy
+## Greedy (neetcode)
 122. [53. Maximum Subarray](53.%20Maximum%20Subarray.md)
 123. [55. Jump Game](55.%20Jump%20Game.md)
 124. [45. Jump Game II](45.%20Jump%20Game%20II.md)
@@ -158,7 +158,7 @@
 128. [763. Partition Labels](763.%20Partition%20Labels.md)
 129. [678. Valid Parenthesis String](678.%20Valid%20Parenthesis%20String.md)
 
-## Intervals
+## Intervals (neetcode)
 130. [57. Insert Interval](57.%20Insert%20Interval.md)
 131. [56. Merge Intervals](56.%20Merge%20Intervals.md)
 132. [435. Non-overlapping Intervals](435.%20Non-overlapping%20Intervals.md)
@@ -179,6 +179,17 @@
 159. [759. Employee Free Time](759.%20Employee%20Free%20Time.md)
 
 
+
+# todo
+
+- currently, im just trying to find all the greedy problems
+	- string probly has these
+	- imo this mean binary search and heap problems are urgent, bc they often are used for greedy algos
+	- then i think hashing and math are possible candidates as well
+	- after that, the rest are just filling in other categories
+
+
+
 ## String (grind75)
 174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
 175. [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
@@ -188,6 +199,28 @@
 179. [336. Palindrome Pairs](336.%20Palindrome%20Pairs.md)
 
 
+
+## Binary Search (grind75)
+187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
+188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
+
+## Heap (grind75)
+207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
+208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
+209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
+
+---
+
+## Hash Table (grind75)
+198. [383. Ransom Note](383.%20Ransom%20Note.md)
+199. [380. Insert Delete GetRandom O(1)](380.%20Insert%20Delete%20GetRandom%20O(1).md)
+200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
+
+
+## Math (grind75)
+204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
+205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
+206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
 
 
 
@@ -201,6 +234,14 @@
 142. [43. Multiply Strings](43.%20Multiply%20Strings.md)
 143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
 
+---
+
+
+## Dynamic Programming (grind75)
+201. [221. Maximal Square](221.%20Maximal%20Square.md)
+202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
+
+
 ## Bit Manipulation (neetcode)
 144. [136. Single Number](136.%20Single%20Number.md)
 145. [191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
@@ -209,10 +250,6 @@
 148. [268. Missing Number](268.%20Missing%20Number.md)
 149. [371. Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
 150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
-
-
-# Grind 75
-
 
 
 ## Stack (grind75)
@@ -243,9 +280,8 @@
 185. [437. Path Sum III](437.%20Path%20Sum%20III.md)
 186. [863. All Nodes Distance K in Binary Tree](863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
 
-## Binary Search (grind75)
-187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
-188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
+
+
 
 ## Graph (grind75)
 189. [733. Flood Fill](733.%20Flood%20Fill.md)
@@ -260,27 +296,10 @@
 196. [108. Convert Sorted Array to Binary Search Tree](108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 197. [285. Inorder Successor in BST](285.%20Inorder%20Successor%20in%20BST.md)
 
-## Hash Table (grind75)
-198. [383. Ransom Note](383.%20Ransom%20Note.md)
-199. [380. Insert Delete GetRandom O(1)](380.%20Insert%20Delete%20GetRandom%20O(1).md)
-200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
 
-## Dynamic Programming (grind75)
-201. [221. Maximal Square](221.%20Maximal%20Square.md)
-202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
 
 ## Binary (grind75)
 203. [67. Add Binary](67.%20Add%20Binary.md)
-
-## Math (grind75)
-204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
-205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
-206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
-
-## Heap (grind75)
-207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
-208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
-209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
 
 ## Trie (grind75)
 210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)

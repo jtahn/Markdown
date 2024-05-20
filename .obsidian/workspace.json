@@ -30,19 +30,27 @@
             }
           },
           {
-            "id": "7de4572a6b0c7f8b",
+            "id": "0de7377781c8a1e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "LeetCode/README.md",
-                "mode": "source",
-                "source": false
+                "file": "_refs/01 competitive programming/halim2.pdf"
+              }
+            }
+          },
+          {
+            "id": "4f06961ebfc8df26",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_refs/01 competitive programming/epi.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/README.md"
+                "file": "_refs/01 competitive programming/epi.pdf"
               }
             }
           },
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/README.md",
+                "file": "_refs/01 competitive programming/epi.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/README.md",
+                "file": "_refs/01 competitive programming/epi.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,27 +179,33 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7de4572a6b0c7f8b",
+  "active": "4f06961ebfc8df26",
   "lastOpenFiles": [
-    "_refs/01 competitive programming/halim1.pdf",
-    "LeetCode/253. Meeting Rooms II.md",
+    "LeetCode/14. Longest Common Prefix.md",
+    "_refs/01 competitive programming/epi.pdf",
+    "LeetCode/189. Rotate Array.md",
+    "LeetCode/75. Sort Colors.md",
+    "LeetCode/README.md",
+    "_refs/02 algorithms/skiena.pdf",
     "_refs/02 algorithms/clrs.pdf",
+    "index of tags.md",
     "_refs/01 competitive programming/halim2.pdf",
+    "_refs/01 competitive programming/halim1.pdf",
+    "LeetCode/977. Squares of a Sorted Array.md",
+    "LeetCode/283. Move Zeroes.md",
+    "!assets/attachments/Pasted image 20240519041616.png",
+    "LeetCode/253. Meeting Rooms II.md",
     "_refs/02 algorithms/dpv.pdf",
     "_refs/02 algorithms/kt.pdf",
     "LeetCode/2203. Minimum Weighted Subgraph With the Required Paths.md",
-    "index of tags.md",
     "LeetCode/435. Non-overlapping Intervals.md",
     "_courses/stanford/CS 161/lecture14-notes.pdf",
     "_courses/stanford/CS 161/lecture13-notes.pdf",
     "_courses/stanford/CS 161/lecture12-notes.pdf",
-    "_courses/stanford/CS 161/index.html",
-    "_courses/stanford/CS 161/lectures.html",
     "_refs/README.md",
     "LeetCode/759. Employee Free Time.md",
     "LeetCode/252. Meeting Rooms.md",
     "LeetCode/1851. Minimum Interval to Include Each Query.md",
-    "LeetCode/README.md",
     "LeetCode/169. Majority Element.md",
     "LeetCode/678. Valid Parenthesis String.md",
     "LeetCode/56. Merge Intervals.md",
@@ -204,19 +218,14 @@
     "LeetCode/45. Jump Game II.md",
     "LeetCode/55. Jump Game.md",
     "LeetCode/494. Target Sum.md",
-    "LeetCode/10. Regular Expression Matching.md",
-    "LeetCode/312. Burst Balloons.md",
-    "LeetCode/53. Maximum Subarray.md",
     "!assets/attachments/Pasted image 20240513005557.png",
     "!assets/attachments/Pasted image 20240513005546.png",
     "!assets/attachments/Pasted image 20240512235706.png",
     "!assets/attachments/Pasted image 20240512232206.png",
     "!assets/attachments/Pasted image 20240512232147.png",
     "!assets/attachments/Pasted image 20240512231710.png",
-    "_private/Drafts/_routine.md",
     "!assets/attachments/Pasted image 20240508035904.png",
     "!assets/attachments/Pasted image 20240508035229.png",
-    "!assets/attachments/Pasted image 20240507214344.png",
-    "!assets/attachments/Pasted image 20240501152527.png"
+    "!assets/attachments/Pasted image 20240507214344.png"
   ]
 }
