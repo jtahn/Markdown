@@ -180,16 +180,6 @@
 
 
 
-# todo
-
-- currently, im just trying to find all the greedy problems
-	- string probly has these
-	- imo this mean binary search and heap problems are urgent, bc they often are used for greedy algos
-	- then i think hashing and math are possible candidates as well
-	- after that, the rest are just filling in other categories
-
-
-
 ## String (grind75)
 174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
 175. [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
@@ -200,9 +190,19 @@
 
 
 
-## Binary Search (grind75)
-187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
-188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
+
+# todo
+
+- currently, im just trying to find all the greedy problems
+	- so urgent is:
+		- binary search
+		- heap
+	- imo this means, out of what i have left:
+		- sort and heap problems are urgent, bc they often are used for greedy algos
+	- then i think binary search, hashing and math are possible candidates as well
+	- after that, the rest are just filling in other categories
+
+
 
 ## Heap (grind75)
 207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
@@ -210,6 +210,14 @@
 209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
 
 ---
+
+
+
+## Binary Search (grind75)
+187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
+188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
+
+
 
 ## Hash Table (grind75)
 198. [383. Ransom Note](383.%20Ransom%20Note.md)
