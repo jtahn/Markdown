@@ -1,5 +1,40 @@
 
 
+# mit
+- https://courses.csail.mit.edu/6.851/spring12/lectures/
+
+
+# refs
+- fundy overviews
+	- usaco guides
+
+- solutions
+	- naukri seems to have nice editorials? 
+		- ie https://www.naukri.com/code360/problem-details/count-palindromic-pairs_3210217
+	- https://discuss.codechef.com/c/editorial/5
+
+- problems
+	- https://www.naukri.com/code360
+	- https://csforall.in/algomaster-sheet/
+		- and also, they list a bunch of 'code submission' websites
+			- ie maybe i should start trying geeksforgeeks and hackerrank
+
+
+# prefix sum
+- https://usaco.guide/silver/prefix-sums?lang=py
+
+# binary search
+- https://usaco.guide/silver/binary-search?lang=py
+
+# graphs
+- know the main techniques
+	- shortest paths
+	- min spanning tree
+- !! important (ie what halim is saying):
+	- recognizing that a problem is a graph problem + can use a standard graph algo
+	- aka need lots of problems that train this
+		- ie: graph problems are another category where, lots of problems will use the same strat. but the real 'difficulty' of the problem is realizing you can use the strat
+		- and so try to have as many 'patterns/examples' as possible to train this
 
 
 # greedy

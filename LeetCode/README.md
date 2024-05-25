@@ -191,26 +191,14 @@
 
 
 
-# todo
-
-- currently, im just trying to find all the greedy problems
-	- so urgent is:
-		- binary search
-		- heap
-	- imo this means, out of what i have left:
-		- sort and heap problems are urgent, bc they often are used for greedy algos
-	- then i think binary search, hashing and math are possible candidates as well
-	- after that, the rest are just filling in other categories
-
-
-
 ## Heap (grind75)
 207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
 208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
 209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
 
----
 
+
+# todo
 
 
 ## Binary Search (grind75)

@@ -20,6 +20,50 @@
             }
           },
           {
+            "id": "a11f6813045e471c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_refs/08 ai/islp.pdf"
+              }
+            }
+          },
+          {
+            "id": "8849aa9e3bff8b8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_courses/cmu/CMUCodes.pdf"
+              }
+            }
+          },
+          {
+            "id": "76f08476bcd1434a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_refs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f647c25c65c6e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_private/Drafts/todo, study plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0a2b2a519fa0f624",
             "type": "leaf",
             "state": {
@@ -50,7 +94,29 @@
             }
           },
           {
-            "id": "72d9dab94ead32a5",
+            "id": "22529f03c9e15abc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_refs/02 algorithms/clrs.pdf"
+              }
+            }
+          },
+          {
+            "id": "cf7d36c94495aef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e350963e347c001",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdf877a574d8129e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/336. Palindrome Pairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -119,8 +197,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_private/Drafts/_memos.md"
+                "file": "LeetCode/336. Palindrome Pairs.md"
               }
             }
           },
@@ -150,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_private/Drafts/_memos.md",
+                "file": "LeetCode/336. Palindrome Pairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_private/Drafts/_memos.md",
+                "file": "LeetCode/336. Palindrome Pairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,44 +268,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "72d9dab94ead32a5",
+  "active": "cdf877a574d8129e",
   "lastOpenFiles": [
-    "_refs/01 competitive programming/epi.pdf",
-    "LeetCode/189. Rotate Array.md",
-    "_refs/01 competitive programming/halim1.pdf",
+    "LeetCode/README.md",
     "LeetCode/336. Palindrome Pairs.md",
-    "_refs/01 competitive programming/halim2.pdf",
+    "_refs/08 ai/islp.pdf",
+    "_refs/08 ai/esl.pdf",
+    "_courses/README.md",
+    "_refs/08 ai/aima.pdf",
+    "_refs/08 ai",
+    "_courses/cmu/CMUCodes.pdf",
+    "_refs/README.md",
     "_private/Drafts/_memos.md",
+    "index of tags.md",
+    "_private/Drafts/todo, study plan.md",
+    "_refs/02 algorithms/sedgewick.pdf",
+    "_courses/cmu/_15451-f20/images/transparent_gradient.html",
+    "_courses/cmu/_15451-f20/images/section-sep.html",
+    "_courses/cmu/_15451-f20/images/quote.html",
+    "_courses/cmu/_15451-f20/images/quote-open.html",
+    "LeetCode/632. Smallest Range Covering Elements from K Lists.md",
+    "LeetCode/658. Find K Closest Elements.md",
+    "_private/Drafts/cigars.md",
+    "LeetCode/588. Design In-Memory File System.md",
+    "LeetCode/189. Rotate Array.md",
     "LeetCode/61. Rotate List.md",
     "LeetCode/179. Largest Number.md",
     "LeetCode/438. Find All Anagrams in a String.md",
-    "LeetCode/README.md",
     "LeetCode/8. String to Integer (atoi).md",
     "LeetCode/14. Longest Common Prefix.md",
     "LeetCode/75. Sort Colors.md",
-    "_refs/02 algorithms/skiena.pdf",
-    "_refs/02 algorithms/clrs.pdf",
-    "index of tags.md",
     "LeetCode/977. Squares of a Sorted Array.md",
     "LeetCode/283. Move Zeroes.md",
     "!assets/attachments/Pasted image 20240519041616.png",
     "LeetCode/253. Meeting Rooms II.md",
-    "_refs/02 algorithms/dpv.pdf",
-    "_refs/02 algorithms/kt.pdf",
     "LeetCode/2203. Minimum Weighted Subgraph With the Required Paths.md",
     "LeetCode/435. Non-overlapping Intervals.md",
-    "_courses/stanford/CS 161/lecture14-notes.pdf",
-    "_courses/stanford/CS 161/lecture13-notes.pdf",
-    "_courses/stanford/CS 161/lecture12-notes.pdf",
-    "_refs/README.md",
     "LeetCode/759. Employee Free Time.md",
     "LeetCode/252. Meeting Rooms.md",
-    "LeetCode/1851. Minimum Interval to Include Each Query.md",
-    "LeetCode/169. Majority Element.md",
-    "LeetCode/678. Valid Parenthesis String.md",
-    "LeetCode/56. Merge Intervals.md",
-    "LeetCode/763. Partition Labels.md",
-    "README.md",
     "!assets/attachments/Pasted image 20240513005557.png",
     "!assets/attachments/Pasted image 20240513005546.png",
     "!assets/attachments/Pasted image 20240512235706.png",
