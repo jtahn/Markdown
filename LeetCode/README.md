@@ -195,13 +195,13 @@
 188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
 
 
-
-# todo
-
 ## Hash Table (grind75)
 198. [383. Ransom Note](383.%20Ransom%20Note.md)
 199. [380. Insert Delete GetRandom O(1)](380.%20Insert%20Delete%20GetRandom%20O(1).md)
 200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
+
+
+# todo
 
 
 ## Math (grind75)

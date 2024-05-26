@@ -114,18 +114,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1099967ae45ff908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/380. Insert Delete GetRandom O(1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 9
@@ -260,10 +248,10 @@
   "active": "cf7d36c94495aef0",
   "lastOpenFiles": [
     "LeetCode/380. Insert Delete GetRandom O(1).md",
-    "_private/Drafts/_memos.md",
     "LeetCode/README.md",
-    "LeetCode/383. Ransom Note.md",
     "LeetCode/632. Smallest Range Covering Elements from K Lists.md",
+    "_private/Drafts/_memos.md",
+    "LeetCode/383. Ransom Note.md",
     "_refs/01 competitive programming/halim1.pdf",
     "LeetCode/336. Palindrome Pairs.md",
     "_refs/08 ai/islp.pdf",
