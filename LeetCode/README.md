@@ -166,7 +166,6 @@
 134. [253. Meeting Rooms II](253.%20Meeting%20Rooms%20II.md)
 135. [1851. Minimum Interval to Include Each Query](1851.%20Minimum%20Interval%20to%20Include%20Each%20Query.md)
 
-
 ## Array (grind75)
 151. [169. Majority Element](169.%20Majority%20Element.md)
 152. [283. Move Zeroes](283.%20Move%20Zeroes.md)
@@ -178,8 +177,6 @@
 158. [16. 3Sum Closest](16.%203Sum%20Closest.md)
 159. [759. Employee Free Time](759.%20Employee%20Free%20Time.md)
 
-
-
 ## String (grind75)
 174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
 175. [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
@@ -188,24 +185,18 @@
 178. [179. Largest Number](179.%20Largest%20Number.md)
 179. [336. Palindrome Pairs](336.%20Palindrome%20Pairs.md)
 
-
-
-
 ## Heap (grind75)
 207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
 208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
 209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
-
-
-
-# todo
-
 
 ## Binary Search (grind75)
 187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
 188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
 
 
+
+# todo
 
 ## Hash Table (grind75)
 198. [383. Ransom Note](383.%20Ransom%20Note.md)
@@ -229,8 +220,6 @@
 141. [50. Pow(x, n)](50.%20Pow(x,%20n).md)
 142. [43. Multiply Strings](43.%20Multiply%20Strings.md)
 143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
-
----
 
 
 ## Dynamic Programming (grind75)

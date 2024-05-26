@@ -63,6 +63,11 @@
       "type": "file",
       "ctime": 1716365126391,
       "path": "LeetCode/658. Find K Closest Elements.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1716701073565,
+      "path": "LeetCode/632. Smallest Range Covering Elements from K Lists.md"
     }
   ]
 }
