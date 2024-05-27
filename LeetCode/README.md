@@ -201,14 +201,40 @@
 200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
 
 
+## Dynamic Programming (grind75)
+201. [221. Maximal Square](221.%20Maximal%20Square.md)
+202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
+
+## Recursion (grind75)
+211. [31. Next Permutation](31.%20Next%20Permutation.md)
+
+
+
 # todo
 
 
-## Math (grind75)
-204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
-205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
-206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
 
+
+## Stack (grind75)
+160. [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
+161. [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
+162. [394. Decode String](394.%20Decode%20String.md)
+163. [735. Asteroid Collision](735.%20Asteroid%20Collision.md)
+164. [227. Basic Calculator II](227.%20Basic%20Calculator%20II.md)
+165. [224. Basic Calculator](224.%20Basic%20Calculator.md)
+166. [895. Maximum Frequency Stack](895.%20Maximum%20Frequency%20Stack.md)
+167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
+
+
+
+## Graph (grind75)
+189. [733. Flood Fill](733.%20Flood%20Fill.md)
+190. [542. 01 Matrix](542.%2001%20Matrix.md)
+191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
+192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
+193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
+194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
+195. [815. Bus Routes](815.%20Bus%20Routes.md)
 
 
 ## Math & Geometry (neetcode)
@@ -222,9 +248,10 @@
 143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
 
 
-## Dynamic Programming (grind75)
-201. [221. Maximal Square](221.%20Maximal%20Square.md)
-202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
+## Math (grind75)
+204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
+205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
+206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
 
 
 ## Bit Manipulation (neetcode)
@@ -237,15 +264,11 @@
 150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
 
 
-## Stack (grind75)
-160. [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
-161. [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
-162. [394. Decode String](394.%20Decode%20String.md)
-163. [735. Asteroid Collision](735.%20Asteroid%20Collision.md)
-164. [227. Basic Calculator II](227.%20Basic%20Calculator%20II.md)
-165. [224. Basic Calculator](224.%20Basic%20Calculator.md)
-166. [895. Maximum Frequency Stack](895.%20Maximum%20Frequency%20Stack.md)
-167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
+
+## Binary (grind75)
+203. [67. Add Binary](67.%20Add%20Binary.md)
+
+
 
 ## Linked List (grind75)
 168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
@@ -266,31 +289,15 @@
 186. [863. All Nodes Distance K in Binary Tree](863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
 
 
-
-
-## Graph (grind75)
-189. [733. Flood Fill](733.%20Flood%20Fill.md)
-190. [542. 01 Matrix](542.%2001%20Matrix.md)
-191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
-192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
-193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
-194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
-195. [815. Bus Routes](815.%20Bus%20Routes.md)
-
 ## Binary Search Tree (grind75)
 196. [108. Convert Sorted Array to Binary Search Tree](108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 197. [285. Inorder Successor in BST](285.%20Inorder%20Successor%20in%20BST.md)
 
 
 
-## Binary (grind75)
-203. [67. Add Binary](67.%20Add%20Binary.md)
-
 ## Trie (grind75)
 210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
 
-## Recursion (grind75)
-211. [31. Next Permutation](31.%20Next%20Permutation.md)
 
 ## Matrix (grind75)
 212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
