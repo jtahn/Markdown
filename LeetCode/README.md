@@ -215,6 +215,17 @@
 
 
 
+## Graph (grind75)
+189. [733. Flood Fill](733.%20Flood%20Fill.md)
+190. [542. 01 Matrix](542.%2001%20Matrix.md)
+191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
+192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
+193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
+194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
+195. [815. Bus Routes](815.%20Bus%20Routes.md)
+
+
+
 ## Stack (grind75)
 160. [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
 161. [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
@@ -224,17 +235,6 @@
 165. [224. Basic Calculator](224.%20Basic%20Calculator.md)
 166. [895. Maximum Frequency Stack](895.%20Maximum%20Frequency%20Stack.md)
 167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
-
-
-
-## Graph (grind75)
-189. [733. Flood Fill](733.%20Flood%20Fill.md)
-190. [542. 01 Matrix](542.%2001%20Matrix.md)
-191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
-192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
-193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
-194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
-195. [815. Bus Routes](815.%20Bus%20Routes.md)
 
 
 ## Math & Geometry (neetcode)
@@ -295,12 +295,11 @@
 
 
 
-## Trie (grind75)
-210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
-
-
 ## Matrix (grind75)
 212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
+
+## Trie (grind75)
+210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
 
 ## Queue (grind75)
 213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
@@ -350,24 +349,10 @@
 	- then tbd
 		- imo: priority is filling in fundies that imo are not well addressed by the above 2 lists
 		- at some point: leetcode official stuff, like 'leetcode top interview 150'
-
-- current order of problems:
-	- neetcode 150
-	- grind 75
-		- https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty
-	- lc official list: "top interview questions"
-		- https://leetcode.com/explore/interview/card/top-interview-questions-easy/
-	- official leetcode lists
-	- random famous (hard) problems
-
-
-
-
-
-# Appendix and brownie points
-- [Complexity of sorting](../_private/Drafts/Complexity%20of%20sorting.md)
-- [Brute force methods](../_private/Drafts/Brute%20force%20methods.md)
-- [equality of reference vs value](../_private/Anki/equality%20of%20reference%20vs%20value.md)
+			- lc official list: "top interview questions"
+				- https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+			- official leetcode lists
+		- random famous (hard) problems
 
 
 
