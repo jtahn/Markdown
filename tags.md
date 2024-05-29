@@ -1,88 +1,33 @@
+# todo
+
+## #/meta 
 
 
-# mit
-- https://courses.csail.mit.edu/6.851/spring12/lectures/
-
-
-# refs
-- fundy overviews
-	- usaco guides
-
+- refs
+	- fundy overviews
+		- usaco guides
+- classes
+	- https://courses.csail.mit.edu/6.851/spring12/lectures/
 - solutions
 	- naukri seems to have nice editorials? 
 		- ie https://www.naukri.com/code360/problem-details/count-palindromic-pairs_3210217
 	- https://discuss.codechef.com/c/editorial/5
-
 - problems
 	- https://www.naukri.com/code360
 	- https://csforall.in/algomaster-sheet/
 		- and also, they list a bunch of 'code submission' websites
 			- ie maybe i should start trying geeksforgeeks and hackerrank
 
+- clrs solutions
+	- 3rd ed
+		- https://walkccc.me/CLRS/
+			- https://github.com/walkccc/CLRS
 
-# prefix sum
-- https://usaco.guide/silver/prefix-sums?lang=py
 
-# binary search
+
+
+# #binary_search
 - https://usaco.guide/silver/binary-search?lang=py
-
-# graphs
-- know the main techniques
-	- shortest paths
-	- min spanning tree
-- !! important (ie what halim is saying):
-	- recognizing that a problem is a graph problem + can use a standard graph algo
-	- aka need lots of problems that train this
-		- ie: graph problems are another category where, lots of problems will use the same strat. but the real 'difficulty' of the problem is realizing you can use the strat
-		- and so try to have as many 'patterns/examples' as possible to train this
-
-
-# greedy
-
-- finding greedy problems on neetcode
-	- examples provided by texts (aka likely the classic problems)
-	- [[_refs/02 algorithms/skiena.pdf#page=361&selection=6,0,6,17|skiena, page 361]]
-	- 
-
-
-- both clrs and dpv describe greedy in very specific terms, as building up solutions by piece from subproblems
-	- [[_refs/02 algorithms/dpv.pdf#page=138|dpv, 5 Greedy algorithms]]
-	- kt does not
-		- "It is hard, if not impossible, to define precisely what is meant by a greedy algorithm."
-	- so i think 'greedy algo' kinda depends on what ppl mean...seems there are ppl who take a very general/broad/loose definition for it
-	- imo, use the definition in clrs/dpv...it's more helpful to be more specific about it imo
-- [[_refs/02 algorithms/kt.pdf#page=141|kt, 4 Greedy Algorithms]]
-	- some of the phrases here are interesting, and i do want to use it
-		- "When a greedy algorithm succeeds in solving a nontrivial problem opti- mally, it typically implies something interesting and useful about the structure of the problem itself; there is a local decision rule that one can use to con- struct optimal solutions."
-	- but i don't want to use them to describe greedy
-	- 
-
-- the reputable cp resources seem to agree with ctci
-	- ie
-		- [[_refs/01 competitive programming/sannemo2018.pdf#page=153&offset=72,537.222|sannemo2018, Greedy Algorithms]]
-		- [[_refs/01 competitive programming/halim1.pdf#page=185|halim1, 3.4 Greedy]]
-		- [[_refs/01 competitive programming/cses1.pdf#page=67&offset=93.543,756.85|cses1, Greedy algorithms]]
-	- conclusions
-		- greedy has a very specific definition, and is typically difficult to prove correctness
-			- if you can prove connectness: it's typically done similar to the standard 'greedy algo' examples
-		- essentially a subset of dp
-	- aka
-		- if 'greedy algo' for a leetcode problems seems very obvious...then it probly isnt actually 'greedy'
-		- its more like: 'we understand something about the problem that leads to a very easy way to compute it'
-			- aka kinda like what kt is saying
-- ohhhhhh
-	- epi combines greedy and invariants into one section
-		- so a lot of times when consensus says 'greedy'...likely the better word is 'invariant'
-			- [[_refs/01 competitive programming/epi.pdf#page=346&offset=-115,403,0|epi, Invariants]]
-			- aka something about the structure of the problem!
-
-
-
-- i'm trying to find a leetcode problem that is 'greedy' via essentially asking me to code a 'furthest in future' cache
-	- clrs mentions that there are ways to rephrase this problem, ie
-		- [[_refs/02 algorithms/clrs.pdf#page=463&selection=184,0,241,63|clrs, page 463]]
-
-
 
 
 
@@ -91,6 +36,9 @@
 
 
 # assorted
+
+- concepts
+	- https://usaco.guide/silver/prefix-sums?lang=py
 
 
 - port [[_private/Drafts/todo, fundies|todo, fundies]] into here or other todos
@@ -210,7 +158,7 @@
 
 
 
-# greedy
+# #greedy
 - EPI seems to consider them 'greedy' algorithms...but for various reasons, either consensus or me disagrees
 	- [[_refs/01 competitive programming/epi.pdf#page=352&offset=-115,373,0|epi, 18.7 Compute the maximum water trapped by a pair of vertical lines]]
 		- this is [[LeetCode/11. Container With Most Water|11. Container With Most Water]]
@@ -222,7 +170,62 @@
 
 - seems like a lot 'two pointer' stuff is in greedy
 
-# is kmp = two pointer?
+
+
+---
+
+
+- finding greedy problems on neetcode
+	- examples provided by texts (aka likely the classic problems)
+	- [[_refs/02 algorithms/skiena.pdf#page=361&selection=6,0,6,17|skiena, page 361]]
+	- 
+
+
+- both clrs and dpv describe greedy in very specific terms, as building up solutions by piece from subproblems
+	- [[_refs/02 algorithms/dpv.pdf#page=138|dpv, 5 Greedy algorithms]]
+	- kt does not
+		- "It is hard, if not impossible, to define precisely what is meant by a greedy algorithm."
+	- so i think 'greedy algo' kinda depends on what ppl mean...seems there are ppl who take a very general/broad/loose definition for it
+	- imo, use the definition in clrs/dpv...it's more helpful to be more specific about it imo
+- [[_refs/02 algorithms/kt.pdf#page=141|kt, 4 Greedy Algorithms]]
+	- some of the phrases here are interesting, and i do want to use it
+		- "When a greedy algorithm succeeds in solving a nontrivial problem opti- mally, it typically implies something interesting and useful about the structure of the problem itself; there is a local decision rule that one can use to con- struct optimal solutions."
+	- but i don't want to use them to describe greedy
+	- 
+
+- the reputable cp resources seem to agree with ctci
+	- ie
+		- [[_refs/01 competitive programming/sannemo2018.pdf#page=153&offset=72,537.222|sannemo2018, Greedy Algorithms]]
+		- [[_refs/01 competitive programming/halim1.pdf#page=185|halim1, 3.4 Greedy]]
+		- [[_refs/01 competitive programming/cses1.pdf#page=67&offset=93.543,756.85|cses1, Greedy algorithms]]
+	- conclusions
+		- greedy has a very specific definition, and is typically difficult to prove correctness
+			- if you can prove connectness: it's typically done similar to the standard 'greedy algo' examples
+		- essentially a subset of dp
+	- aka
+		- if 'greedy algo' for a leetcode problems seems very obvious...then it probly isnt actually 'greedy'
+		- its more like: 'we understand something about the problem that leads to a very easy way to compute it'
+			- aka kinda like what kt is saying
+- ohhhhhh
+	- epi combines greedy and invariants into one section
+		- so a lot of times when consensus says 'greedy'...likely the better word is 'invariant'
+			- [[_refs/01 competitive programming/epi.pdf#page=346&offset=-115,403,0|epi, Invariants]]
+			- aka something about the structure of the problem!
+
+
+
+- i'm trying to find a leetcode problem that is 'greedy' via essentially asking me to code a 'furthest in future' cache
+	- clrs mentions that there are ways to rephrase this problem, ie
+		- [[_refs/02 algorithms/clrs.pdf#page=463&selection=184,0,241,63|clrs, page 463]]
+
+
+
+
+
+# #iteration
+
+## #iteration/two-pointer 
+## is kmp = two pointer?
 
 - epi:
 	- lots of two pointer stuff seems to be in 'greedy', see above
@@ -274,10 +277,31 @@ find more supposed 2 pointer problems:
 
 
 
-# #graph
+# #graphs
 
 
-#graphs/process_edge 
+- know the main techniques
+	- shortest paths
+	- min spanning tree
+- !! important (ie what halim is saying):
+	- recognizing that a problem is a graph problem + can use a standard graph algo
+	- aka need lots of problems that train this
+		- ie: graph problems are another category where, lots of problems will use the same strat. but the real 'difficulty' of the problem is realizing you can use the strat
+		- and so try to have as many 'patterns/examples' as possible to train this
+
+
+
+
+## #graphs/topological_sort 
+- refs
+	- https://cp-algorithms.com/graph/topological-sort.html
+		- dfs
+	- https://en.wikipedia.org/wiki/Topological_sorting#Algorithms
+		- kahn
+		- dfs
+
+
+## #graphs/process_edge 
 
 
 
@@ -307,7 +331,7 @@ find more supposed 2 pointer problems:
 
 
 
-#graphs/traversal
+## #graphs/traversal
 - (idk correct jargon for this tag)
 - how to handle traversal where there's lots of valid starting points
 	- or don't know where to start
@@ -317,12 +341,17 @@ find more supposed 2 pointer problems:
 		- so that we don't "initialize traversals" from alrdy visited nodes
 
 
-#graphs/edge_classification 
+### #graphs/traversal/dfs 
+- [[_refs/02 algorithms/clrs.pdf#page=585|clrs, 20.3 Depth-first search]]
+
+
+
+
+
+
+## #graphs/edge_classification 
 - [[_refs/02 algorithms/clrs.pdf#page=591&selection=388,0,392,5|clrs, page 591, classification of edges]]
 
-
-#graphs/traversal/dfs 
-- [[_refs/02 algorithms/clrs.pdf#page=585|clrs, 20.3 Depth-first search]]
 
 
 
@@ -337,12 +366,11 @@ find more supposed 2 pointer problems:
 		- i'm going to have a few #array discussions that are essentially describing how you specifically implement graph algos on an array
 
 
-#array
 - think about whether your problem is really a graph problem
 
 
 
-#array/traversal/storing_visited_nodes_in_place
+### #array/traversal/storing_visited_nodes_in_place
 - there is an optimization where we don't need a structure to store 'visited nodes'
 	- applies to some matrix problems
 		- i think more generally: problems where you're given an 'implicit graph'
@@ -361,7 +389,7 @@ find more supposed 2 pointer problems:
 	- for the above problems, consider adding code where i actually use a 'visited' structure
 		- maybe also [[../../LeetCode/542. 01 Matrix|542. 01 Matrix]]
 
-#array/traversal/neighbors
+### #array/traversal/neighbors
 - basically, matrix always has a very standard way of extending a traversal
 - what is the jargon here...'neighbors'? 'valid neighbors'?
 	- can increment left, right, up, down
@@ -372,7 +400,7 @@ find more supposed 2 pointer problems:
 
 # #trees 
 
-#trees/traversal 
+## #trees/traversal 
 
 - predecessor, successor
 	- [[_refs/02 algorithms/clrs.pdf#page=340&selection=207,0,211,11|clrs, page 340]]
@@ -385,7 +413,9 @@ find more supposed 2 pointer problems:
 
 # #python
 
-#python/modules/collections/counter
+
+
+#### #python/modules/collections/counter
 
 https://pymotw.com/3/collections/counter.html
 
@@ -396,7 +426,7 @@ https://pymotw.com/3/collections/counter.html
 
 
 
-#python/modules/heapq
+### #python/modules/heapq
 
 - realpython article is great
 	- cite everything except the example
