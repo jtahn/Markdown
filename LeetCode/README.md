@@ -336,6 +336,9 @@
 
 
 
+## 'similar questions'
+- [[471. Encode String with Shortest Length]]
+
 
 
 

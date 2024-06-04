@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18b329bba42072f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18ca447c4bd01ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/815. Bus Routes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2364e8983e8ab2b1",
+            "id": "6ab4862e56d3061e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -40,9 +16,39 @@
                 "file": "_refs/01 competitive programming/halim1.pdf"
               }
             }
+          },
+          {
+            "id": "5c722e05b76945e9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_refs/01 competitive programming/halim2.pdf"
+              }
+            }
+          },
+          {
+            "id": "37498505bceac173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/224. Basic Calculator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949ca1c3ad6b0e79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LeetCode/815. Bus Routes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/815. Bus Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/815. Bus Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,52 +173,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "18ca447c4bd01ed4",
+  "active": "949ca1c3ad6b0e79",
   "lastOpenFiles": [
-    "tags.md",
-    "LeetCode/815. Bus Routes.md",
-    "_refs/01 competitive programming/halim1.pdf",
-    "_refs/01 competitive programming/halim2.pdf",
-    "_refs/07 signal processing/own.pdf",
-    "_refs/07 signal processing/osyp.pdf",
-    "_refs/08 ai/gonzalez.pdf",
+    "LeetCode/224. Basic Calculator.md",
     "_courses/README.md",
-    "LeetCode/README.md",
-    "LeetCode/1197. Minimum Knight Moves.md",
-    "_courses/_unfiled/AI_Curriculum_Map_2019.pdf",
-    "_courses/_unfiled/berkeley-math-118-f22-syllabus.pdf",
-    "_courses/_unfiled/berkeley-math-118-s27-hw.html",
-    "_refs/02 algorithms/clrs.pdf",
-    "_refs/02 algorithms/skiena.pdf",
+    "_tags.md",
+    "Papers/999999.  KolterMadry (NeurIPS 2018).md",
+    "Papers/2.  KolterMadry (NeurIPS 2018).md",
+    "Papers/2.  Kolter2018 (NeurIPS).md",
+    "Papers/2..md",
+    "Papers/Untitled.md",
+    "Papers/1. MLP on MNIST.md",
+    "Papers/MLP on MNIST.md",
+    "Papers/1512.00567 Inception-v3.md",
+    "Papers/1512.03385 ResNet.md",
+    "Papers/1505.04597 U-Net.md",
+    "Papers/2010.11929 ViT.md",
+    "Papers/1409.4842 Inception.md",
+    "1409.4842 Inception.md",
+    "Untitled.md",
+    "2010.11929 ViT.md",
+    "1505.04597 U-Net.md",
+    "1512.03385 ResNet.md",
+    "1512.03385 (ResNet).md",
+    "1505.04597 (U-Net).md",
+    "1505.04597.md",
+    "1505.04597v1.md",
+    "Papers/README.md",
+    "Papers",
+    "Untitled",
+    "_refs/01 competitive programming/halim2.pdf",
+    "_private/Drafts/_memos.md",
+    "_refs/01 competitive programming/halim1.pdf",
+    "_courses/cmu/15-150-s20/parsing.pdf",
+    "_courses/cmu/15-150-s20",
+    "_courses/cmu/15-411-s24/08-parsing.pdf",
+    "_courses/cmu/15-411-s24/09-predictive.pdf",
+    "_courses/cmu/15-411-s24",
+    "_refs/01 competitive programming/epi.pdf",
     "_courses/_unfiled/course-map-2019.png",
     "_courses/_unfiled/16-720-s24-schedule.png",
-    "LeetCode/1730. Shortest Path to Get Food.md",
-    "_private/Drafts/_onetab.md",
-    "_private/Drafts/Untitled.md",
     "_courses/_unfiled/AIML course menu.png",
-    "LeetCode/310. Minimum Height Trees.md",
     "!assets/attachments/Pasted image 20240529013931.png",
     "!assets/attachments/Pasted image 20240529013922.png",
-    "_websites/README.md",
     "!assets/attachments/Pasted image 20240528174043.png",
     "!assets/attachments/Pasted image 20240528174022.png",
     "!assets/attachments/Pasted image 20240527231047.png",
     "!assets/attachments/Pasted image 20240527231028.png",
-    "!assets/attachments/Pasted image 20240527230852.png",
-    "LeetCode/37. Sudoku Solver.md",
-    "LeetCode/721. Accounts Merge.md",
-    "LeetCode/67. Add Binary.md",
-    "LeetCode/362. Design Hit Counter.md",
-    "LeetCode/588. Design In-Memory File System.md",
-    "LeetCode/684. Redundant Connection.md",
-    "LeetCode/261. Graph Valid Tree.md",
-    "LeetCode/336. Palindrome Pairs.md",
-    "LeetCode/542. 01 Matrix.md",
-    "_private/Drafts/todo, study plan.md",
-    "_refs/README.md",
-    "LeetCode/733. Flood Fill.md",
-    "LeetCode/31. Next Permutation.md",
-    "LeetCode/394. Decode String.md",
-    "LeetCode/41. First Missing Positive.md"
+    "!assets/attachments/Pasted image 20240527230852.png"
   ]
 }
