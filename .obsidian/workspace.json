@@ -8,47 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ab4862e56d3061e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "_refs/01 competitive programming/halim1.pdf"
-              }
-            }
-          },
-          {
-            "id": "5c722e05b76945e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "_refs/01 competitive programming/halim2.pdf"
-              }
-            }
-          },
-          {
-            "id": "37498505bceac173",
+            "id": "4191d3d12aee1bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/224. Basic Calculator.md",
+                "file": "Replication/1. fastai.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "949ca1c3ad6b0e79",
+            "id": "080330c624129791",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e317051132965e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/32. Longest Valid Parentheses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LeetCode/32. Longest Valid Parentheses.md"
+              }
             }
           },
           {
@@ -134,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LeetCode/32. Longest Valid Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LeetCode/32. Longest Valid Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,53 +173,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "949ca1c3ad6b0e79",
+  "active": "e317051132965e5d",
   "lastOpenFiles": [
+    "LeetCode/README.md",
+    "Replication/1. fastai.md",
+    "__private/Drafts/_curriculum.md",
+    "_secondary/01 competitive programming/halim1.pdf",
+    "!assets/attachments/massiveHmmm.jpeg",
     "LeetCode/224. Basic Calculator.md",
+    "LeetCode/32. Longest Valid Parentheses.md",
+    "LeetCode/895. Maximum Frequency Stack.md",
+    "Replication/2. fastai 2.md",
+    "Replication/README.md",
+    "Replication/ViT.md",
+    "Replication/DCGAN.md",
+    "_papers/radford2016.pdf",
+    "_websites/jobs/deepmind - research engineer.html",
+    "_websites/jobs/arthropic - resident.html",
+    "_websites/jobs/arthropic - research engineer.html",
+    "_websites/jobs/arthropic - software engineer.html",
+    "_websites/jobs/microsoft - AI senior researcher.html",
+    "_websites/jobs/microsoft - AI research intern.html",
+    "_websites/jobs/apple - ML researcher.html",
+    "_websites/jobs/apple - ML engineer.html",
+    "__private/Drafts/todo, study plan.md",
     "_courses/README.md",
-    "_tags.md",
-    "Papers/999999.  KolterMadry (NeurIPS 2018).md",
-    "Papers/2.  KolterMadry (NeurIPS 2018).md",
-    "Papers/2.  Kolter2018 (NeurIPS).md",
-    "Papers/2..md",
-    "Papers/Untitled.md",
-    "Papers/1. MLP on MNIST.md",
-    "Papers/MLP on MNIST.md",
-    "Papers/1512.00567 Inception-v3.md",
-    "Papers/1512.03385 ResNet.md",
-    "Papers/1505.04597 U-Net.md",
-    "Papers/2010.11929 ViT.md",
-    "Papers/1409.4842 Inception.md",
-    "1409.4842 Inception.md",
-    "Untitled.md",
-    "2010.11929 ViT.md",
-    "1505.04597 U-Net.md",
-    "1512.03385 ResNet.md",
-    "1512.03385 (ResNet).md",
-    "1505.04597 (U-Net).md",
-    "1505.04597.md",
-    "1505.04597v1.md",
-    "Papers/README.md",
-    "Papers",
-    "Untitled",
-    "_refs/01 competitive programming/halim2.pdf",
-    "_private/Drafts/_memos.md",
-    "_refs/01 competitive programming/halim1.pdf",
-    "_courses/cmu/15-150-s20/parsing.pdf",
-    "_courses/cmu/15-150-s20",
-    "_courses/cmu/15-411-s24/08-parsing.pdf",
-    "_courses/cmu/15-411-s24/09-predictive.pdf",
-    "_courses/cmu/15-411-s24",
-    "_refs/01 competitive programming/epi.pdf",
+    "Replication/MLP on MNIST.md",
+    "__private/Drafts/_memos.md",
+    "Replication/adversarial-ml-tutorial.org.md",
+    "README.md",
+    "!assets/templates/python-counter.md",
+    "!assets/attachments/HUHrabbit.gif",
+    "!assets/attachments/duckthumbsup.jpg",
+    "!assets/attachments/clappingbear.gif",
+    "_orphaned.md",
+    "orphaned files output.md",
+    "Replication/Inception-v3.md",
+    "Replication/U-Net.md",
+    "Replication/Inception.md",
+    "Replication/ResNet.md",
+    "__private/Drafts/_thesis.md",
+    "Replicat/README.md",
+    "Replicat/1409.4842 Inception.md",
     "_courses/_unfiled/course-map-2019.png",
     "_courses/_unfiled/16-720-s24-schedule.png",
     "_courses/_unfiled/AIML course menu.png",
     "!assets/attachments/Pasted image 20240529013931.png",
     "!assets/attachments/Pasted image 20240529013922.png",
-    "!assets/attachments/Pasted image 20240528174043.png",
-    "!assets/attachments/Pasted image 20240528174022.png",
-    "!assets/attachments/Pasted image 20240527231047.png",
-    "!assets/attachments/Pasted image 20240527231028.png",
-    "!assets/attachments/Pasted image 20240527230852.png"
+    "!assets/attachments/Pasted image 20240528174043.png"
   ]
 }

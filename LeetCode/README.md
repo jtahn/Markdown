@@ -221,12 +221,6 @@
 195. [815. Bus Routes](815.%20Bus%20Routes.md)
 
 
-
-# todo
-
-
-
-
 ## Stack (grind75)
 160. [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks.md)
 161. [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
@@ -236,6 +230,12 @@
 165. [224. Basic Calculator](224.%20Basic%20Calculator.md)
 166. [895. Maximum Frequency Stack](895.%20Maximum%20Frequency%20Stack.md)
 167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
+
+
+
+# todo
+
+
 
 
 ## Math & Geometry (neetcode)

@@ -8,17 +8,17 @@
     {
       "type": "file",
       "ctime": 1715576762924,
-      "path": "_private/Drafts/_routine.md"
+      "path": "__private/Drafts/_routine.md"
     },
     {
       "type": "file",
       "ctime": 1715120389296,
-      "path": "_private/Drafts/_memos.md"
+      "path": "__private/Drafts/_memos.md"
     },
     {
       "type": "file",
       "ctime": 1713385641393,
-      "path": "_private/Drafts/cigars.md",
+      "path": "__private/Drafts/cigars.md",
       "title": "cigars"
     },
     {
@@ -91,7 +91,22 @@
     {
       "type": "file",
       "ctime": 1717472698410,
-      "path": "Papers/1. MLP on MNIST.md"
+      "path": "Replicat/1. MLP on MNIST.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1717481561078,
+      "path": "LeetCode/224. Basic Calculator.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1717533145890,
+      "path": "__private/Drafts/_curriculum.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1717551510475,
+      "path": "Replication/1. fastai.md"
     }
   ]
 }

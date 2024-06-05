@@ -1,19 +1,15 @@
+# sub repos
+- leetcode: [README](LeetCode/README.md)
+- replication: [[Replication/README|README]]
+
 ![](!assets/attachments/clappingbear.gif)   
-
-# shortcuts
-- index of leetcode writeups: [README](LeetCode/README.md)
-
-
-
-
-
 
 
 
 ---
 
 # Meta
-- [todo, macro](_private/Drafts/todo,%20macro.md)
+- [todo, macro](__private/Drafts/todo,%20macro.md)
 - why markdown (instead of vscode latex or anki editor)
 	- max convenience with all of:
 		- mathjax, code snippets, nested lists (multiple indents), headings, quotes
@@ -29,7 +25,7 @@
 	- even my pdfs have backlinks...this seems like an incredibly useful feature in the future
 		- ie if i want to remind myself of specific leetcode problems that are examples of a concept in CLRS/skiena
 - this repo is for md files that i need to be publicly available. examples:
-	- [Calc TA stuff](_private/Calc/README.md)
+	- [Calc TA stuff](__private/Calc/README.md)
 		- rough math/cs explanations for students
 		- obsidian export to pdf is wonky, the md file itself looks better
 	- [LeetCode](LeetCode/README.md)

@@ -41,7 +41,7 @@
 	- https://usaco.guide/silver/prefix-sums?lang=py
 
 
-- port [[_private/Drafts/todo, fundies|todo, fundies]] into here or other todos
+- port [[__private/Drafts/todo, fundies|todo, fundies]] into here or other todos
 
 
 - try to find the 'traversal on graphs' template in CLRS (i found it in skiena) - Search
@@ -85,62 +85,62 @@
 
 
 
-- [[_refs/02 algorithms/kt.pdf#page=287|kt, 6.3 Segmented Least Squares: Multi-way Choices]]
+- [[_secondary/02 algorithms/kt.pdf#page=287|kt, 6.3 Segmented Least Squares: Multi-way Choices]]
 	- multi-way choices
-- [[_refs/01 competitive programming/epi.pdf#page=314&offset=-115,647,0|epi, Dynamic programming boot camp]]
+- [[_secondary/01 competitive programming/epi.pdf#page=314&offset=-115,647,0|epi, Dynamic programming boot camp]]
 	- caching
 	- recycling cache space
 	- 'make choices'
 	- counting problems
 	- decision problems
-- [[_refs/02 algorithms/clrs.pdf#page=385|clrs, 14.1 Rod cutting]]
+- [[_secondary/02 algorithms/clrs.pdf#page=385|clrs, 14.1 Rod cutting]]
 	- optimal substructure
 	- time-memory tradeoff
 	- top-down
 	- memoization
 	- bottom-up
 	- subproblem graph
-- [[_refs/02 algorithms/clrs.pdf#page=404|clrs, 14.3 Elements of dynamic programming]]
+- [[_secondary/02 algorithms/clrs.pdf#page=404|clrs, 14.3 Elements of dynamic programming]]
 	- really good explanation of optimal substructure, overlapping subproblems, 
-- [[_refs/02 algorithms/skiena.pdf#page=354|skiena, 10.9.1 When is Dynamic Programming Correct?]]
+- [[_secondary/02 algorithms/skiena.pdf#page=354|skiena, 10.9.1 When is Dynamic Programming Correct?]]
 	- principle of optimality
 	- state
 	- partial solution
-- [[_refs/02 algorithms/skiena.pdf#page=321|skiena, Chapter 10 Dynamic Programming]]
+- [[_secondary/02 algorithms/skiena.pdf#page=321|skiena, Chapter 10 Dynamic Programming]]
 	- consequences
 	- caching
-	- [[_refs/02 algorithms/skiena.pdf#page=323|skiena, 10.1.2 Fibonacci Numbers by Caching]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=323|skiena, 10.1.2 Fibonacci Numbers by Caching]]
 		- memoization
 		- caching (or tabling)
-	- [[_refs/02 algorithms/skiena.pdf#page=329|skiena, 10.2.1 Edit Distance by Recursion]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=329|skiena, 10.2.1 Edit Distance by Recursion]]
 		- the recursion branches three ways
-	- [[_refs/02 algorithms/skiena.pdf#page=332|skiena, 10.2.3 Reconstructing the Path]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=332|skiena, 10.2.3 Reconstructing the Path]]
 		- wait this is very important..aka reconstructing the solution is actually a very general procedure
 			- this was mentioned by other resources as well
-				- ie [[_refs/unfiled/nutshell.pdf#page=183&selection=36,0,61,62|nutshell, page 183]]
+				- ie [[_secondary/_unfiled/nutshell.pdf#page=183&selection=36,0,61,62|nutshell, page 183]]
 				- and there was another i swear...
-	- [[_refs/02 algorithms/skiena.pdf#page=355|skiena, 10.9.2 When is Dynamic Programming Efficient?]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=355|skiena, 10.9.2 When is Dynamic Programming Efficient?]]
 		- size of the state space
 		- combinatorial objects
-- [[_refs/02 algorithms/dpv.pdf#page=167|dpv, 6 Dynamic programming]]
+- [[_secondary/02 algorithms/dpv.pdf#page=167|dpv, 6 Dynamic programming]]
 	- algorithmic paradigm
 	- implicit dag
 		- nodes are subproblems
 		- edges are dependencies
 			- if to solve subproblem B we need the answer to subproblem A, then there is a (conceptual) edge from A to B
 			- ie A is a smaller subproblem than B
-	- [[_refs/02 algorithms/dpv.pdf#page=174&selection=266,0,266,18|dpv, page 174]]
+	- [[_secondary/02 algorithms/dpv.pdf#page=174&selection=266,0,266,18|dpv, page 174]]
 		- underlying dag structure
-	- [[_refs/02 algorithms/dpv.pdf#page=176&selection=6,0,6,18|dpv, page 176]]
+	- [[_secondary/02 algorithms/dpv.pdf#page=176&selection=6,0,6,18|dpv, page 176]]
 		- common subproblems
-	- [[_refs/02 algorithms/dpv.pdf#page=180&selection=6,0,6,11|dpv, page 180]]
+	- [[_secondary/02 algorithms/dpv.pdf#page=180&selection=6,0,6,11|dpv, page 180]]
 		- dpv say memoization is NOT dynamic programming
 			- but most other authors seem to say that memoization is a type of DP
-	- [[_refs/02 algorithms/dpv.pdf#page=186&selection=1,0,6,18|dpv, page 186]]
+	- [[_secondary/02 algorithms/dpv.pdf#page=186&selection=1,0,6,18|dpv, page 186]]
 		- memory can be released
-- [[_refs/01 competitive programming/cses2.pdf#page=82&offset=-3,136|cses2, 6.2.4 From Permutations to Subsets]]
+- [[_secondary/01 competitive programming/cses2.pdf#page=82&offset=-3,136|cses2, 6.2.4 From Permutations to Subsets]]
 	- can also think of dp as turning 'permutations' into 'subsets '
-- [[_refs/02 algorithms/clrs.pdf#page=439|clrs, 15 Greedy Algorithms]]
+- [[_secondary/02 algorithms/clrs.pdf#page=439|clrs, 15 Greedy Algorithms]]
 	- optimization problem
 	- sequence of steps
 	- set of choices at each step
@@ -160,11 +160,11 @@
 
 # #greedy
 - EPI seems to consider them 'greedy' algorithms...but for various reasons, either consensus or me disagrees
-	- [[_refs/01 competitive programming/epi.pdf#page=352&offset=-115,373,0|epi, 18.7 Compute the maximum water trapped by a pair of vertical lines]]
+	- [[_secondary/01 competitive programming/epi.pdf#page=352&offset=-115,373,0|epi, 18.7 Compute the maximum water trapped by a pair of vertical lines]]
 		- this is [[LeetCode/11. Container With Most Water|11. Container With Most Water]]
-	- [[_refs/01 competitive programming/epi.pdf#page=354&offset=-115,505,0|epi, 18.8 Compute the largest rectangle under the skyline]]
+	- [[_secondary/01 competitive programming/epi.pdf#page=354&offset=-115,505,0|epi, 18.8 Compute the largest rectangle under the skyline]]
 		- this is [[LeetCode/84. Largest Rectangle in Histogram|84. Largest Rectangle in Histogram]]
-	- [[_refs/01 competitive programming/epi.pdf#page=350&offset=-115,417,0|epi, 18.6 The gasup problem]]
+	- [[_secondary/01 competitive programming/epi.pdf#page=350&offset=-115,417,0|epi, 18.6 The gasup problem]]
 		- this is [[LeetCode/134. Gas Station|134. Gas Station]]
 		- this didn't feel 'greedy' to me
 
@@ -177,17 +177,17 @@
 
 - finding greedy problems on neetcode
 	- examples provided by texts (aka likely the classic problems)
-	- [[_refs/02 algorithms/skiena.pdf#page=361&selection=6,0,6,17|skiena, page 361]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=361&selection=6,0,6,17|skiena, page 361]]
 	- 
 
 
 - both clrs and dpv describe greedy in very specific terms, as building up solutions by piece from subproblems
-	- [[_refs/02 algorithms/dpv.pdf#page=138|dpv, 5 Greedy algorithms]]
+	- [[_secondary/02 algorithms/dpv.pdf#page=138|dpv, 5 Greedy algorithms]]
 	- kt does not
 		- "It is hard, if not impossible, to define precisely what is meant by a greedy algorithm."
 	- so i think 'greedy algo' kinda depends on what ppl mean...seems there are ppl who take a very general/broad/loose definition for it
 	- imo, use the definition in clrs/dpv...it's more helpful to be more specific about it imo
-- [[_refs/02 algorithms/kt.pdf#page=141|kt, 4 Greedy Algorithms]]
+- [[_secondary/02 algorithms/kt.pdf#page=141|kt, 4 Greedy Algorithms]]
 	- some of the phrases here are interesting, and i do want to use it
 		- "When a greedy algorithm succeeds in solving a nontrivial problem opti- mally, it typically implies something interesting and useful about the structure of the problem itself; there is a local decision rule that one can use to con- struct optimal solutions."
 	- but i don't want to use them to describe greedy
@@ -195,9 +195,9 @@
 
 - the reputable cp resources seem to agree with ctci
 	- ie
-		- [[_refs/01 competitive programming/sannemo2018.pdf#page=153&offset=72,537.222|sannemo2018, Greedy Algorithms]]
-		- [[_refs/01 competitive programming/halim1.pdf#page=185|halim1, 3.4 Greedy]]
-		- [[_refs/01 competitive programming/cses1.pdf#page=67&offset=93.543,756.85|cses1, Greedy algorithms]]
+		- [[_secondary/01 competitive programming/sannemo2018.pdf#page=153&offset=72,537.222|sannemo2018, Greedy Algorithms]]
+		- [[_secondary/01 competitive programming/halim1.pdf#page=185|halim1, 3.4 Greedy]]
+		- [[_secondary/01 competitive programming/cses1.pdf#page=67&offset=93.543,756.85|cses1, Greedy algorithms]]
 	- conclusions
 		- greedy has a very specific definition, and is typically difficult to prove correctness
 			- if you can prove connectness: it's typically done similar to the standard 'greedy algo' examples
@@ -209,14 +209,14 @@
 - ohhhhhh
 	- epi combines greedy and invariants into one section
 		- so a lot of times when consensus says 'greedy'...likely the better word is 'invariant'
-			- [[_refs/01 competitive programming/epi.pdf#page=346&offset=-115,403,0|epi, Invariants]]
+			- [[_secondary/01 competitive programming/epi.pdf#page=346&offset=-115,403,0|epi, Invariants]]
 			- aka something about the structure of the problem!
 
 
 
 - i'm trying to find a leetcode problem that is 'greedy' via essentially asking me to code a 'furthest in future' cache
 	- clrs mentions that there are ways to rephrase this problem, ie
-		- [[_refs/02 algorithms/clrs.pdf#page=463&selection=184,0,241,63|clrs, page 463]]
+		- [[_secondary/02 algorithms/clrs.pdf#page=463&selection=184,0,241,63|clrs, page 463]]
 
 
 
@@ -229,12 +229,12 @@
 
 - epi:
 	- lots of two pointer stuff seems to be in 'greedy', see above
-	- also see [[_refs/01 competitive programming/epi.pdf#page=218&offset=0,648|epi, 13 Hash Tables]]
+	- also see [[_secondary/01 competitive programming/epi.pdf#page=218&offset=0,648|epi, 13 Hash Tables]]
 
 - actually it seems it's robin-karp
 	- the specific terminology that halim and sannemo seem to use is 'rolling'
-		- [[_refs/01 competitive programming/sannemo2018.pdf#page=256&selection=296,0,301,1|sannemo2018, page 256]]
-		- [[_refs/01 competitive programming/halim2.pdf#page=91|halim2, 6.6.2 Rolling Hash]]
+		- [[_secondary/01 competitive programming/sannemo2018.pdf#page=256&selection=296,0,301,1|sannemo2018, page 256]]
+		- [[_secondary/01 competitive programming/halim2.pdf#page=91|halim2, 6.6.2 Rolling Hash]]
 		- 
 	- neither of them have 'two-pointer' sections
 		- they just put these within 'string' algorithms
@@ -251,13 +251,13 @@
 
 
 - refs for kmp
-	- [[_refs/02 algorithms/sedgewick.pdf#page=771|sedgewick, 5.3 Substring Search]]
-	- [[_refs/02 algorithms/skiena.pdf#page=693&selection=149,0,149,37|skiena, page 693]]
+	- [[_secondary/02 algorithms/sedgewick.pdf#page=771|sedgewick, 5.3 Substring Search]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=693&selection=149,0,149,37|skiena, page 693]]
 
 
 - it seems that string algo theory are going to be fundamental examples of my two-pointer/iteration fundeez
 	- ie rabin-karp is #iteration/for_subroutine 
-		- [[_refs/02 algorithms/sedgewick.pdf#page=788&selection=42,0,52,0|sedgewick, page 788]]
+		- [[_secondary/02 algorithms/sedgewick.pdf#page=788&selection=42,0,52,0|sedgewick, page 788]]
 		- another wording of fundy/generalization: what i mean by 'iteration for subroutine': if your search space consists of things that are like 'collections', and these collections have significant 'overlap' (importantly..'adjacent collections' essentially overlap everywhere except in like 1 or 2 spots); and if the reason you care about these collections is you use them to compute a value...then you might not need to recompute the value every time..ie can very easily compute value of one collection using value of adjacent collection. see gas station, and also one of those 'substring search' problems
 
 
@@ -305,14 +305,14 @@ find more supposed 2 pointer problems:
 
 
 
-- [[_refs/02 algorithms/skiena.pdf#page=238|adm, 7.9 Applications of Depth-First Search]]
+- [[_secondary/02 algorithms/skiena.pdf#page=238|adm, 7.9 Applications of Depth-First Search]]
 	- skiena's traversal template assumes that we only want to process an edge once
 		- (cite the yt lectures)
 		- this is why it's important to know if we've already traversed edge (x,y)
 		- iirc..some algos even: there is an 'error' if you see the edge again
 			- confirm whether this is what the 2 coloring discusses:
-				- [[_refs/02 algorithms/skiena.pdf#page=233|adm, 7.7.2 Two-Coloring Graphs]]
-	- [[_refs/02 algorithms/skiena.pdf#page=238&selection=109,32,133,1|adm, page 238]]
+				- [[_secondary/02 algorithms/skiena.pdf#page=233|adm, 7.7.2 Two-Coloring Graphs]]
+	- [[_secondary/02 algorithms/skiena.pdf#page=238&selection=109,32,133,1|adm, page 238]]
 		- "But what if y is an ancestor of x, and thus in a discovered state..."
 		- to understand this, need to understand his dfs template
 			- need to understand basic C syntax; i put this somewhere...
@@ -342,7 +342,7 @@ find more supposed 2 pointer problems:
 
 
 ### #graphs/traversal/dfs 
-- [[_refs/02 algorithms/clrs.pdf#page=585|clrs, 20.3 Depth-first search]]
+- [[_secondary/02 algorithms/clrs.pdf#page=585|clrs, 20.3 Depth-first search]]
 
 
 
@@ -350,7 +350,7 @@ find more supposed 2 pointer problems:
 
 
 ## #graphs/edge_classification 
-- [[_refs/02 algorithms/clrs.pdf#page=591&selection=388,0,392,5|clrs, page 591, classification of edges]]
+- [[_secondary/02 algorithms/clrs.pdf#page=591&selection=388,0,392,5|clrs, page 591, classification of edges]]
 
 
 
@@ -403,7 +403,7 @@ find more supposed 2 pointer problems:
 ## #trees/traversal 
 
 - predecessor, successor
-	- [[_refs/02 algorithms/clrs.pdf#page=340&selection=207,0,211,11|clrs, page 340]]
+	- [[_secondary/02 algorithms/clrs.pdf#page=340&selection=207,0,211,11|clrs, page 340]]
 
 
 
@@ -419,10 +419,10 @@ find more supposed 2 pointer problems:
 
 https://pymotw.com/3/collections/counter.html
 
-- [[_refs/unfiled/_markdown examples/python-counter|python-counter]]
-	- [[_refs/unfiled/_markdown examples/python-counter#Counting Objects in Python|counting with dict and defaultdict]]
-	- [[_refs/unfiled/_markdown examples/python-counter#Constructing Counters|feeding iterable into counter]]
-	- [[_refs/unfiled/_markdown examples/python-counter#Subtracting the Elements' Multiplicity|subtracting multiplicity]]
+- [[!assets/templates/python-counter|python-counter]]
+	- [[!assets/templates/python-counter#Counting Objects in Python|counting with dict and defaultdict]]
+	- [[!assets/templates/python-counter#Constructing Counters|feeding iterable into counter]]
+	- [[!assets/templates/python-counter#Subtracting the Elements' Multiplicity|subtracting multiplicity]]
 
 
 
@@ -437,14 +437,14 @@ https://pymotw.com/3/collections/counter.html
 
 # assorted
 - trailing pointer
-	- [[_refs/02 algorithms/clrs.pdf#page=343&selection=389,0,392,6|clrs, page 343]]
+	- [[_secondary/02 algorithms/clrs.pdf#page=343&selection=389,0,392,6|clrs, page 343]]
 
 
 
-- [[_refs/02 algorithms/skiena.pdf#page=51|adm, 2.2 The Big Oh Notation]]
-- [[_refs/02 algorithms/skiena.pdf#page=63|adm, 2.6 Summations]]
+- [[_secondary/02 algorithms/skiena.pdf#page=51|adm, 2.2 The Big Oh Notation]]
+- [[_secondary/02 algorithms/skiena.pdf#page=63|adm, 2.6 Summations]]
 	- through 2.8
-- [[_refs/02 algorithms/skiena.pdf#page=146|adm, 4.6 Quicksort: Sorting by Randomization]]
+- [[_secondary/02 algorithms/skiena.pdf#page=146|adm, 4.6 Quicksort: Sorting by Randomization]]
 - clrs
 	- 2
 		- sorting jargon (p 17-18)
@@ -471,7 +471,7 @@ https://pymotw.com/3/collections/counter.html
 	- 20.3 dfs
 	- 14.1, 14.3 dp
 - knuth
-	- [6.2.1 searching an ordered table](_refs/02%20algorithms/taocp%203.pdf#page=427&annotation=5576R)
-		- [variation](_refs/02%20algorithms/taocp%203.pdf#page=432&selection=51,0,51,23)
+	- [6.2.1 searching an ordered table](_secondary/02%20algorithms/taocp%203.pdf#page=427&annotation=5576R)
+		- [variation](_secondary/02%20algorithms/taocp%203.pdf#page=432&selection=51,0,51,23)
 
 
