@@ -1,3 +1,27 @@
+# sources of problem recs
+- lc influencers
+	- (even though they're not experts, it's a starting point that's more than good enough and absurdly convenient)
+	- [neetcode150](https://neetcode.io/practice)
+	- [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
+- specific companies
+	- (find the chinese forums, probly the best resource for this)
+- lc official
+	- "top interview questions"
+		- https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+	- problems in 'similar recs' of what i've solved, and seem valuable
+	- category/concept lists
+- experts
+	- (halim/takeUforward/usaco/cses/codeforces blogs/epi/skiena/clrs/etc)
+	- classics/patterns/fundeez mentioned by texts
+	- lc versions of suggested uva/kattis/codeforces/etc problems
+		- find an easier version if far more difficult than swe interview
+- lc community consensus
+	- famous problems
+	- liked problems
+- searching myself
+	- filling in fundeez that i feel should are not well targeted/addressed
+
+
 # reviewed
 ## Arrays & Hashing (neetcode)
 1. [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
@@ -232,10 +256,32 @@
 167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
 
 
+## Matrix (grind75)
+212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
+
+## Trie (grind75)
+210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
+
+## Queue (grind75)
+213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
+
 
 # todo
 
 
+## Binary Search Tree (grind75)
+196. [108. Convert Sorted Array to Binary Search Tree](108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+197. [285. Inorder Successor in BST](285.%20Inorder%20Successor%20in%20BST.md)
+
+
+## Binary (grind75)
+203. [67. Add Binary](67.%20Add%20Binary.md)
+
+
+## Math (grind75)
+204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
+205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
+206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
 
 
 ## Math & Geometry (neetcode)
@@ -249,12 +295,6 @@
 143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
 
 
-## Math (grind75)
-204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
-205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
-206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
-
-
 ## Bit Manipulation (neetcode)
 144. [136. Single Number](136.%20Single%20Number.md)
 145. [191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
@@ -263,13 +303,6 @@
 148. [268. Missing Number](268.%20Missing%20Number.md)
 149. [371. Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
 150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
-
-
-
-## Binary (grind75)
-203. [67. Add Binary](67.%20Add%20Binary.md)
-
-
 
 ## Linked List (grind75)
 168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
@@ -290,37 +323,27 @@
 186. [863. All Nodes Distance K in Binary Tree](863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
 
 
-## Binary Search Tree (grind75)
-196. [108. Convert Sorted Array to Binary Search Tree](108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
-197. [285. Inorder Successor in BST](285.%20Inorder%20Successor%20in%20BST.md)
 
 
 
-## Matrix (grind75)
-212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
+## lc official recs
+- 
 
-## Trie (grind75)
-210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
 
-## Queue (grind75)
-213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
+## 'similar questions'
+- [[471. Encode String with Shortest Length]]
 
 
 
-
-# LeetCode
-
-
-
-
-# fundy fillers
+## fundy fillers
 - next greatest element
 	- for monotone stack
 
 
-# famous problems
-(usually bc very difficult)
+## halim/epi/etc
+- 
 
+## famous problems
 
 - [410. Split Array Largest Sum](LeetCode/410.%20Split%20Array%20Largest%20Sum.md)
 	- binary search
@@ -334,40 +357,17 @@
 - [2203. Minimum Weighted Subgraph With the Required Paths](2203.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.md)
 
 
+## liked problems
+- 
 
+## company
 
-## 'similar questions'
-- [[471. Encode String with Shortest Length]]
+### google
+- 
+### apple
+- 
 
-
-
-
-# Meta
-- not all of the above have notes
-	- most of the above have incredibly messy notes
-	- check repo commits to see current progress
-
-- order
-	- starts with [neetcode150](https://neetcode.io/practice)
-	- then continues with [grind169 (sorted by topic, then difficulty)](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
-	- then tbd
-		- imo: priority is filling in fundies that imo are not well addressed by the above 2 lists
-		- at some point: leetcode official stuff, like 'leetcode top interview 150'
-			- lc official list: "top interview questions"
-				- https://leetcode.com/explore/interview/card/top-interview-questions-easy/
-			- official leetcode lists
-		- random famous (hard) problems
-
-
-
-
-
-![](../!assets/attachments/duckthumbsup.jpg)  
-
-
-
-
-![](../!assets/attachments/massiveHmmm.jpeg)
-
+### linkedin
+- 
 
 

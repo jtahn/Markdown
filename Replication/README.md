@@ -4,7 +4,7 @@
 - https://www.image-net.org/download-images.php
 
 
-# replication inspo
+# replication inspo/priority
 (in order)
 
 ## courses
@@ -16,7 +16,18 @@
 	- cmu 11-755 (ml for dsp)
 
 ## job postings
+- [Job Application for Resident at Anthropic](https://boards.greenhouse.io/anthropic/jobs/4019511008)
+	- Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole.
+	- You might be a fit if you:
+		- Are deeply curious about machine learning, especially large models, scaling laws, circuits-style interpretability, and human feedback.
+		- Care about how machine learning affects society and about making AI safe.
+		- Have a strong understanding of python, linear algebra, and calculus. 
+		- Understand fundamental deep learning concepts and be able to implement them. Has likely done significant self-study, side projects, or a course related to deep learning.
+		- Are results-oriented, with a bias towards flexibility and impact.
+		- Have significant research or software engineering experience.
+	- The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
 - [Job Application for Research Engineer at Anthropic](https://boards.greenhouse.io/anthropic/jobs/4019739008)
+	- You want to build large scale ML systems from the ground up. You care about making safe, steerable, trustworthy systems. As a Research Engineer, you'll touch all parts of our code and infrastructure, whether that's making the cluster more reliable for our big jobs, improving throughput and efficiency, running and designing scientific experiments, or improving our dev tooling. You're excited to write code when you understand the research context and more broadly why it's important.
 	- Strong candidates may also have experience with:
 		- High performance, large-scale ML systems
 		- GPUs, Kubernetes, Pytorch, or OS internals
@@ -30,6 +41,14 @@
 		- Scaling a distributed training job to thousands of GPUs
 		- Writing a design doc for fault tolerance strategies
 		- Creating an interactive visualization of attention between tokens in a language model
+- [Job Application for Software Engineer at Anthropic](https://boards.greenhouse.io/anthropic/jobs/4020354008)
+	- (all of the above, as well as)
+	- Strong candidates may also have experience with:
+		- Security and privacy best practice expertise
+		- Machine learning infrastructure like GPUs, TPUs, or Trainium, as well as supporting networking infrastructure like NCCL
+		- Low level systems, for example linux kernel tuning and eBPF 
+		- Technical expertise: Quickly understanding systems design tradeoffs, keeping track of rapidly evolving software systems
+
 
 ## career advice posts
 - https://80000hours.org/career-reviews/ai-safety-researcher/#basic-machine-learning

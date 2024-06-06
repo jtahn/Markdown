@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "080330c624129791",
+            "id": "5766ee8dc0ceef28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e317051132965e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/32. Longest Valid Parentheses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dynamic_programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/32. Longest Valid Parentheses.md"
+                "file": "LeetCode/README.md"
               }
             }
           },
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/32. Longest Valid Parentheses.md",
+                "file": "LeetCode/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/32. Longest Valid Parentheses.md",
+                "file": "LeetCode/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,53 +160,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e317051132965e5d",
+  "active": "5766ee8dc0ceef28",
   "lastOpenFiles": [
+    "LeetCode/362. Design Hit Counter.md",
+    "__private/Drafts/_memos.md",
     "LeetCode/README.md",
     "Replication/1. fastai.md",
-    "__private/Drafts/_curriculum.md",
-    "_secondary/01 competitive programming/halim1.pdf",
-    "!assets/attachments/massiveHmmm.jpeg",
-    "LeetCode/224. Basic Calculator.md",
-    "LeetCode/32. Longest Valid Parentheses.md",
-    "LeetCode/895. Maximum Frequency Stack.md",
-    "Replication/2. fastai 2.md",
-    "Replication/README.md",
-    "Replication/ViT.md",
-    "Replication/DCGAN.md",
-    "_papers/radford2016.pdf",
-    "_websites/jobs/deepmind - research engineer.html",
-    "_websites/jobs/arthropic - resident.html",
-    "_websites/jobs/arthropic - research engineer.html",
-    "_websites/jobs/arthropic - software engineer.html",
-    "_websites/jobs/microsoft - AI senior researcher.html",
-    "_websites/jobs/microsoft - AI research intern.html",
-    "_websites/jobs/apple - ML researcher.html",
-    "_websites/jobs/apple - ML engineer.html",
-    "__private/Drafts/todo, study plan.md",
+    "LeetCode/588. Design In-Memory File System.md",
+    "LeetCode/37. Sudoku Solver.md",
+    "_secondary/_unfiled/anton2013 - leontief economic models.pdf",
+    "_secondary/08 ai/d2l.pdf",
+    "_secondary/08 ai/mml.pdf",
+    "_secondary/00 degree math/anton2019.pdf",
+    "_secondary/00 degree math/anton2013.pdf",
+    "_secondary/00 degree math/halmos1995.pdf",
+    "_secondary/00 degree math/hk1971.pdf",
+    "_secondary/00 degree math/halmos1958.pdf",
+    "_secondary/00 degree math/rosen.pdf",
+    "_secondary/00 degree math/lovasz.pdf",
     "_courses/README.md",
-    "Replication/MLP on MNIST.md",
-    "__private/Drafts/_memos.md",
-    "Replication/adversarial-ml-tutorial.org.md",
-    "README.md",
-    "!assets/templates/python-counter.md",
-    "!assets/attachments/HUHrabbit.gif",
-    "!assets/attachments/duckthumbsup.jpg",
-    "!assets/attachments/clappingbear.gif",
-    "_orphaned.md",
-    "orphaned files output.md",
-    "Replication/Inception-v3.md",
+    "Replication/ULMFiT.md",
+    "Replication/ViT.md",
     "Replication/U-Net.md",
-    "Replication/Inception.md",
+    "Replication/Transformer.md",
     "Replication/ResNet.md",
-    "__private/Drafts/_thesis.md",
-    "Replicat/README.md",
-    "Replicat/1409.4842 Inception.md",
-    "_courses/_unfiled/course-map-2019.png",
-    "_courses/_unfiled/16-720-s24-schedule.png",
-    "_courses/_unfiled/AIML course menu.png",
-    "!assets/attachments/Pasted image 20240529013931.png",
-    "!assets/attachments/Pasted image 20240529013922.png",
-    "!assets/attachments/Pasted image 20240528174043.png"
+    "Replication/README.md",
+    "Replication/MLP on MNIST.md",
+    "Replication/Inception-v3.md",
+    "Replication/Inception.md",
+    "Replication/DCGAN.md",
+    "Replication/Bahdanau Attention.md",
+    "Replication/Seq2seq.md",
+    "LeetCode/32. Longest Valid Parentheses.md",
+    "README.md",
+    "LeetCode/895. Maximum Frequency Stack.md",
+    "!assets/attachments/IMG_2884.jpg",
+    "!assets/attachments/IMG_2884.png",
+    "!assets/attachments/Screenshot 2023-09-20 at 2.58.31 PM.jpg",
+    "!assets/attachments/grin.jpg",
+    "!assets/attachments/uhh.jpg",
+    "!assets/attachments/yogi crazy.jpg",
+    "!assets/attachments/crying laughing facepalm hi rez.png",
+    "!assets/attachments/lethimcook.png",
+    "!assets/attachments/excited.png",
+    "!assets/attachments/HUH-TMNT.png",
+    "__private/Drafts/_setup.md",
+    "__private/Drafts/_curriculum.md",
+    "LeetCode/224. Basic Calculator.md"
   ]
 }
