@@ -3,7 +3,7 @@
 - [replication](Replication/README.md)
 
 
-# yogi
+# yogi DOGE
 
 ![yogi crazy](!assets/attachments/yogi%20crazy.jpg)
 ![uhh](!assets/attachments/uhh.jpg)

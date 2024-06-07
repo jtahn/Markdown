@@ -10,13 +10,15 @@
           {
             "id": "4191d3d12aee1bdc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Replication/1. fastai.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -120,7 +122,7 @@
               "type": "backlink",
               "state": {
                 "file": "LeetCode/README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -162,10 +164,17 @@
   },
   "active": "5766ee8dc0ceef28",
   "lastOpenFiles": [
-    "LeetCode/362. Design Hit Counter.md",
-    "__private/Drafts/_memos.md",
+    "LeetCode/528. Random Pick with Weight.md",
+    "_websites/_unfiled/Random Pick with Weight - LeetCode (6_7_2024 1_10_20 AM).html",
+    "_websites/_unfiled/Darts, Dice, and Coins (6_7_2024 1_03_54 AM).html",
     "LeetCode/README.md",
     "Replication/1. fastai.md",
+    "LeetCode/285. Inorder Successor in BST.md",
+    "__private/Drafts/_onetab.md",
+    "README.md",
+    "LeetCode/108. Convert Sorted Array to Binary Search Tree.md",
+    "LeetCode/362. Design Hit Counter.md",
+    "__private/Drafts/_memos.md",
     "LeetCode/588. Design In-Memory File System.md",
     "LeetCode/37. Sudoku Solver.md",
     "_secondary/_unfiled/anton2013 - leontief economic models.pdf",
@@ -176,8 +185,6 @@
     "_secondary/00 degree math/halmos1995.pdf",
     "_secondary/00 degree math/hk1971.pdf",
     "_secondary/00 degree math/halmos1958.pdf",
-    "_secondary/00 degree math/rosen.pdf",
-    "_secondary/00 degree math/lovasz.pdf",
     "_courses/README.md",
     "Replication/ULMFiT.md",
     "Replication/ViT.md",
@@ -192,8 +199,6 @@
     "Replication/Bahdanau Attention.md",
     "Replication/Seq2seq.md",
     "LeetCode/32. Longest Valid Parentheses.md",
-    "README.md",
-    "LeetCode/895. Maximum Frequency Stack.md",
     "!assets/attachments/IMG_2884.jpg",
     "!assets/attachments/IMG_2884.png",
     "!assets/attachments/Screenshot 2023-09-20 at 2.58.31 PM.jpg",
@@ -203,9 +208,6 @@
     "!assets/attachments/crying laughing facepalm hi rez.png",
     "!assets/attachments/lethimcook.png",
     "!assets/attachments/excited.png",
-    "!assets/attachments/HUH-TMNT.png",
-    "__private/Drafts/_setup.md",
-    "__private/Drafts/_curriculum.md",
-    "LeetCode/224. Basic Calculator.md"
+    "!assets/attachments/HUH-TMNT.png"
   ]
 }

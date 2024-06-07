@@ -3,6 +3,9 @@
 	- (even though they're not experts, it's a starting point that's more than good enough and absurdly convenient)
 	- [neetcode150](https://neetcode.io/practice)
 	- [grind169](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&mode=all&grouping=topics&order=difficulty)
+		- maybe email the guy and ask if he still has a list of all the questions from combined influencers + whatever spreadsheet he used where he looked at 'top 200 questions along each dim'
+			- https://www.techinterviewhandbook.org/grind75/faq
+				- An initial pool of questions were taken from Blind 75, Sean Prashad's LeetCode Patterns, questions in Elements of Programming Interviews and a few other resources related to coding interview patterns. Next I looked at all the LeetCode questions and sorted them by popularity, frequency, companies, likes rating, topics covered, etc, and looked at the top 200 hundred questions for each dimension to identify if there were questions worth adding into the new pool of questions.
 - specific companies
 	- (find the chinese forums, probly the best resource for this)
 - lc official
@@ -266,7 +269,6 @@
 213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
 
 
-# todo
 
 
 ## Binary Search Tree (grind75)
@@ -282,6 +284,9 @@
 204. [13. Roman to Integer](13.%20Roman%20to%20Integer.md)
 205. [9. Palindrome Number](9.%20Palindrome%20Number.md)
 206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
+
+
+# todo
 
 
 ## Math & Geometry (neetcode)
