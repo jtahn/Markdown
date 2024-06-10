@@ -9,5 +9,6 @@
   "showLineNumber": true,
   "mobilePullAction": "",
   "showUnsupportedFiles": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "focusNewTab": false
 }

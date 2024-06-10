@@ -25,7 +25,7 @@
 	- filling in fundeez that i feel should are not well targeted/addressed
 
 
-# reviewed
+# reviewed (185/213)
 ## Arrays & Hashing (neetcode)
 1. [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
 2. [242. Valid Anagram](242.%20Valid%20Anagram.md)
@@ -193,6 +193,13 @@
 134. [253. Meeting Rooms II](253.%20Meeting%20Rooms%20II.md)
 135. [1851. Minimum Interval to Include Each Query](1851.%20Minimum%20Interval%20to%20Include%20Each%20Query.md)
 
+
+
+
+
+
+
+
 ## Array (grind75)
 151. [169. Majority Element](169.%20Majority%20Element.md)
 152. [283. Move Zeroes](283.%20Move%20Zeroes.md)
@@ -203,49 +210,6 @@
 157. [560. Subarray Sum Equals K](560.%20Subarray%20Sum%20Equals%20K.md)
 158. [16. 3Sum Closest](16.%203Sum%20Closest.md)
 159. [759. Employee Free Time](759.%20Employee%20Free%20Time.md)
-
-## String (grind75)
-174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
-175. [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
-176. [8. String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
-177. [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
-178. [179. Largest Number](179.%20Largest%20Number.md)
-179. [336. Palindrome Pairs](336.%20Palindrome%20Pairs.md)
-
-## Heap (grind75)
-207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
-208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
-209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
-
-## Binary Search (grind75)
-187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
-188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
-
-
-## Hash Table (grind75)
-198. [383. Ransom Note](383.%20Ransom%20Note.md)
-199. [380. Insert Delete GetRandom O(1)](380.%20Insert%20Delete%20GetRandom%20O(1).md)
-200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
-
-
-## Dynamic Programming (grind75)
-201. [221. Maximal Square](221.%20Maximal%20Square.md)
-202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
-
-## Recursion (grind75)
-211. [31. Next Permutation](31.%20Next%20Permutation.md)
-
-
-
-
-## Graph (grind75)
-189. [733. Flood Fill](733.%20Flood%20Fill.md)
-190. [542. 01 Matrix](542.%2001%20Matrix.md)
-191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
-192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
-193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
-194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
-195. [815. Bus Routes](815.%20Bus%20Routes.md)
 
 
 ## Stack (grind75)
@@ -259,14 +223,37 @@
 167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
 
 
-## Matrix (grind75)
-212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
 
-## Trie (grind75)
-210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
 
-## Queue (grind75)
-213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
+## String (grind75)
+174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
+175. [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
+176. [8. String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
+177. [438. Find All Anagrams in a String](LeetCode/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+178. [179. Largest Number](179.%20Largest%20Number.md)
+179. [336. Palindrome Pairs](336.%20Palindrome%20Pairs.md)
+
+## Binary Tree (grind75)
+180. [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
+181. [236. Lowest Common Ancestor of a Binary Tree](236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
+182. [113. Path Sum II](113.%20Path%20Sum%20II.md)
+183. [662. Maximum Width of Binary Tree](662.%20Maximum%20Width%20of%20Binary%20Tree.md)
+184. [103. Binary Tree Zigzag Level Order Traversal](103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
+185. [437. Path Sum III](437.%20Path%20Sum%20III.md)
+186. [863. All Nodes Distance K in Binary Tree](863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
+
+## Binary Search (grind75)
+187. [278. First Bad Version](278.%20First%20Bad%20Version.md)
+188. [1235. Maximum Profit in Job Scheduling](1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
+
+## Graph (grind75)
+189. [733. Flood Fill](733.%20Flood%20Fill.md)
+190. [542. 01 Matrix](542.%2001%20Matrix.md)
+191. [721. Accounts Merge](721.%20Accounts%20Merge.md)
+192. [310. Minimum Height Trees](310.%20Minimum%20Height%20Trees.md)
+193. [1730. Shortest Path to Get Food](1730.%20Shortest%20Path%20to%20Get%20Food.md)
+194. [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves.md)
+195. [815. Bus Routes](815.%20Bus%20Routes.md)
 
 
 
@@ -274,6 +261,19 @@
 ## Binary Search Tree (grind75)
 196. [108. Convert Sorted Array to Binary Search Tree](108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 197. [285. Inorder Successor in BST](285.%20Inorder%20Successor%20in%20BST.md)
+
+
+
+
+## Hash Table (grind75)
+198. [383. Ransom Note](383.%20Ransom%20Note.md)
+199. [380. Insert Delete GetRandom O(1)](380.%20Insert%20Delete%20GetRandom%20O(1).md)
+200. [41. First Missing Positive](41.%20First%20Missing%20Positive.md)
+
+
+## Dynamic Programming (grind75)
+201. [221. Maximal Square](221.%20Maximal%20Square.md)
+202. [377. Combination Sum IV](377.%20Combination%20Sum%20IV.md)
 
 
 ## Binary (grind75)
@@ -286,18 +286,40 @@
 206. [528. Random Pick with Weight](528.%20Random%20Pick%20with%20Weight.md)
 
 
+## Heap (grind75)
+207. [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
+208. [658. Find K Closest Elements](658.%20Find%20K%20Closest%20Elements.md)
+209. [632. Smallest Range Covering Elements from K Lists](632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
+
+## Trie (grind75)
+210. [588. Design In-Memory File System](588.%20Design%20In-Memory%20File%20System.md)
+
+
+## Recursion (grind75)
+211. [31. Next Permutation](31.%20Next%20Permutation.md)
+
+
+
+## Matrix (grind75)
+212. [37. Sudoku Solver](37.%20Sudoku%20Solver.md)
+
+
+## Queue (grind75)
+213. [362. Design Hit Counter](362.%20Design%20Hit%20Counter.md)
+
+
+
 # todo
 
 
-## Math & Geometry (neetcode)
-136. [48. Rotate Image](48.%20Rotate%20Image.md)
-137. [54. Spiral Matrix](54.%20Spiral%20Matrix.md)
-138. [73. Set Matrix Zeroes](73.%20Set%20Matrix%20Zeroes.md)
-139. [202. Happy Number](202.%20Happy%20Number.md)
-140. [66. Plus One](66.%20Plus%20One.md)
-141. [50. Pow(x, n)](50.%20Pow(x,%20n).md)
-142. [43. Multiply Strings](43.%20Multiply%20Strings.md)
-143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
+## Linked List (grind75)
+168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
+169. [234. Palindrome Linked List](234.%20Palindrome%20Linked%20List.md)
+170. [24. Swap Nodes in Pairs](24.%20Swap%20Nodes%20in%20Pairs.md)
+171. [328. Odd Even Linked List](328.%20Odd%20Even%20Linked%20List.md)
+172. [148. Sort List](148.%20Sort%20List.md)
+173. [61. Rotate List](61.%20Rotate%20List.md)
+
 
 
 ## Bit Manipulation (neetcode)
@@ -309,24 +331,17 @@
 149. [371. Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
 150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
 
-## Linked List (grind75)
-168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
-169. [234. Palindrome Linked List](234.%20Palindrome%20Linked%20List.md)
-170. [24. Swap Nodes in Pairs](24.%20Swap%20Nodes%20in%20Pairs.md)
-171. [328. Odd Even Linked List](328.%20Odd%20Even%20Linked%20List.md)
-172. [148. Sort List](148.%20Sort%20List.md)
-173. [61. Rotate List](61.%20Rotate%20List.md)
 
 
-## Binary Tree (grind75)
-180. [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
-181. [236. Lowest Common Ancestor of a Binary Tree](236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
-182. [113. Path Sum II](113.%20Path%20Sum%20II.md)
-183. [662. Maximum Width of Binary Tree](662.%20Maximum%20Width%20of%20Binary%20Tree.md)
-184. [103. Binary Tree Zigzag Level Order Traversal](103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
-185. [437. Path Sum III](437.%20Path%20Sum%20III.md)
-186. [863. All Nodes Distance K in Binary Tree](863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
-
+## Math & Geometry (neetcode)
+136. [48. Rotate Image](48.%20Rotate%20Image.md)
+137. [54. Spiral Matrix](54.%20Spiral%20Matrix.md)
+138. [73. Set Matrix Zeroes](73.%20Set%20Matrix%20Zeroes.md)
+139. [202. Happy Number](202.%20Happy%20Number.md)
+140. [66. Plus One](66.%20Plus%20One.md)
+141. [50. Pow(x, n)](50.%20Pow(x,%20n).md)
+142. [43. Multiply Strings](43.%20Multiply%20Strings.md)
+143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
 
 
 
