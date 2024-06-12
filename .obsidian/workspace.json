@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4191d3d12aee1bdc",
+            "id": "97faa46f2249c6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replication/1. fastai.md",
+                "file": "LeetCode/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b304f985a323d6f8",
+            "id": "25110cfca3f0eacd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/103. Binary Tree Zigzag Level Order Traversal.md",
+                "file": "Replication/0. jupyter server via LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ebcdcae0af6f51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Replication/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Replication/1. fastai.md"
+                "file": "LeetCode/README.md"
               }
             }
           },
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Replication/1. fastai.md",
+                "file": "LeetCode/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Replication/1. fastai.md",
+                "file": "LeetCode/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,15 +171,39 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4191d3d12aee1bdc",
+  "active": "97faa46f2249c6e2",
   "lastOpenFiles": [
-    "Replication/0. rs3 bot.md",
-    "LeetCode/103. Binary Tree Zigzag Level Order Traversal.md",
+    "Replication/0. jupyter server via LAN.md",
     "LeetCode/README.md",
     "Replication/1. fastai.md",
+    "Replication/96. MLP on MNIST.md",
+    "Replication/98. Bahdanau Attention.md",
+    "Replication/98. ViT.md",
+    "Replication/98. ULMFiT.md",
+    "Replication/98. U-Net.md",
+    "Replication/98. Transformer.md",
+    "Replication/98. Seq2seq.md",
+    "Replication/98. ResNet.md",
+    "Replication/97. adversarial-ml-tutorial.org.md",
+    "Replication/95. MLP on MNIST.md",
+    "Replication/98. LLaMA.md",
+    "Replication/98. Inception-v3.md",
+    "Replication/98. Inception.md",
+    "Replication/98. DCGAN.md",
+    "Replication/0. jupyter LAN server on windows.md",
+    "Replication/README.md",
+    "Replication/0. setup.md",
+    "!assets/attachments/Pasted image 20240611013354.png",
+    "!assets/attachments/Pasted image 20240611012404.png",
+    "!assets/attachments/Pasted image 20240611012329.png",
+    "!assets/attachments/Pasted image 20240611012146.png",
+    "!assets/attachments/Pasted image 20240611010935.png",
+    "!assets/attachments/Pasted image 20240611002451.png",
+    "!assets/attachments/Pasted image 20240611001632.png",
+    "LeetCode/103. Binary Tree Zigzag Level Order Traversal.md",
+    "Replication/99. rs3 bot.md",
     "LeetCode/101. Symmetric Tree.md",
     "_secondary/08 ai/szeliski.pdf",
-    "Replication/README.md",
     "!assets/attachments/Pasted image 20240609013756.png",
     "Replication/LLaMA.md",
     "_websites/jobs/meta - fair - research scientist.html",
@@ -181,31 +217,7 @@
     "_websites/jobs/Research Engineer - Reality Labs _ Meta Careers (6_7_2024 3_30_03 PM).html",
     "_secondary/README.md",
     "LeetCode/815. Bus Routes.md",
-    "LeetCode/310. Minimum Height Trees.md",
-    "LeetCode/1197. Minimum Knight Moves.md",
-    "LeetCode/224. Basic Calculator.md",
-    "LeetCode/136. Single Number.md",
-    "LeetCode/61. Rotate List.md",
-    "LeetCode/148. Sort List.md",
-    "LeetCode/328. Odd Even Linked List.md",
-    "LeetCode/24. Swap Nodes in Pairs.md",
-    "LeetCode/234. Palindrome Linked List.md",
-    "LeetCode/876. Middle of the Linked List.md",
-    "LeetCode/662. Maximum Width of Binary Tree.md",
-    "LeetCode/113. Path Sum II.md",
-    "LeetCode/236. Lowest Common Ancestor of a Binary Tree.md",
-    "LeetCode/437. Path Sum III.md",
-    "LeetCode/863. All Nodes Distance K in Binary Tree.md",
-    "__private/Drafts/_setup.md",
     "!assets/attachments/Pasted image 20240607024745.png",
-    "LeetCode/528. Random Pick with Weight.md",
-    "!assets/attachments/IMG_2884.jpg",
-    "!assets/attachments/IMG_2884.png",
-    "!assets/attachments/Screenshot 2023-09-20 at 2.58.31 PM.jpg",
-    "!assets/attachments/grin.jpg",
-    "!assets/attachments/uhh.jpg",
-    "!assets/attachments/yogi crazy.jpg",
-    "!assets/attachments/crying laughing facepalm hi rez.png",
-    "!assets/attachments/lethimcook.png"
+    "!assets/attachments/IMG_2884.jpg"
   ]
 }

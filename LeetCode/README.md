@@ -25,7 +25,7 @@
 	- filling in fundeez that i feel should are not well targeted/addressed
 
 
-# reviewed (185/213)
+# reviewed (198/213)
 ## Arrays & Hashing (neetcode)
 1. [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
 2. [242. Valid Anagram](242.%20Valid%20Anagram.md)
@@ -322,16 +322,6 @@
 
 
 
-## Bit Manipulation (neetcode)
-144. [136. Single Number](136.%20Single%20Number.md)
-145. [191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
-146. [338. Counting Bits](338.%20Counting%20Bits.md)
-147. [190. Reverse Bits](190.%20Reverse%20Bits.md)
-148. [268. Missing Number](268.%20Missing%20Number.md)
-149. [371. Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
-150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
-
-
 
 ## Math & Geometry (neetcode)
 136. [48. Rotate Image](48.%20Rotate%20Image.md)
@@ -342,6 +332,17 @@
 141. [50. Pow(x, n)](50.%20Pow(x,%20n).md)
 142. [43. Multiply Strings](43.%20Multiply%20Strings.md)
 143. [2013. Detect Squares](2013.%20Detect%20Squares.md)
+
+
+## Bit Manipulation (neetcode)
+144. [136. Single Number](136.%20Single%20Number.md)
+145. [191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
+146. [338. Counting Bits](338.%20Counting%20Bits.md)
+147. [190. Reverse Bits](190.%20Reverse%20Bits.md)
+148. [268. Missing Number](268.%20Missing%20Number.md)
+149. [371. Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
+150. [7. Reverse Integer](7.%20Reverse%20Integer.md)
+
 
 
 

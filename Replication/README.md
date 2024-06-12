@@ -1,3 +1,21 @@
+# meta
+- this directory will hold writeups of anything could be considered a 'project' (of any size) as i learn ML
+- focus is on asap implementing the type of projects valued by interviewers for dream jobs
+- order of the earlier writeups might be weird to most ppl bc i might be coming in with a less traditional bg...like a weird hybrid of math + academia coder
+	- relatively strong at:
+		- pure/apma
+		- python
+		- numpy/scipy/numba
+		- image processing
+		- leetcode/dsa
+	- but relatively weak at
+		- swe
+		- ai/cv/nlp
+		- stats
+		- c/c++/architecture
+		- cuda/parallel
+
+
 # references
 - https://deepai.org/definitions
 - https://www.image-net.org/download-images.php
@@ -58,6 +76,7 @@
 		- Technical expertise: Quickly understanding systems design tradeoffs, keeping track of rapidly evolving software systems
 
 ### google (deepmind)
+- 
 
 ### meta (fair/cas/reality labs)
 - [Research Scientist - FAIR | Meta Careers](https://www.metacareers.com/jobs/803309161693980)
@@ -98,13 +117,45 @@
 		Experience in software engineering in industry.
 		Experience bringing machine learning-based products from research to production.
 
-
+### nvidia
+- https://www.nvidia.com/en-us/research/research-scientists/
 
 ### apple (ml/cv/ai; vision pro)
 
 ### microsoft (msr nyc)
 
 
+### other candidates
+- highest salaries
+	- https://www.levels.fyi/blog/ai-engineer-compensation.html
+		- netflix
+		- amazon
+		- uber
+	- https://www.levels.fyi/blog/ai-engineer-compensation-q1-2024.html
+		- linkedin
+		- bytedance
+		- airbnb
+		- stripe
+		- coupang
+			- https://en.wikipedia.org/wiki/Coupang
+				- korean e-commerce
+		- cruise
+			- https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)
+				- self-driving division of GM
+			- https://www.levels.fyi/companies/cruise/salaries
+- highest funding
+	- https://www.forbes.com/lists/ai50/
+- random big names
+	- oracle
+	- ibm
+- 'reputable' career guides
+	- https://careerservices.fas.harvard.edu/blog/2024/02/13/22-top-ai-companies-to-watch-in-2024/
+		- c3
+			- https://c3.ai/careers/
+				- probly look for engineering wtih AI focus
+		- databricks
+		- datarobot
+		- jasper
 
 
 
@@ -134,6 +185,13 @@
 	    - Medium: do some basic adversarial attacks and defences. You might want to play with [this](https://adversarial-ml-tutorial.org/) first. You could try out some attacks and defences from [this](https://course.mlsafety.org/readings/#adversarial-robustness) list of papers.
 
 ## lists of papers/projects
+- company publications
+	- https://openai.com/news/research/
+	- https://www.anthropic.com/research
+		- scroll down to 'Publications' header
+	- https://deepmind.google/research/publications/
+	- https://research.facebook.com/publications/
+		- https://ai.meta.com/results/?content_types%5B0%5D=publication
 - https://paperswithcode.com/methods/area/computer-vision
 - https://github.com/pytorch/examples
 
