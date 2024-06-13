@@ -1,14 +1,14 @@
 # meta
 - this directory will hold writeups of anything could be considered a 'project' (of any size) as i learn ML
 - focus is on asap implementing the type of projects valued by interviewers for dream jobs
-- order of the earlier writeups might be weird to most ppl bc i might be coming in with a less traditional bg...like a weird hybrid of math + academia coder
-	- relatively strong at:
+- order/content of the earlier writeups might be weird to ppl unless they're like a 'math academia coder' that did a lot of linalg + image processing 
+	- relatively strong at (aka will gloss over):
 		- pure/apma
 		- python
 		- numpy/scipy/numba
 		- image processing
 		- leetcode/dsa
-	- but relatively weak at
+	- but relatively weak at (aka might add a lot of prose that seems 'obvious')
 		- swe
 		- ai/cv/nlp
 		- stats
@@ -121,11 +121,19 @@
 - https://www.nvidia.com/en-us/research/research-scientists/
 
 ### apple (ml/cv/ai; vision pro)
+- possibly positions in 'apple intelligence' division as well? was just announced 6/11/24, and iirc apple pretty secretive about stuff, so maybe that's why they don't have postings for that group yet
 
 ### microsoft (msr nyc)
 
 
 ### other candidates
+- funded by dod
+	- usa seriously ramping up funding in industry
+		- https://time.com/6961317/ai-artificial-intelligence-us-military-spending/
+		- https://www.defense.gov/News/News-Stories/Article/Article/3578219/dod-releases-ai-adoption-strategy/
+	- https://www.ai.mil/references.html
+	- https://qz.com/the-pentagon-is-spending-billions-on-big-tech-and-silic-1851423069
+		- actually, so it looks like the biggest contracts are awarded to all the major companies anyways (microsoft, amazon, google, oracle, ibm)
 - highest salaries
 	- https://www.levels.fyi/blog/ai-engineer-compensation.html
 		- netflix

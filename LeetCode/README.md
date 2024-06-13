@@ -222,8 +222,13 @@
 166. [895. Maximum Frequency Stack](895.%20Maximum%20Frequency%20Stack.md)
 167. [32. Longest Valid Parentheses](32.%20Longest%20Valid%20Parentheses.md)
 
-
-
+## Linked List (grind75)
+168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
+169. [234. Palindrome Linked List](234.%20Palindrome%20Linked%20List.md)
+170. [24. Swap Nodes in Pairs](24.%20Swap%20Nodes%20in%20Pairs.md)
+171. [328. Odd Even Linked List](328.%20Odd%20Even%20Linked%20List.md)
+172. [148. Sort List](148.%20Sort%20List.md)
+173. [61. Rotate List](61.%20Rotate%20List.md)
 
 ## String (grind75)
 174. [409. Longest Palindrome](409.%20Longest%20Palindrome.md)
@@ -310,18 +315,6 @@
 
 
 # todo
-
-
-## Linked List (grind75)
-168. [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
-169. [234. Palindrome Linked List](234.%20Palindrome%20Linked%20List.md)
-170. [24. Swap Nodes in Pairs](24.%20Swap%20Nodes%20in%20Pairs.md)
-171. [328. Odd Even Linked List](328.%20Odd%20Even%20Linked%20List.md)
-172. [148. Sort List](148.%20Sort%20List.md)
-173. [61. Rotate List](61.%20Rotate%20List.md)
-
-
-
 
 ## Math & Geometry (neetcode)
 136. [48. Rotate Image](48.%20Rotate%20Image.md)

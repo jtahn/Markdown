@@ -20,30 +20,31 @@
             }
           },
           {
-            "id": "25110cfca3f0eacd",
+            "id": "161f74a9b9e141b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replication/0. jupyter server via LAN.md",
+                "file": "Replication/1. fastai.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ebcdcae0af6f51a",
+            "id": "7a3535a28790e2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replication/README.md",
+                "file": "LeetCode/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,11 +172,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "97faa46f2249c6e2",
+  "active": "7a3535a28790e2b7",
   "lastOpenFiles": [
-    "Replication/0. jupyter server via LAN.md",
+    "LeetCode/148. Sort List.md",
+    "!assets/attachments/Pasted image 20240612221612.png",
+    "LeetCode/61. Rotate List.md",
+    "!assets/attachments/Pasted image 20240612220649.png",
+    "LeetCode/328. Odd Even Linked List.md",
+    "!assets/attachments/Pasted image 20240612220554.png",
     "LeetCode/README.md",
     "Replication/1. fastai.md",
+    "_secondary/01 competitive programming/epi.pdf",
+    "LeetCode/24. Swap Nodes in Pairs.md",
+    "LeetCode/234. Palindrome Linked List.md",
+    "_secondary/01 competitive programming/halim2.pdf",
+    "_secondary/01 competitive programming/halim1.pdf",
+    "Replication/README.md",
+    "LeetCode/876. Middle of the Linked List.md",
+    "Replication/0. jupyter server via LAN.md",
     "Replication/96. MLP on MNIST.md",
     "Replication/98. Bahdanau Attention.md",
     "Replication/98. ViT.md",
@@ -191,8 +205,6 @@
     "Replication/98. Inception.md",
     "Replication/98. DCGAN.md",
     "Replication/0. jupyter LAN server on windows.md",
-    "Replication/README.md",
-    "Replication/0. setup.md",
     "!assets/attachments/Pasted image 20240611013354.png",
     "!assets/attachments/Pasted image 20240611012404.png",
     "!assets/attachments/Pasted image 20240611012329.png",
@@ -200,24 +212,12 @@
     "!assets/attachments/Pasted image 20240611010935.png",
     "!assets/attachments/Pasted image 20240611002451.png",
     "!assets/attachments/Pasted image 20240611001632.png",
-    "LeetCode/103. Binary Tree Zigzag Level Order Traversal.md",
-    "Replication/99. rs3 bot.md",
-    "LeetCode/101. Symmetric Tree.md",
     "_secondary/08 ai/szeliski.pdf",
-    "!assets/attachments/Pasted image 20240609013756.png",
-    "Replication/LLaMA.md",
     "_websites/jobs/meta - fair - research scientist.html",
     "_websites/jobs/meta - central applied science - research scientist.html",
     "_websites/jobs/meta - central applied science - research scientist intern.html",
     "_websites/jobs/meta - reality labs - research scientist.html",
     "_websites/jobs/meta - reality labs - research engineer.html",
-    "_websites/jobs/meta - applied ai research scientist.html",
-    "_websites/jobs/meta .html",
-    "_websites/jobs/Applied AI Research Scientist - Reinforcement Learning _ Meta Careers (6_7_2024 3_20_53 PM).html",
-    "_websites/jobs/Research Engineer - Reality Labs _ Meta Careers (6_7_2024 3_30_03 PM).html",
-    "_secondary/README.md",
-    "LeetCode/815. Bus Routes.md",
-    "!assets/attachments/Pasted image 20240607024745.png",
-    "!assets/attachments/IMG_2884.jpg"
+    "_websites/jobs/meta - applied ai research scientist.html"
   ]
 }
